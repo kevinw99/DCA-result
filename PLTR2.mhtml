@@ -1,0 +1,1695 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:3000/batch/PLTR/results?symbols=PLTR&profitRequirement=10%2C5&gridIntervalPercent=10%2C5&trailingBuyActivationPercent=0%2C5%2C10%2C15%2C20&trailingBuyReboundPercent=0%2C5%2C10%2C15%2C20&trailingSellActivationPercent=0%2C5%2C10%2C15%2C20&trailingSellPullbackPercent=0%2C5%2C10%2C15%2C20&coefficients=1&enableBetaScaling=false&enableDynamicGrid=false&normalizeToReference=true&enableConsecutiveIncrementalBuyGrid=false&enableConsecutiveIncrementalSellProfit=false&enableScenarioDetection=false
+Subject: DCA Backtesting Platform CLAUDE
+Date: Wed, 8 Oct 2025 22:06:35 -0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--SUWAHIHbdTB1QXLKp8JYLuedXKxHu0TbMEbIvnlCv1----"
+
+
+------MultipartBoundary--SUWAHIHbdTB1QXLKp8JYLuedXKxHu0TbMEbIvnlCv1----
+Content-Type: text/html
+Content-ID: <frame-615CE610C46F652B87B2DE3A822537AB@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:3000/batch/PLTR/results?symbols=PLTR&profitRequirement=10%2C5&gridIntervalPercent=10%2C5&trailingBuyActivationPercent=0%2C5%2C10%2C15%2C20&trailingBuyReboundPercent=0%2C5%2C10%2C15%2C20&trailingSellActivationPercent=0%2C5%2C10%2C15%2C20&trailingSellPullbackPercent=0%2C5%2C10%2C15%2C20&coefficients=1&enableBetaScaling=false&enableDynamicGrid=false&normalizeToReference=true&enableConsecutiveIncrementalBuyGrid=false&enableConsecutiveIncrementalSellProfit=false&enableScenarioDetection=false
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-175f79d9-95d4-40d1-acd6-6c9be74a1d6d@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-e92eca15-8fec-4390=
+-9b1a-04cdbf4315d0@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-edbcb93d-3bc8-4652-8f15-94bdb21c6692@mhtml.blink" /><link=
+ rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-8c5431b9-ce1f-49db-aa=
+42-1a6ea81108bd@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
+ref=3D"cid:css-a89dd4ae-0e96-4197-b075-59574b1228ca@mhtml.blink" /><link re=
+l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-4a5a60f2-d9df-44cf-b833-=
+c3ec1e4ba338@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-06a1f75f-4fce-4e65-a241-3fef80114363@mhtml.blink" />
+   =20
+    <link rel=3D"icon" href=3D"http://localhost:3000/favicon.ico">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+    <meta name=3D"theme-color" content=3D"#667eea">
+    <meta name=3D"description" content=3D"DCA Backtesting Platform CLAUDE- =
+Analyze Dollar Cost Averaging strategies with technical indicators">
+    <title>DCA Backtesting Platform CLAUDE</title>
+   =20
+  </head>
+  <body>
+   =20
+
+    <!-- Loading screen -->
+    <div id=3D"loading-screen" style=3D"opacity: 0; transition: opacity 0.5=
+s; display: none;">
+      <div class=3D"loading-content">
+        <div class=3D"loading-spinner"></div>
+        <h2 class=3D"loading-text">DCA Backtesting Platform</h2>
+        <p class=3D"loading-subtext">Loading application...</p>
+      </div>
+    </div>
+
+    <div id=3D"root"><div class=3D"App"><header class=3D"app-header"><div c=
+lass=3D"header-content"><h1><svg xmlns=3D"http://www.w3.org/2000/svg" width=
+=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"current=
+Color" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round=
+" class=3D"header-icon"><polyline points=3D"22 7 13.5 15.5 8.5 10.5 2 17"><=
+/polyline><polyline points=3D"16 7 22 7 22 13"></polyline></svg>DCA Backtes=
+ting Platform</h1><p>Analyze Dollar Cost Averaging strategies with technica=
+l indicators</p></div></header><nav class=3D"tab-navigation"><button class=
+=3D"tab-button "><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"18" hei=
+ght=3D"18" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stro=
+ke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"=
+lucide lucide-settings"><path d=3D"M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 =
+1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0=
+ .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73=
+ 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.7=
+3V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 =
+1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0=
+ 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 =
+0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z=
+"></path><circle cx=3D"12" cy=3D"12" r=3D"3"></circle></svg>Parameters</but=
+ton><button class=3D"tab-button " disabled=3D""><svg xmlns=3D"http://www.w3=
+.org/2000/svg" width=3D"18" height=3D"18" viewBox=3D"0 0 24 24" fill=3D"non=
+e" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stro=
+ke-linejoin=3D"round" class=3D"lucide lucide-trending-up"><polyline points=
+=3D"22 7 13.5 15.5 8.5 10.5 2 17"></polyline><polyline points=3D"16 7 22 7 =
+22 13"></polyline></svg>Chart &amp; Analysis</button><button class=3D"tab-b=
+utton active"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"18" height=
+=3D"18" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-=
+width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"luc=
+ide lucide-zap"><polygon points=3D"13 2 3 14 12 14 11 22 21 10 12 10 13 2">=
+</polygon></svg>Batch Results</button></nav><main class=3D"app-main"><div c=
+lass=3D"tab-content"><div class=3D"batch-results"><div class=3D"results-hea=
+der"><h2><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"24" height=3D"2=
+4" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=
+=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide l=
+ucide-trophy"><path d=3D"M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path><path d=3D"M1=
+8 9h1.5a2.5 2.5 0 0 0 0-5H18"></path><path d=3D"M4 22h16"></path><path d=3D=
+"M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"></path><path d=
+=3D"M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"></path><pa=
+th d=3D"M18 2H6v7a6 6 0 0 0 12 0V2Z"></path></svg>Batch Optimization Result=
+s</h2><div class=3D"execution-stats"><span>=E2=9C=85 2500 successful</span>=
+<span>=E2=9D=8C 0 failed</span><span>=E2=8F=B1=EF=B8=8F NaNs</span></div></=
+div><div class=3D"summary-section"><h3>=F0=9F=93=8A Overall Statistics</h3>=
+<div class=3D"metrics-grid"><div class=3D"metric-card"><svg xmlns=3D"http:/=
+/www.w3.org/2000/svg" width=3D"20" height=3D"20" viewBox=3D"0 0 24 24" fill=
+=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"roun=
+d" stroke-linejoin=3D"round" class=3D"lucide lucide-activity"><path d=3D"M2=
+2 12h-4l-3 9L9 3l-3 9H2"></path></svg><div><span class=3D"metric-label">Tot=
+al Combinations Tested</span><span class=3D"metric-value">2500</span></div>=
+</div><div class=3D"metric-card"><svg xmlns=3D"http://www.w3.org/2000/svg" =
+width=3D"20" height=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"cu=
+rrentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"=
+round" class=3D"lucide lucide-trending-up"><polyline points=3D"22 7 13.5 15=
+.5 8.5 10.5 2 17"></polyline><polyline points=3D"16 7 22 7 22 13"></polylin=
+e></svg><div><span class=3D"metric-label">Average Total Return</span><span =
+class=3D"metric-value">999.90%</span></div></div><div class=3D"metric-card"=
+><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"20" height=3D"20" viewB=
+ox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" s=
+troke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-ta=
+rget"><circle cx=3D"12" cy=3D"12" r=3D"10"></circle><circle cx=3D"12" cy=3D=
+"12" r=3D"6"></circle><circle cx=3D"12" cy=3D"12" r=3D"2"></circle></svg><d=
+iv><span class=3D"metric-label">Average Win Rate</span><span class=3D"metri=
+c-value">100.00%</span></div></div><div class=3D"metric-card"><svg xmlns=3D=
+"http://www.w3.org/2000/svg" width=3D"20" height=3D"20" viewBox=3D"0 0 24 2=
+4" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=
+=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-bar-chart3"><pa=
+th d=3D"M3 3v18h18"></path><path d=3D"M18 17V9"></path><path d=3D"M13 17V5"=
+></path><path d=3D"M8 17v-3"></path></svg><div><span class=3D"metric-label"=
+>Max Total Return</span><span class=3D"metric-value">+20.91%</span></div></=
+div></div></div><div class=3D"best-result-section"><h3>=F0=9F=8F=86 Best Ov=
+erall Performance</h3><div class=3D"best-result-card"><div class=3D"best-re=
+sult-header"><h4>PLTR</h4><span class=3D"return-badge">2090.75% Total Retur=
+n</span></div><div class=3D"best-params"><div class=3D"param-group"><span>P=
+rofit Req:</span><span>+10.00%</span></div><div class=3D"param-group"><span=
+>Grid Interval:</span><span>+10.00%</span></div><div class=3D"param-group">=
+<span>Buy Activation:</span><span>+0.00%</span></div><div class=3D"param-gr=
+oup"><span>Buy Rebound:</span><span>+20.00%</span></div><div class=3D"param=
+-group"><span>Sell Activation:</span><span>+5.00%</span></div><div class=3D=
+"param-group"><span>Sell Pullback:</span><span>+20.00%</span></div></div><d=
+iv class=3D"performance-summary"><div class=3D"perf-metric"><svg xmlns=3D"h=
+ttp://www.w3.org/2000/svg" width=3D"16" height=3D"16" viewBox=3D"0 0 24 24"=
+ fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D=
+"round" stroke-linejoin=3D"round" class=3D"lucide lucide-dollar-sign"><line=
+ x1=3D"12" x2=3D"12" y1=3D"2" y2=3D"22"></line><path d=3D"M17 5H9.5a3.5 3.5=
+ 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg><span>Total Return: 2090.75%=
+</span></div><div class=3D"perf-metric"><svg xmlns=3D"http://www.w3.org/200=
+0/svg" width=3D"16" height=3D"16" viewBox=3D"0 0 24 24" fill=3D"none" strok=
+e=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linej=
+oin=3D"round" class=3D"lucide lucide-activity"><path d=3D"M22 12h-4l-3 9L9 =
+3l-3 9H2"></path></svg><span>Trades: 4</span></div><div class=3D"perf-metri=
+c"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"16" height=3D"16" vie=
+wBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2"=
+ stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-=
+target"><circle cx=3D"12" cy=3D"12" r=3D"10"></circle><circle cx=3D"12" cy=
+=3D"12" r=3D"6"></circle><circle cx=3D"12" cy=3D"12" r=3D"2"></circle></svg=
+><span>Win Rate: 100.00%</span></div><div class=3D"perf-metric"><svg xmlns=
+=3D"http://www.w3.org/2000/svg" width=3D"16" height=3D"16" viewBox=3D"0 0 2=
+4 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linec=
+ap=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-percent"><lin=
+e x1=3D"19" x2=3D"5" y1=3D"5" y2=3D"19"></line><circle cx=3D"6.5" cy=3D"6.5=
+" r=3D"2.5"></circle><circle cx=3D"17.5" cy=3D"17.5" r=3D"2.5"></circle></s=
+vg><span>Max Drawdown: 31.89%</span></div></div></div></div><div class=3D"s=
+tock-best-section"><h3>=F0=9F=93=88 Best Parameters by Stock</h3><div class=
+=3D"stock-best-grid"><div class=3D"stock-best-card"><div class=3D"stock-hea=
+der"><h4>PLTR</h4><div class=3D"stock-returns"><span>Best Total Return: +20=
+.91%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=8E=AF =
+Best Parameters for Total Return</h5><div class=3D"mini-params"><span>Profi=
+t: +10.00%</span><span>Grid: +10.00%</span><span>Buy Activation: +0.00%</sp=
+an><span>Buy Rebound: +20.00%</span><span>Sell Activation: +5.00%</span><sp=
+an>Sell Pullback: +20.00%</span></div></div></div></div></div><div class=3D=
+"detailed-results-section"><div class=3D"results-controls"><h3>=F0=9F=93=8B=
+ Detailed Results</h3><div class=3D"filter-controls"><div class=3D"stock-fi=
+lter"><label for=3D"stock-filter">Filter by Stock:</label><select id=3D"sto=
+ck-filter"><option value=3D"all">All Stocks (top 5 per stock, 5 total resul=
+ts)</option><option value=3D"PLTR">PLTR (top 10 of 2500 results)</option></=
+select></div><div class=3D"beta-filter"><label for=3D"beta-filter">Filter b=
+y Coefficient:</label><select id=3D"beta-filter"><option value=3D"all">All =
+Coefficients (5 results)</option><option value=3D"1">Coefficient =3D 1.00 (=
+2500 results)</option></select></div></div></div><div class=3D"results-tabl=
+e-container"><table class=3D"results-table"><thead><tr><th>Actions</th><th>=
+Rank</th><th>Stock</th><th>Beta</th><th>Coeff</th><th>=CE=B2-Factor</th><th=
+>Total Return</th><th>CAGR on Max Deployed</th><th>CAGR on Avg Deployed</th=
+><th>Return on Max Deployed</th><th>Sharpe Ratio</th><th>Sortino Ratio</th>=
+<th>Total Trades</th><th>Win Rate</th><th>Avg Profit/Trade</th><th>Max Draw=
+down</th><th>Capital Util.</th><th>Max Lots/Sell</th><th>Profit Req.</th><t=
+h>Grid Int.</th><th>Buy Act.</th><th>Buy Rebound</th><th>Sell Act.</th><th>=
+Sell Pullback</th></tr></thead><tbody><tr class=3D"top-result"><td><button =
+class=3D"run-single-button" title=3D"Run single backtest in new window">=F0=
+=9F=93=8A Run</button></td><td>1</td><td class=3D"stock-cell">PLTR</td><td =
+class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td cl=
+ass=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><div s=
+tyle=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"fon=
+t-weight: bold;">$479,714.57</div><div style=3D"font-size: 0.85em;">2090.75=
+% | Avg: $22,944.61</div><div style=3D"font-size: 0.85em; color: rgb(102, 1=
+02, 102);">Max: $30,000.00</div></div></td><td class=3D"return-cell positiv=
+e">106.52%</td><td class=3D"return-cell positive">120.54%</td><td class=3D"=
+return-cell positive">1599.05%</td><td class=3D"ratio-cell">1.39</td><td cl=
+ass=3D"ratio-cell">2.09</td><td>4</td><td>100.00%</td><td class=3D"return-c=
+ell positive">$5,479.94</td><td class=3D"drawdown-cell">31.89%</td><td>0.00=
+%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+20.00%<=
+/td><td>+5.00%</td><td>+20.00%</td></tr><tr class=3D"top-result"><td><butto=
+n class=3D"run-single-button" title=3D"Run single backtest in new window">=
+=F0=9F=93=8A Run</button></td><td>2</td><td class=3D"stock-cell">PLTR</td><=
+td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td=
+ class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><di=
+v style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"=
+font-weight: bold;">$479,714.57</div><div style=3D"font-size: 0.85em;">2090=
+.75% | Avg: $22,944.61</div><div style=3D"font-size: 0.85em; color: rgb(102=
+, 102, 102);">Max: $30,000.00</div></div></td><td class=3D"return-cell posi=
+tive">106.52%</td><td class=3D"return-cell positive">120.54%</td><td class=
+=3D"return-cell positive">1599.05%</td><td class=3D"ratio-cell">1.39</td><t=
+d class=3D"ratio-cell">2.09</td><td>4</td><td>100.00%</td><td class=3D"retu=
+rn-cell positive">$5,479.94</td><td class=3D"drawdown-cell">31.89%</td><td>=
+0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+20.=
+00%</td><td>+10.00%</td><td>+20.00%</td></tr><tr class=3D"top-result"><td><=
+button class=3D"run-single-button" title=3D"Run single backtest in new wind=
+ow">=F0=9F=93=8A Run</button></td><td>3</td><td class=3D"stock-cell">PLTR</=
+td><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td=
+><td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"=
+><div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">$479,714.57</div><div style=3D"font-size: 0.85em;">=
+2090.75% | Avg: $22,944.61</div><div style=3D"font-size: 0.85em; color: rgb=
+(102, 102, 102);">Max: $30,000.00</div></div></td><td class=3D"return-cell =
+positive">106.52%</td><td class=3D"return-cell positive">120.54%</td><td cl=
+ass=3D"return-cell positive">1599.05%</td><td class=3D"ratio-cell">1.39</td=
+><td class=3D"ratio-cell">2.09</td><td>4</td><td>100.00%</td><td class=3D"r=
+eturn-cell positive">$5,479.94</td><td class=3D"drawdown-cell">31.89%</td><=
+td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+=
+20.00%</td><td>+15.00%</td><td>+20.00%</td></tr><tr class=3D"top-result"><t=
+d><button class=3D"run-single-button" title=3D"Run single backtest in new w=
+indow">=F0=9F=93=8A Run</button></td><td>4</td><td class=3D"stock-cell">PLT=
+R</td><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00<=
+/td><td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positi=
+ve"><div style=3D"display: flex; flex-direction: column; gap: 2px;"><div st=
+yle=3D"font-weight: bold;">$479,714.57</div><div style=3D"font-size: 0.85em=
+;">2090.75% | Avg: $22,944.61</div><div style=3D"font-size: 0.85em; color: =
+rgb(102, 102, 102);">Max: $30,000.00</div></div></td><td class=3D"return-ce=
+ll positive">106.52%</td><td class=3D"return-cell positive">120.54%</td><td=
+ class=3D"return-cell positive">1599.05%</td><td class=3D"ratio-cell">1.39<=
+/td><td class=3D"ratio-cell">2.09</td><td>4</td><td>100.00%</td><td class=
+=3D"return-cell positive">$5,479.94</td><td class=3D"drawdown-cell">31.89%<=
+/td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td>=
+<td>+20.00%</td><td>+20.00%</td><td>+20.00%</td></tr><tr class=3D"top-resul=
+t"><td><button class=3D"run-single-button" title=3D"Run single backtest in =
+new window">=F0=9F=93=8A Run</button></td><td>5</td><td class=3D"stock-cell=
+">PLTR</td><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">=
+1.00</td><td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell p=
+ositive"><div style=3D"display: flex; flex-direction: column; gap: 2px;"><d=
+iv style=3D"font-weight: bold;">$479,714.57</div><div style=3D"font-size: 0=
+.85em;">2090.75% | Avg: $22,944.61</div><div style=3D"font-size: 0.85em; co=
+lor: rgb(102, 102, 102);">Max: $30,000.00</div></div></td><td class=3D"retu=
+rn-cell positive">106.52%</td><td class=3D"return-cell positive">120.54%</t=
+d><td class=3D"return-cell positive">1599.05%</td><td class=3D"ratio-cell">=
+1.39</td><td class=3D"ratio-cell">2.09</td><td>4</td><td>100.00%</td><td cl=
+ass=3D"return-cell positive">$5,479.94</td><td class=3D"drawdown-cell">31.8=
+9%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+5.00%</=
+td><td>+20.00%</td><td>+5.00%</td><td>+20.00%</td></tr></tbody></table></di=
+v></div><div class=3D"report-explanation"><h3>=F0=9F=93=9A Report Metrics E=
+xplained</h3><div class=3D"explanation-grid"><div class=3D"explanation-item=
+"><strong>Beta:</strong> Stock's volatility relative to market (fetched fro=
+m Yahoo Finance). Beta=3D1.0 moves with market, Beta&gt;1.0 more volatile, =
+Beta&lt;1.0 less volatile.</div><div class=3D"explanation-item"><strong>Coe=
+fficient:</strong> User-selected multiplier (0.25-3.0) to amplify or reduce=
+ Beta's effect on parameter scaling.</div><div class=3D"explanation-item"><=
+strong>=CE=B2-Factor:</strong> Beta =C3=97 Coefficient =3D final multiplier=
+ used for parameter calculations (e.g., TSLA Beta=3D2.1 =C3=97 Coeff=3D1.5 =
+=3D =CE=B2-Factor=3D3.15).</div><div class=3D"explanation-item"><strong>Tot=
+al Return:</strong> (Final Portfolio Value - Initial Investment) / Initial =
+Investment</div><div class=3D"explanation-item"><strong>CAGR on Max Deploye=
+d:</strong> Compound Annual Growth Rate based on maximum capital actually d=
+eployed (most realistic annualized return metric)</div><div class=3D"explan=
+ation-item"><strong>CAGR on Avg Deployed:</strong> CAGR based on average ca=
+pital deployed over time (shows capital efficiency)</div><div class=3D"expl=
+anation-item"><strong>Return on Max Deployed:</strong> Total return percent=
+age based on peak capital used, not total available capital</div><div class=
+=3D"explanation-item"><strong>Sharpe Ratio:</strong> Risk-adjusted return m=
+etric: (Avg Return - Risk-Free Rate) / Volatility. Higher is better (&gt;1.=
+0 is good, &gt;2.0 is excellent)</div><div class=3D"explanation-item"><stro=
+ng>Sortino Ratio:</strong> Like Sharpe but only penalizes downside volatili=
+ty. Higher is better (&gt;1.0 is good, &gt;2.0 is excellent)</div><div clas=
+s=3D"explanation-item"><strong>Total Trades:</strong> Total number of buy a=
+nd sell transactions executed</div><div class=3D"explanation-item"><strong>=
+Win Rate:</strong> Number of profitable trades / Total number of trades</di=
+v><div class=3D"explanation-item"><strong>Average Profit per Trade:</strong=
+> Total realized profit / Total number of sell trades</div><div class=3D"ex=
+planation-item"><strong>Maximum Drawdown:</strong> Largest peak-to-trough d=
+ecline in portfolio value</div><div class=3D"explanation-item"><strong>Capi=
+tal Utilization:</strong> Average capital deployed / Total available capita=
+l</div></div></div></div></div></main></div></div>
+
+   =20
+ =20
+
+<span id=3D"okta-plugin-message-channel-available" style=3D"display: none;"=
+></span></body></html>
+------MultipartBoundary--SUWAHIHbdTB1QXLKp8JYLuedXKxHu0TbMEbIvnlCv1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-06a1f75f-4fce-4e65-a241-3fef80114363@mhtml.blink
+
+@charset "utf-8";
+
+.village-iframe { width: 100%; height: 100%; border: none; display: block; =
+position: fixed; top: 0px; left: 0px; z-index: 2147483647; background: rgba=
+(0, 0, 0, 0.24); color-scheme: light; }
+
+.village-iframe.village-loading { display: flex; justify-content: center; a=
+lign-items: center; }
+
+.village-iframe > .village-spinner { width: 1.5rem; height: 1.5rem; border-=
+width: 2px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) tr=
+ansparent transparent; border-image: initial; border-radius: 50%; animation=
+: 0.45s linear 0s infinite normal none running spin; }
+
+.village-iframe.village-hidden { display: none; }
+
+@keyframes spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.village-hidden { display: none; }
+
+[village-paths-data=3D"facepiles"] { display: flex; align-items: center; pa=
+dding-right: 0.5rem; }
+
+[village-paths-data=3D"facepiles"] img { width: 1.5rem; height: 1.5rem; bor=
+der-radius: 50%; margin-right: -0.5rem; }
+
+[village-paths-data=3D"facepiles"] img.village-facepiler-avatar-not-found {=
+ filter: blur(7px); }
+
+[village-paths-data=3D"facepiles"] img:last-child { margin-right: 0px; }
+
+[village-paths-data=3D"count"] { padding-right: 0.25rem; }
+
+[village-paths-availability=3D"error"], [village-paths-availability=3D"foun=
+d"], [village-paths-availability=3D"not-found"], [village-paths-availabilit=
+y=3D"not-activated"] { display: none !important; }
+
+[village-paths-availability=3D"loading"] { display: inline-flex !important;=
+ }
+------MultipartBoundary--SUWAHIHbdTB1QXLKp8JYLuedXKxHu0TbMEbIvnlCv1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-4a5a60f2-d9df-44cf-b833-c3ec1e4ba338@mhtml.blink
+
+@charset "utf-8";
+
+.batch-progress-banner { background: linear-gradient(135deg, rgb(102, 126, =
+234) 0%, rgb(118, 75, 162) 100%); color: white; padding: 1.5rem; border-rad=
+ius: 12px; margin-bottom: 1.5rem; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6p=
+x, rgba(0, 0, 0, 0.08) 0px 1px 3px; animation: 0.3s ease-in 0s 1 normal non=
+e running fadeIn; }
+
+.batch-progress-banner.running { background: linear-gradient(135deg, rgb(10=
+2, 126, 234) 0%, rgb(118, 75, 162) 100%); }
+
+.batch-progress-banner.connecting { background: linear-gradient(135deg, rgb=
+(96, 165, 250) 0%, rgb(59, 130, 246) 100%); display: flex; align-items: cen=
+ter; gap: 1rem; padding: 1rem 1.5rem; }
+
+.batch-progress-banner.error { background: linear-gradient(135deg, rgb(248,=
+ 113, 113) 0%, rgb(239, 68, 68) 100%); display: flex; align-items: center; =
+gap: 1rem; padding: 1rem 1.5rem; }
+
+.progress-spinner { width: 24px; height: 24px; border-width: 3px; border-st=
+yle: solid; border-color: white rgba(255, 255, 255, 0.3) rgba(255, 255, 255=
+, 0.3); border-image: initial; border-radius: 50%; animation: 1s linear 0s =
+infinite normal none running spin; }
+
+@keyframes spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes fadeIn {=20
+  0% { opacity: 0; transform: translateY(-10px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.progress-icon { font-size: 1.5rem; }
+
+.progress-content { flex: 1 1 0%; }
+
+.progress-header { display: flex; justify-content: space-between; align-ite=
+ms: center; margin-bottom: 1rem; flex-wrap: wrap; gap: 0.5rem; }
+
+.progress-title { font-size: 1.125rem; font-weight: 600; letter-spacing: 0.=
+025em; }
+
+.progress-subtitle { font-size: 0.875rem; opacity: 0.9; margin-top: 0.25rem=
+; }
+
+.progress-timing { display: flex; align-items: center; gap: 0.75rem; font-s=
+ize: 0.875rem; opacity: 0.9; }
+
+.progress-timing .divider { opacity: 0.5; }
+
+.progress-bar-container { background: rgba(255, 255, 255, 0.2); border-radi=
+us: 9999px; height: 8px; overflow: hidden; margin-bottom: 1rem; }
+
+.progress-bar-fill { background: white; height: 100%; border-radius: 9999px=
+; transition: width 0.5s ease-out; box-shadow: rgba(255, 255, 255, 0.5) 0px=
+ 0px 10px; }
+
+.progress-details { display: flex; flex-direction: column; gap: 0.75rem; fo=
+nt-size: 0.875rem; }
+
+.detail-row { display: flex; flex-wrap: wrap; gap: 1.5rem; }
+
+.detail-item { display: flex; align-items: center; gap: 0.5rem; }
+
+.detail-label { opacity: 0.8; font-weight: 500; }
+
+.detail-value { font-weight: 600; background: rgba(255, 255, 255, 0.2); pad=
+ding: 0.25rem 0.75rem; border-radius: 6px; }
+
+.detail-value.success { background: rgba(16, 185, 129, 0.3); }
+
+.detail-value.error { background: rgba(239, 68, 68, 0.3); }
+
+.best-result { margin-top: 0.5rem; padding-top: 1rem; border-top: 1px solid=
+ rgba(255, 255, 255, 0.2); }
+
+.best-result-label { font-weight: 600; margin-bottom: 0.5rem; opacity: 0.9;=
+ }
+
+.best-result-content { display: flex; align-items: center; flex-wrap: wrap;=
+ gap: 0.75rem; font-size: 0.875rem; }
+
+.best-symbol { font-weight: 700; font-size: 1rem; background: rgba(255, 255=
+, 255, 0.25); padding: 0.25rem 0.75rem; border-radius: 6px; }
+
+.best-divider { opacity: 0.5; }
+
+.best-return, .best-total { font-weight: 600; }
+
+@media (max-width: 640px) {
+  .batch-progress-banner { padding: 1rem; }
+  .progress-header { flex-direction: column; align-items: flex-start; }
+  .progress-title { font-size: 1rem; }
+  .detail-row { gap: 1rem; }
+  .best-result-content { flex-direction: column; align-items: flex-start; g=
+ap: 0.5rem; }
+  .best-divider { display: none; }
+}
+------MultipartBoundary--SUWAHIHbdTB1QXLKp8JYLuedXKxHu0TbMEbIvnlCv1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a89dd4ae-0e96-4197-b075-59574b1228ca@mhtml.blink
+
+@charset "utf-8";
+
+.performance-summary { background: rgb(255, 255, 255); border: 1px solid rg=
+b(224, 224, 224); border-radius: 8px; padding: 24px; margin: 24px 0px; box-=
+shadow: rgba(0, 0, 0, 0.05) 0px 2px 4px; }
+
+.performance-title { margin: 0px 0px 20px; font-size: 20px; font-weight: 60=
+0; color: rgb(51, 51, 51); border-bottom: 2px solid rgb(74, 144, 226); padd=
+ing-bottom: 10px; }
+
+.metrics-grid { display: grid; grid-template-columns: repeat(auto-fit, minm=
+ax(280px, 1fr)); gap: 24px; margin-bottom: 20px; }
+
+.metric-section { background: rgb(248, 249, 250); border: 1px solid rgb(233=
+, 236, 239); border-radius: 6px; padding: 16px; }
+
+.section-title { margin: 0px 0px 12px; font-size: 14px; font-weight: 600; c=
+olor: rgb(85, 85, 85); text-transform: uppercase; letter-spacing: 0.5px; bo=
+rder-bottom: 1px solid rgb(222, 226, 230); padding-bottom: 8px; }
+
+.metric-row { display: flex; justify-content: space-between; align-items: c=
+enter; padding: 8px 0px; border-bottom: 1px solid rgb(240, 240, 240); }
+
+.metric-row:last-child { border-bottom: none; }
+
+.metric-label { font-size: 13px; color: rgb(102, 102, 102); font-weight: 50=
+0; }
+
+.metric-value { font-size: 14px; font-weight: 600; padding: 4px 12px; borde=
+r-radius: 4px; text-align: right; }
+
+.metric-value.excellent { background-color: rgb(212, 237, 218); color: rgb(=
+21, 87, 36); border: 1px solid rgb(195, 230, 203); }
+
+.metric-value.good { background-color: rgb(209, 236, 241); color: rgb(12, 8=
+4, 96); border: 1px solid rgb(190, 229, 235); }
+
+.metric-value.neutral { background-color: rgb(226, 227, 229); color: rgb(56=
+, 61, 65); border: 1px solid rgb(214, 216, 219); }
+
+.metric-value.poor { background-color: rgb(248, 215, 218); color: rgb(114, =
+28, 36); border: 1px solid rgb(245, 198, 203); }
+
+.metric-notes { background: rgb(255, 243, 205); border: 1px solid rgb(255, =
+238, 186); border-radius: 4px; padding: 12px 16px; margin-top: 16px; }
+
+.metric-notes .note { margin: 0px; font-size: 13px; color: rgb(133, 100, 4)=
+; line-height: 1.5; }
+
+.metric-notes strong { font-weight: 600; }
+
+@media (max-width: 768px) {
+  .metrics-grid { grid-template-columns: 1fr; }
+  .performance-summary { padding: 16px; }
+  .metric-row { flex-direction: column; align-items: flex-start; gap: 4px; =
+}
+  .metric-value { align-self: flex-end; }
+}
+
+@media (min-width: 1200px) {
+  .metrics-grid { grid-template-columns: repeat(3, 1fr); }
+}
+------MultipartBoundary--SUWAHIHbdTB1QXLKp8JYLuedXKxHu0TbMEbIvnlCv1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-8c5431b9-ce1f-49db-aa42-1a6ea81108bd@mhtml.blink
+
+@charset "utf-8";
+
+.beta-controls { background: rgb(248, 249, 250); border: 1px solid rgb(233,=
+ 236, 239); border-radius: 8px; padding: 16px; margin-bottom: 16px; }
+
+.beta-header { display: flex; flex-direction: column; gap: 8px; margin-bott=
+om: 16px; }
+
+.beta-header h3 { margin: 0px; font-size: 16px; font-weight: 600; color: rg=
+b(73, 80, 87); display: flex; align-items: center; gap: 8px; }
+
+.beta-loading-spinner { animation: 1s linear 0s infinite normal none runnin=
+g spin; }
+
+@keyframes spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.beta-value-section { display: flex; align-items: center; gap: 8px; }
+
+.beta-display { display: flex; align-items: center; gap: 8px; }
+
+.beta-value { font-size: 24px; font-weight: 700; color: rgb(0, 123, 255); }
+
+.beta-edit-btn { background: none; border: none; cursor: pointer; padding: =
+4px; border-radius: 4px; color: rgb(108, 117, 125); transition: 0.2s; }
+
+.beta-edit-btn:hover:not(:disabled) { background: rgb(233, 236, 239); color=
+: rgb(73, 80, 87); }
+
+.beta-edit-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.beta-edit-controls { display: flex; align-items: center; gap: 8px; }
+
+.beta-input { width: 80px; padding: 4px 8px; border: 1px solid rgb(206, 212=
+, 218); border-radius: 4px; font-size: 16px; }
+
+.beta-save-btn, .beta-cancel-btn { padding: 4px 12px; border: none; border-=
+radius: 4px; cursor: pointer; font-size: 12px; transition: 0.2s; }
+
+.beta-save-btn { background: rgb(40, 167, 69); color: white; }
+
+.beta-save-btn:hover { background: rgb(33, 136, 56); }
+
+.beta-cancel-btn { background: rgb(108, 117, 125); color: white; }
+
+.beta-cancel-btn:hover { background: rgb(90, 98, 104); }
+
+.beta-status { display: flex; flex-direction: column; gap: 4px; font-size: =
+12px; color: rgb(108, 117, 125); }
+
+.beta-source { font-weight: 500; }
+
+.beta-last-updated { font-style: italic; }
+
+.beta-error { background: rgb(248, 215, 218); color: rgb(114, 28, 36); padd=
+ing: 8px 12px; border-radius: 4px; margin-bottom: 16px; font-size: 14px; }
+
+.beta-explanation { background: rgb(231, 243, 255); border: 1px solid rgb(1=
+79, 217, 255); border-radius: 4px; padding: 12px; margin-bottom: 16px; }
+
+.beta-explanation p { margin: 0px 0px 8px; font-weight: 500; color: rgb(0, =
+86, 179); }
+
+.beta-explanation ul { margin: 0px; padding-left: 20px; }
+
+.beta-explanation li { margin-bottom: 4px; color: rgb(73, 80, 87); font-siz=
+e: 14px; }
+
+.beta-controls-section { display: flex; justify-content: space-between; ali=
+gn-items: center; margin-bottom: 16px; flex-wrap: wrap; gap: 12px; }
+
+.beta-scaling-toggle label { display: flex; align-items: center; gap: 8px; =
+cursor: pointer; font-weight: 500; color: rgb(73, 80, 87); }
+
+.beta-scaling-toggle input[type=3D"checkbox"] { width: 16px; height: 16px; =
+}
+
+.beta-override-section { display: flex; align-items: center; gap: 8px; }
+
+.beta-override-btn, .beta-reset-btn { padding: 6px 12px; border: 1px solid =
+rgb(0, 123, 255); background: white; color: rgb(0, 123, 255); border-radius=
+: 4px; cursor: pointer; font-size: 14px; transition: 0.2s; display: flex; a=
+lign-items: center; gap: 4px; }
+
+.beta-override-btn:hover:not(:disabled) { background: rgb(0, 123, 255); col=
+or: white; }
+
+.beta-reset-btn { border-color: rgb(108, 117, 125); color: rgb(108, 117, 12=
+5); }
+
+.beta-reset-btn:hover:not(:disabled) { background: rgb(108, 117, 125); colo=
+r: white; }
+
+.beta-override-btn:disabled, .beta-reset-btn:disabled { opacity: 0.5; curso=
+r: not-allowed; }
+
+.beta-parameter-adjustments { border-top: 1px solid rgb(233, 236, 239); pad=
+ding-top: 16px; }
+
+.beta-parameter-adjustments h4 { margin: 0px 0px 12px; font-size: 14px; fon=
+t-weight: 600; color: rgb(73, 80, 87); }
+
+.beta-warning { background: rgb(255, 243, 205); color: rgb(133, 100, 4); pa=
+dding: 8px 12px; border-radius: 4px; margin-bottom: 12px; font-size: 14px; =
+border: 1px solid rgb(255, 234, 167); }
+
+.parameter-comparison-grid { display: grid; grid-template-columns: repeat(a=
+uto-fit, minmax(250px, 1fr)); gap: 12px; }
+
+.parameter-comparison { background: white; border: 1px solid rgb(233, 236, =
+239); border-radius: 4px; padding: 12px; }
+
+.parameter-label { display: block; font-weight: 500; color: rgb(73, 80, 87)=
+; margin-bottom: 8px; font-size: 14px; }
+
+.parameter-values { display: flex; align-items: center; gap: 8px; font-size=
+: 14px; }
+
+.base-value { color: rgb(108, 117, 125); font-family: monospace; }
+
+.arrow { color: rgb(0, 123, 255); font-weight: bold; }
+
+.adjusted-value { color: rgb(0, 123, 255); font-weight: 600; font-family: m=
+onospace; }
+
+.beta-calculation { margin: 12px 0px; padding: 12px; background-color: rgb(=
+248, 249, 250); border-radius: 6px; border-left: 3px solid rgb(0, 123, 255)=
+; }
+
+.calculation-row { display: flex; align-items: center; justify-content: spa=
+ce-between; margin: 6px 0px; padding: 4px 0px; }
+
+.calculation-row.calculation-result { margin-top: 8px; padding-top: 8px; bo=
+rder-top: 1px solid rgb(222, 226, 230); font-weight: 600; }
+
+.calc-label { font-size: 14px; color: rgb(108, 117, 125); font-weight: 500;=
+ flex: 0 0 140px; }
+
+.calc-value { font-family: monospace; font-size: 16px; font-weight: 600; co=
+lor: rgb(73, 80, 87); flex: 0 0 auto; }
+
+.calc-value.beta-factor { color: rgb(0, 123, 255); font-size: 18px; }
+
+.calc-formula { font-size: 12px; color: rgb(108, 117, 125); font-family: mo=
+nospace; margin-left: 8px; flex: 1 1 0%; text-align: right; }
+
+@media (max-width: 768px) {
+  .beta-controls-section { flex-direction: column; align-items: stretch; }
+  .beta-override-section { justify-content: center; }
+  .parameter-comparison-grid { grid-template-columns: 1fr; }
+  .beta-header { text-align: center; }
+  .beta-value-section { justify-content: center; }
+}
+------MultipartBoundary--SUWAHIHbdTB1QXLKp8JYLuedXKxHu0TbMEbIvnlCv1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-edbcb93d-3bc8-4652-8f15-94bdb21c6692@mhtml.blink
+
+@charset "utf-8";
+
+.App { min-height: 100vh; background: linear-gradient(135deg, rgb(102, 126,=
+ 234) 0%, rgb(118, 75, 162) 100%); font-family: "Segoe UI", Tahoma, Geneva,=
+ Verdana, sans-serif; }
+
+.app-header { background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(=
+10px); padding: 2rem 0px; margin-bottom: 2rem; box-shadow: rgba(0, 0, 0, 0.=
+1) 0px 4px 6px; }
+
+.header-content { max-width: min(1600px, 95vw); margin: 0px auto; padding: =
+0px 2rem; text-align: center; }
+
+.header-content h1 { display: flex; align-items: center; justify-content: c=
+enter; gap: 1rem; margin: 0px 0px 0.5rem; font-size: 2.5rem; color: rgb(45,=
+ 55, 72); font-weight: 700; }
+
+.header-icon { color: rgb(102, 126, 234); }
+
+.header-content p { color: rgb(113, 128, 150); font-size: 1.1rem; margin: 0=
+px; }
+
+.tab-navigation { max-width: min(1600px, 95vw); margin: 0px auto 2rem; padd=
+ing: 0px 2rem; display: flex; gap: 1rem; justify-content: center; }
+
+.tab-button { display: flex; align-items: center; gap: 0.5rem; padding: 1re=
+m 2rem; background: rgba(255, 255, 255, 0.9); border: 2px solid transparent=
+; border-radius: 12px; color: rgb(74, 85, 104); font-weight: 600; cursor: p=
+ointer; transition: 0.3s; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px; }
+
+.tab-button:hover:not(:disabled) { background: white; transform: translateY=
+(-2px); box-shadow: rgba(0, 0, 0, 0.15) 0px 4px 8px; }
+
+.tab-button.active { background: white; border-color: rgb(102, 126, 234); c=
+olor: rgb(102, 126, 234); box-shadow: rgba(102, 126, 234, 0.25) 0px 4px 8px=
+; }
+
+.tab-button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.app-main { max-width: min(1600px, 95vw); margin: 0px auto; padding: 0px 2r=
+em 4rem; }
+
+.tab-content { background: rgba(255, 255, 255, 0.95); backdrop-filter: blur=
+(10px); border-radius: 16px; padding: 2rem; box-shadow: rgba(0, 0, 0, 0.1) =
+0px 8px 32px; border: 1px solid rgba(255, 255, 255, 0.2); }
+
+.error-banner { background: rgb(254, 215, 215); border: 1px solid rgb(254, =
+178, 178); color: rgb(197, 48, 48); padding: 1rem; border-radius: 8px; marg=
+in-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem; }
+
+.validation-error { background: rgb(254, 245, 231); border: 1px solid rgb(2=
+46, 173, 85); color: rgb(192, 86, 33); padding: 0.75rem; border-radius: 8px=
+; margin: 0.5rem 0px; display: flex; align-items: flex-start; gap: 0.5rem; =
+font-size: 0.9rem; }
+
+.validation-error strong { flex-shrink: 0; }
+
+.loading-banner { background: rgb(190, 227, 248); border: 1px solid rgb(144=
+, 205, 244); color: rgb(43, 108, 176); padding: 1rem; border-radius: 8px; m=
+argin-bottom: 1rem; display: flex; align-items: center; gap: 1rem; }
+
+.loading-spinner { width: 20px; height: 20px; border-width: 2px; border-sty=
+le: solid; border-color: rgb(43, 108, 176) rgb(144, 205, 244) rgb(144, 205,=
+ 244); border-image: initial; border-radius: 50%; animation: 1s linear 0s i=
+nfinite normal none running spin; }
+
+@keyframes spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.form-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(=
+300px, 1fr)); gap: 2rem; margin-bottom: 2rem; }
+
+.form-group { display: flex; flex-direction: column; gap: 0.5rem; }
+
+.form-group label { font-weight: 600; color: rgb(45, 55, 72); font-size: 0.=
+9rem; }
+
+.form-group input, .form-group select { padding: 0.75rem 1rem; border: 2px =
+solid rgb(226, 232, 240); border-radius: 8px; font-size: 1rem; transition: =
+border-color 0.3s; }
+
+.form-group input:focus, .form-group select:focus { outline: none; border-c=
+olor: rgb(102, 126, 234); box-shadow: rgba(102, 126, 234, 0.1) 0px 0px 0px =
+3px; }
+
+.form-help { font-size: 0.8rem; color: rgb(113, 128, 150); font-style: ital=
+ic; }
+
+.custom-symbol-input { display: flex; gap: 0.5rem; align-items: center; }
+
+.custom-symbol-input input { flex: 1 1 0%; margin-bottom: 0px; }
+
+.add-symbol-button { background: linear-gradient(135deg, rgb(56, 161, 105) =
+0%, rgb(47, 133, 90) 100%); color: white; border: none; padding: 0.75rem 1.=
+5rem; border-radius: 8px; font-weight: 600; cursor: pointer; transition: 0.=
+3s; white-space: nowrap; }
+
+.add-symbol-button:hover:not(:disabled) { transform: translateY(-2px); box-=
+shadow: rgba(56, 161, 105, 0.3) 0px 4px 12px; }
+
+.add-symbol-button:disabled { background: rgb(203, 213, 224); cursor: not-a=
+llowed; transform: none; box-shadow: none; }
+
+.run-single-button { background: linear-gradient(135deg, rgb(102, 126, 234)=
+ 0%, rgb(118, 75, 162) 100%); color: white; border: none; padding: 0.5rem 0=
+.75rem; border-radius: 6px; font-size: 0.8rem; font-weight: 600; cursor: po=
+inter; transition: 0.3s; white-space: nowrap; }
+
+.run-single-button:hover { transform: translateY(-1px); box-shadow: rgba(10=
+2, 126, 234, 0.3) 0px 4px 12px; }
+
+.form-actions { display: flex; gap: 1rem; justify-content: center; align-it=
+ems: center; margin-top: 2rem; }
+
+.submit-button { background: linear-gradient(135deg, rgb(102, 126, 234) 0%,=
+ rgb(118, 75, 162) 100%); color: white; border: none; padding: 1rem 2rem; b=
+order-radius: 12px; font-size: 1.1rem; font-weight: 600; cursor: pointer; t=
+ransition: 0.3s; display: flex; align-items: center; justify-content: cente=
+r; gap: 0.5rem; min-width: 200px; }
+
+.submit-button:hover:not(:disabled) { transform: translateY(-2px); box-shad=
+ow: rgba(102, 126, 234, 0.3) 0px 8px 16px; }
+
+.submit-button:disabled { opacity: 0.7; cursor: not-allowed; transform: non=
+e; }
+
+.reset-button { background: linear-gradient(135deg, rgb(108, 117, 125) 0%, =
+rgb(90, 98, 104) 100%); color: white; border: none; padding: 1rem 1.5rem; b=
+order-radius: 12px; font-size: 1rem; font-weight: 600; cursor: pointer; tra=
+nsition: 0.3s; display: flex; align-items: center; justify-content: center;=
+ gap: 0.5rem; min-width: 180px; }
+
+.reset-button:hover:not(:disabled) { transform: translateY(-2px); box-shado=
+w: rgba(108, 117, 125, 0.3) 0px 6px 12px; background: linear-gradient(135de=
+g, rgb(90, 98, 104) 0%, rgb(73, 80, 87) 100%); }
+
+.reset-button:disabled { opacity: 0.7; cursor: not-allowed; transform: none=
+; }
+
+.save-default-button { background: linear-gradient(135deg, rgb(16, 185, 129=
+) 0%, rgb(5, 150, 105) 100%); color: white; border: none; padding: 1rem 1.5=
+rem; border-radius: 12px; font-size: 1rem; font-weight: 600; cursor: pointe=
+r; transition: 0.3s; display: flex; align-items: center; justify-content: c=
+enter; gap: 0.5rem; min-width: 180px; }
+
+.save-default-button:hover:not(:disabled) { transform: translateY(-2px); bo=
+x-shadow: rgba(16, 185, 129, 0.3) 0px 6px 12px; background: linear-gradient=
+(135deg, rgb(5, 150, 105) 0%, rgb(4, 120, 87) 100%); }
+
+.save-default-button:disabled { opacity: 0.7; cursor: not-allowed; transfor=
+m: none; }
+
+.feedback-message { padding: 0.75rem 1rem; margin: 1rem 0px; border-radius:=
+ 8px; background: rgb(240, 253, 244); border: 1px solid rgb(134, 239, 172);=
+ color: rgb(22, 163, 74); font-size: 0.9rem; font-weight: 500; display: fle=
+x; align-items: center; gap: 0.5rem; animation: 0.3s ease 0s 1 normal none =
+running slideIn; }
+
+.feedback-message.error { background: rgb(254, 242, 242); border-color: rgb=
+(252, 165, 165); color: rgb(220, 38, 38); }
+
+@keyframes slideIn {=20
+  0% { opacity: 0; transform: translateY(-10px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.form-section { margin-bottom: 2.5rem; padding: 1.5rem; background: rgba(24=
+7, 250, 252, 0.5); border-radius: 12px; border: 1px solid rgb(226, 232, 240=
+); }
+
+.section-title { display: flex; align-items: center; gap: 0.75rem; margin: =
+0px 0px 1.5rem; color: rgb(45, 55, 72); font-size: 1.3rem; font-weight: 600=
+; }
+
+.strategy-info { margin: 2rem 0px; }
+
+.info-card { background: linear-gradient(135deg, rgb(190, 227, 248) 0%, rgb=
+(144, 205, 244) 100%); border: 1px solid rgb(99, 179, 237); border-radius: =
+12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start; }
+
+.info-card h4 { margin: 0px 0px 0.5rem; color: rgb(30, 64, 175); font-weigh=
+t: 600; }
+
+.info-card p { margin: 0px; color: rgb(30, 58, 138); line-height: 1.5; }
+
+.chart-container { width: 100%; }
+
+.chart-title-section { display: flex; flex-direction: column; gap: 0.5rem; =
+}
+
+.data-range-info { display: flex; align-items: center; gap: 0.5rem; color: =
+rgb(113, 128, 150); font-size: 0.9rem; font-weight: 500; }
+
+.chart-header { display: flex; justify-content: space-between; align-items:=
+ center; margin-bottom: 2rem; flex-wrap: wrap; gap: 1rem; }
+
+.chart-header h2 { display: flex; align-items: center; gap: 0.75rem; margin=
+: 0px; color: rgb(45, 55, 72); font-size: 1.5rem; font-weight: 600; }
+
+.chart-controls { display: flex; flex-direction: column; gap: 1rem; align-i=
+tems: flex-end; }
+
+.view-toggles { display: flex; gap: 0.5rem; background: rgb(247, 250, 252);=
+ border-radius: 8px; padding: 0.25rem; border: 1px solid rgb(226, 232, 240)=
+; }
+
+.view-toggle { padding: 0.5rem 1rem; background: transparent; border: none;=
+ border-radius: 6px; color: rgb(74, 85, 104); font-weight: 600; cursor: poi=
+nter; transition: 0.3s; font-size: 0.875rem; }
+
+.view-toggle:hover { background: rgb(237, 242, 247); }
+
+.view-toggle.active { background: rgb(102, 126, 234); color: white; box-sha=
+dow: rgba(102, 126, 234, 0.25) 0px 2px 4px; }
+
+.zoom-controls { display: flex; gap: 0.5rem; }
+
+.zoom-button { display: flex; align-items: center; gap: 0.25rem; padding: 0=
+.5rem 1rem; background: rgb(247, 250, 252); border: 1px solid rgb(226, 232,=
+ 240); border-radius: 6px; color: rgb(74, 85, 104); font-size: 0.875rem; fo=
+nt-weight: 600; cursor: pointer; transition: 0.3s; }
+
+.zoom-button:hover { background: rgb(237, 242, 247); border-color: rgb(203,=
+ 213, 224); transform: translateY(-1px); }
+
+.zoom-button:active { transform: translateY(0px); }
+
+.main-chart { position: relative; }
+
+.main-chart h3 { display: flex; align-items: center; justify-content: space=
+-between; margin-bottom: 1rem; }
+
+.overview-chart { background: rgba(102, 126, 234, 0.05); border: 1px solid =
+rgba(102, 126, 234, 0.2); border-radius: 8px; padding: 1rem; margin-top: 1r=
+em; }
+
+.overview-chart h4 { margin: 0px 0px 0.5rem; color: rgb(74, 85, 104); font-=
+size: 0.9rem; font-weight: 600; }
+
+.chart-loading { display: flex; justify-content: center; align-items: cente=
+r; height: 300px; color: rgb(113, 128, 150); font-style: italic; font-size:=
+ 1.1rem; }
+
+.chart-tooltip { background: rgba(255, 255, 255, 0.98); backdrop-filter: bl=
+ur(10px); border: 1px solid rgb(226, 232, 240); border-radius: 8px; padding=
+: 1rem; box-shadow: rgba(0, 0, 0, 0.15) 0px 8px 16px; max-width: 250px; }
+
+.tooltip-date { font-weight: 700; color: rgb(45, 55, 72); margin: 0px 0px 0=
+.5rem; font-size: 0.9rem; border-bottom: 1px solid rgb(226, 232, 240); padd=
+ing-bottom: 0.25rem; }
+
+.tooltip-price { font-weight: 600; color: rgb(45, 55, 72); margin: 0px 0px =
+0.5rem; font-size: 1rem; }
+
+.tooltip-transaction { font-weight: 600; margin: 0px 0px 0.5rem; padding: 0=
+.25rem 0.5rem; border-radius: 4px; font-size: 0.875rem; display: inline-blo=
+ck; }
+
+.tooltip-transaction.buy { background: linear-gradient(135deg, rgb(198, 246=
+, 213) 0%, rgb(154, 230, 180) 100%); color: rgb(34, 84, 61); border: 1px so=
+lid rgb(154, 230, 180); }
+
+.tooltip-transaction.sell { background: linear-gradient(135deg, rgb(254, 21=
+5, 215) 0%, rgb(251, 182, 206) 100%); color: rgb(116, 42, 42); border: 1px =
+solid rgb(251, 182, 206); }
+
+.tooltip-indicator { color: rgb(74, 85, 104); margin: 0.25rem 0px; font-siz=
+e: 0.8rem; display: flex; justify-content: space-between; }
+
+.results-container { width: 100%; }
+
+.results-title { display: flex; align-items: center; gap: 0.75rem; margin: =
+0px 0px 1rem; color: rgb(45, 55, 72); font-size: 1.5rem; font-weight: 600; =
+}
+
+.results-period { display: flex; align-items: center; gap: 0.5rem; color: r=
+gb(113, 128, 150); margin-bottom: 2rem; font-weight: 500; }
+
+.performance-section, .transactions-section, .holdings-section, .strategy-s=
+ummary, .questionable-events-section { margin: 3rem 0px; }
+
+.performance-section h3, .transactions-section h3, .holdings-section h3, .s=
+trategy-summary h3, .questionable-events-section h3 { display: flex; align-=
+items: center; gap: 0.5rem; margin: 0px 0px 1.5rem; color: rgb(45, 55, 72);=
+ font-size: 1.2rem; font-weight: 600; }
+
+.performance-chart { background: rgb(247, 250, 252); border: 1px solid rgb(=
+226, 232, 240); border-radius: 8px; padding: 2rem; text-align: center; }
+
+.chart-placeholder { color: rgb(113, 128, 150); }
+
+.chart-placeholder p { margin: 0.5rem 0px; }
+
+.chart-legend { display: flex; justify-content: center; gap: 2rem; margin-t=
+op: 1rem; padding-top: 1rem; border-top: 1px solid rgb(226, 232, 240); }
+
+.legend-item { display: flex; align-items: center; gap: 0.5rem; font-size: =
+0.9rem; color: rgb(74, 85, 104); }
+
+.legend-color { width: 16px; height: 3px; border-radius: 2px; }
+
+.transactions-table, .holdings-table { background: white; border: 1px solid=
+ rgb(226, 232, 240); border-radius: 8px; overflow: hidden; }
+
+.table-header { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; =
+gap: 1rem; padding: 1rem; background: rgb(247, 250, 252); font-weight: 600;=
+ color: rgb(74, 85, 104); border-bottom: 1px solid rgb(226, 232, 240); }
+
+.table-row { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; gap=
+: 1rem; padding: 1rem; border-bottom: 1px solid rgb(241, 245, 249); align-i=
+tems: center; }
+
+.holdings-table .table-header { grid-template-columns: 1fr 1fr 1fr 1fr 1fr =
+1fr 1fr 1fr; }
+
+.holdings-table .table-row { grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr=
+ 1fr 1fr; }
+
+.table-row:last-child { border-bottom: none; }
+
+.table-row:hover { background: rgb(248, 250, 252); }
+
+.transaction-type { display: flex; align-items: center; gap: 0.25rem; font-=
+weight: 600; }
+
+.transaction-type.buy { color: rgb(56, 161, 105); }
+
+.transaction-type.sell { color: rgb(229, 62, 62); }
+
+.no-transactions { padding: 2rem; text-align: center; color: rgb(113, 128, =
+150); font-style: italic; }
+
+.strategy-summary { background: linear-gradient(135deg, rgb(247, 250, 252) =
+0%, rgb(237, 242, 247) 100%); border: 1px solid rgb(226, 232, 240); border-=
+radius: 12px; padding: 2rem; }
+
+.summary-content p { margin: 1rem 0px; line-height: 1.6; color: rgb(74, 85,=
+ 104); }
+
+.summary-content strong { color: rgb(45, 55, 72); }
+
+@media (max-width: 1024px) {
+  .chart-header { flex-direction: column; align-items: stretch; gap: 1.5rem=
+; }
+  .chart-controls { align-items: stretch; }
+  .view-toggles { justify-content: center; }
+  .zoom-controls { justify-content: center; }
+  .indicator-toggles { justify-content: center; }
+}
+
+@media (max-width: 768px) {
+  .header-content h1 { font-size: 2rem; flex-direction: column; gap: 0.5rem=
+; }
+  .tab-navigation { flex-direction: column; align-items: center; }
+  .tab-button { width: 100%; max-width: 300px; justify-content: center; }
+  .app-main { padding: 0px 1rem 2rem; }
+  .tab-content { padding: 1.5rem; }
+  .form-grid { grid-template-columns: 1fr; gap: 1rem; }
+  .table-header, .table-row { grid-template-columns: 1fr; gap: 0.5rem; }
+  .table-header { display: none; }
+  .table-row { display: block; padding: 1rem; border: 1px solid rgb(226, 23=
+2, 240); border-radius: 8px; margin-bottom: 0.5rem; }
+  .table-row > div { margin: 0.25rem 0px; }
+  .table-row > div::before { content: attr(data-label) ': '; font-weight: 6=
+00; color: rgb(74, 85, 104); }
+  .chart-title-section h2 { font-size: 1.3rem; }
+  .data-range-info { font-size: 0.8rem; }
+  .view-toggle, .zoom-button, .indicator-toggle { padding: 0.4rem 0.8rem; f=
+ont-size: 0.8rem; }
+  .main-chart h3 { flex-direction: column; align-items: flex-start; gap: 0.=
+5rem; }
+  .overview-chart { padding: 0.75rem; }
+}
+
+.chart-section { animation: 0.5s ease-in-out 0s 1 normal none running fadeI=
+n; }
+
+@keyframes fadeIn {=20
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.recharts-brush { fill: rgba(102, 126, 234, 0.1) !important; }
+
+.recharts-brush .recharts-brush-slide { fill: rgba(102, 126, 234, 0.3) !imp=
+ortant; }
+
+.recharts-brush .recharts-brush-traveller { fill: rgb(102, 126, 234) !impor=
+tant; stroke: rgb(76, 81, 191) !important; }
+
+.transaction-log-section { background: rgba(255, 255, 255, 0.95); border-ra=
+dius: 12px; padding: 1.5rem; margin-bottom: 2rem; box-shadow: rgba(0, 0, 0,=
+ 0.1) 0px 4px 6px; }
+
+.transaction-log-section h3 { display: flex; align-items: center; gap: 0.5r=
+em; margin: 0px 0px 1rem; color: rgb(45, 55, 72); font-size: 1.25rem; font-=
+weight: 600; }
+
+.transaction-log { background: rgb(26, 32, 44); border-radius: 8px; padding=
+: 1rem; font-family: Consolas, Monaco, "Courier New", monospace; font-size:=
+ 0.875rem; line-height: 1.4; max-height: 400px; overflow-y: auto; border: 1=
+px solid rgb(45, 55, 72); }
+
+.log-line { color: rgb(226, 232, 240); margin-bottom: 0.25rem; white-space:=
+ pre-wrap; }
+
+.log-line.date-header { color: rgb(129, 199, 132); font-weight: bold; margi=
+n: 0.5rem 0px; border-bottom: 1px solid rgb(74, 85, 104); padding-bottom: 0=
+.25rem; }
+
+.log-line.action { color: rgb(255, 183, 77); font-weight: 500; margin-left:=
+ 1rem; }
+
+.log-line.info { color: rgb(100, 181, 246); margin-left: 1rem; font-style: =
+italic; }
+
+.enhanced-transactions-table { background: white; border: 1px solid rgb(226=
+, 232, 240); border-radius: 8px; overflow: auto hidden; }
+
+.enhanced-transactions-table .table-header { display: grid; grid-template-c=
+olumns: 100px 120px 90px 180px 180px 90px 90px 180px 90px 100px 100px 100px=
+ 100px 100px 100px; gap: 1rem; padding: 1rem 0.5rem; background: rgb(247, 2=
+50, 252); font-weight: 600; color: rgb(74, 85, 104); border-bottom: 1px sol=
+id rgb(226, 232, 240); font-size: 0.85rem; min-width: 1600px; }
+
+.enhanced-transactions-table .table-row { display: grid; grid-template-colu=
+mns: 100px 120px 90px 180px 180px 90px 90px 180px 90px 100px 100px 100px 10=
+0px 100px 100px; gap: 1rem; padding: 1.25rem 0.5rem; border-bottom: 1px sol=
+id rgb(241, 245, 249); align-items: start; font-size: 0.85rem; min-width: 1=
+600px; }
+
+.enhanced-transactions-table .table-row:last-child { border-bottom: none; }
+
+.enhanced-transactions-table .table-row:hover { background: rgb(248, 250, 2=
+52); }
+
+.lots-column { font-family: Monaco, Consolas, monospace; font-size: 0.8rem;=
+ color: rgb(74, 85, 104); word-break: break-all; }
+
+.oco-details { font-size: 0.8rem; color: rgb(43, 108, 176); overflow-wrap: =
+break-word; }
+
+.trailing-stop-buy-details, .trailing-stop-sell-details { font-size: 0.8rem=
+; line-height: 1.3; }
+
+.trailing-stop-buy-details { color: rgb(43, 108, 176); }
+
+.trailing-stop-sell-details { color: rgb(214, 158, 46); }
+
+.trailing-stop-details-multiline { display: flex; flex-direction: column; g=
+ap: 2px; font-size: 0.75rem; line-height: 1.2; }
+
+.trailing-stop-detail-line { white-space: nowrap; font-weight: 500; }
+
+.transaction-type.oco-limit-buy { color: rgb(49, 151, 149); }
+
+.transaction-type.oco-trailing-buy { color: rgb(30, 144, 255); }
+
+.positive { color: rgb(56, 161, 105); }
+
+.negative { color: rgb(229, 62, 62); }
+
+@media (max-width: 1600px) {
+  .enhanced-transactions-table { overflow-x: scroll; }
+  .enhanced-transactions-table .table-header, .enhanced-transactions-table =
+.table-row { min-width: 1600px; }
+}
+
+@media (max-width: 768px) {
+  .enhanced-transactions-table .table-header { display: none; }
+  .enhanced-transactions-table .table-row { display: block; min-width: auto=
+; padding: 1rem; border: 1px solid rgb(226, 232, 240); border-radius: 8px; =
+margin-bottom: 0.5rem; }
+  .enhanced-transactions-table .table-row > div { margin: 0.5rem 0px; paddi=
+ng: 0.25rem 0px; border-bottom: 1px solid rgb(241, 245, 249); }
+  .enhanced-transactions-table .table-row > div:last-child { border-bottom:=
+ none; }
+  .enhanced-transactions-table .table-row > div::before { content: attr(dat=
+a-label) ': '; font-weight: 600; color: rgb(74, 85, 104); display: inline-b=
+lock; min-width: 120px; }
+}
+
+.results-section { margin-top: 3rem; padding-top: 2rem; border-top: 2px sol=
+id rgb(226, 232, 240); }
+
+.strategy-comparison-section { margin: 2rem 0px; padding: 1.5rem; backgroun=
+d: rgba(255, 255, 255, 0.95); border-radius: 12px; box-shadow: rgba(0, 0, 0=
+, 0.1) 0px 4px 6px; }
+
+.strategy-comparison-section h3 { display: flex; align-items: center; gap: =
+0.75rem; margin: 0px 0px 1.5rem; color: rgb(45, 55, 72); font-size: 1.25rem=
+; font-weight: 600; }
+
+.comparison-grid { display: grid; grid-template-columns: repeat(auto-fit, m=
+inmax(250px, 1fr)); gap: 1rem; }
+
+.comparison-card { background: white; border: 1px solid rgb(226, 232, 240);=
+ border-radius: 8px; padding: 1.25rem; text-align: center; box-shadow: rgba=
+(0, 0, 0, 0.05) 0px 2px 4px; transition: transform 0.2s, box-shadow 0.2s; }
+
+.comparison-card:hover { transform: translateY(-2px); box-shadow: rgba(0, 0=
+, 0, 0.1) 0px 4px 12px; }
+
+.comparison-card h4 { margin: 0px 0px 0.75rem; color: rgb(74, 85, 104); fon=
+t-size: 0.9rem; font-weight: 600; text-transform: uppercase; letter-spacing=
+: 0.5px; }
+
+.comparison-card .value { font-size: 1.8rem; font-weight: 700; margin: 0px =
+0px 0.5rem; }
+
+.comparison-card small { color: rgb(113, 128, 150); font-size: 0.85rem; }
+
+.comparison-card.buy-hold { border-left: 4px solid rgb(245, 158, 11); }
+
+.comparison-card.outperformance { border-left: 4px solid rgb(139, 92, 246);=
+ }
+
+@media (max-width: 768px) {
+  .comparison-grid { grid-template-columns: 1fr; }
+}
+
+.questionable-events-section { background: rgba(251, 178, 60, 0.1); border:=
+ 1px solid rgb(251, 191, 36); border-radius: 8px; padding: 1.5rem; }
+
+.questionable-events-section h3 { color: rgb(146, 64, 14); }
+
+.questionable-events-table { display: block; background: white; border-radi=
+us: 8px; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px; }
+
+.questionable-events-table .table-header { display: grid; grid-template-col=
+umns: 100px 150px 2fr 80px; gap: 1rem; padding: 1rem; background: rgb(247, =
+250, 252); border-bottom: 1px solid rgb(226, 232, 240); font-weight: 600; c=
+olor: rgb(45, 55, 72); }
+
+.questionable-events-table .table-row { display: grid; grid-template-column=
+s: 100px 150px 2fr 80px; gap: 1rem; padding: 1rem; border-bottom: 1px solid=
+ rgb(226, 232, 240); }
+
+.questionable-events-table .table-row:last-child { border-bottom: none; }
+
+.questionable-events-table .table-row.warning { background: rgba(251, 191, =
+36, 0.05); }
+
+.questionable-events-table .table-row.error { background: rgba(239, 68, 68,=
+ 0.05); }
+
+.questionable-events-table .severity { padding: 0.25rem 0.5rem; border-radi=
+us: 4px; font-size: 0.875rem; font-weight: 600; text-align: center; }
+
+.questionable-events-table .severity.warning { background: rgb(251, 191, 36=
+); color: rgb(146, 64, 14); }
+
+.questionable-events-table .severity.error { background: rgb(239, 68, 68); =
+color: white; }
+
+.mode-selection { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;=
+ margin-bottom: 2rem; }
+
+.mode-option { display: flex; flex-direction: column; align-items: center; =
+gap: 0.5rem; padding: 1.5rem; border: 2px solid rgb(226, 232, 240); border-=
+radius: 12px; background: white; cursor: pointer; transition: 0.2s; text-al=
+ign: center; }
+
+.mode-option:hover { border-color: rgb(102, 126, 234); box-shadow: rgba(102=
+, 126, 234, 0.15) 0px 4px 12px; }
+
+.mode-option.active { border-color: rgb(102, 126, 234); background: linear-=
+gradient(135deg, rgb(102, 126, 234) 0%, rgb(118, 75, 162) 100%); color: whi=
+te; }
+
+.mode-option input[type=3D"radio"] { display: none; }
+
+.mode-option span { font-size: 1.1rem; font-weight: 600; }
+
+.mode-option p { margin: 0px; font-size: 0.9rem; opacity: 0.8; }
+
+.symbols-selection .checkbox-grid { display: grid; grid-template-columns: r=
+epeat(auto-fit, minmax(100px, 1fr)); gap: 0.5rem; margin: 0.5rem 0px; }
+
+.checkbox-item { display: flex; align-items: center; gap: 0.5rem; padding: =
+0.5rem; background: rgb(247, 250, 252); border: 1px solid rgb(226, 232, 240=
+); border-radius: 6px; cursor: pointer; transition: 0.2s; font-size: 0.9rem=
+; }
+
+.checkbox-item:hover { background: rgb(237, 242, 247); border-color: rgb(20=
+3, 213, 224); }
+
+.checkbox-item input[type=3D"checkbox"]:checked + span { font-weight: 600; =
+color: rgb(102, 126, 234); }
+
+.batch-parameters { display: flex; flex-direction: column; gap: 2rem; }
+
+.parameter-range { background: rgb(247, 250, 252); border: 1px solid rgb(22=
+6, 232, 240); border-radius: 8px; padding: 1.5rem; }
+
+.parameter-range label { display: block; font-weight: 600; color: rgb(45, 5=
+5, 72); margin-bottom: 1rem; }
+
+.parameter-range .checkbox-grid { display: grid; grid-template-columns: rep=
+eat(auto-fill, minmax(80px, 1fr)); gap: 0.5rem; }
+
+.batch-info { margin-top: 1rem; }
+
+.selection-controls { display: flex; gap: 0.5rem; margin-bottom: 1rem; just=
+ify-content: flex-start; }
+
+.control-button { padding: 0.5rem 1rem; border: 1px solid rgb(102, 126, 234=
+); background: white; color: rgb(102, 126, 234); border-radius: 6px; cursor=
+: pointer; font-size: 0.875rem; font-weight: 500; transition: 0.2s; }
+
+.control-button:hover { background: rgb(102, 126, 234); color: white; box-s=
+hadow: rgba(102, 126, 234, 0.2) 0px 2px 4px; }
+
+.control-button:active { transform: translateY(1px); }
+
+.batch-results { max-width: min(1600px, 95vw); margin: 0px auto; padding: 2=
+rem; }
+
+.results-header { display: flex; justify-content: space-between; align-item=
+s: center; margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 2px so=
+lid rgb(226, 232, 240); }
+
+.results-header h2 { display: flex; align-items: center; gap: 0.5rem; margi=
+n: 0px; color: rgb(45, 55, 72); }
+
+.execution-stats { display: flex; gap: 1rem; font-size: 0.9rem; }
+
+.execution-stats span { padding: 0.25rem 0.5rem; background: rgb(247, 250, =
+252); border-radius: 4px; border: 1px solid rgb(226, 232, 240); }
+
+.summary-section { margin-bottom: 2rem; }
+
+.summary-section h3 { color: rgb(45, 55, 72); margin-bottom: 1rem; }
+
+.metrics-grid { display: grid; grid-template-columns: repeat(auto-fit, minm=
+ax(250px, 1fr)); gap: 1rem; margin-bottom: 1rem; }
+
+.metric-card { display: flex; align-items: center; gap: 1rem; background: w=
+hite; padding: 1.5rem; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.1) 0=
+px 2px 4px; border: 1px solid rgb(226, 232, 240); }
+
+.metric-card svg { color: rgb(102, 126, 234); flex-shrink: 0; }
+
+.metric-card div { display: flex; flex-direction: column; gap: 0.25rem; }
+
+.metric-label { font-size: 0.875rem; color: rgb(113, 128, 150); font-weight=
+: 500; }
+
+.metric-value { font-size: 1.5rem; font-weight: 700; color: rgb(45, 55, 72)=
+; }
+
+.metric-card .metrics-grid { display: grid; grid-template-columns: 145px 25=
+px 135px 25px 130px 145px 25px 70px 100px; gap: 0.5rem; align-items: center=
+; font-size: 1.1rem; font-weight: 600; }
+
+.metric-card .metrics-grid .metric-value { font-size: 1.1rem; text-align: l=
+eft; }
+
+.metric-card .metrics-grid .metric-label { font-size: 1.1rem; font-weight: =
+600; text-align: right; }
+
+.metric-card .metrics-grid .metric-separator { font-size: 1.1rem; color: rg=
+b(160, 174, 192); font-weight: 400; text-align: center; }
+
+.best-result-section { margin-bottom: 2rem; }
+
+.best-result-card { background: linear-gradient(135deg, rgb(102, 126, 234) =
+0%, rgb(118, 75, 162) 100%); color: white; padding: 2rem; border-radius: 12=
+px; box-shadow: rgba(102, 126, 234, 0.3) 0px 4px 12px; }
+
+.best-result-header { display: flex; justify-content: space-between; align-=
+items: center; margin-bottom: 1.5rem; }
+
+.best-result-header h4 { margin: 0px; font-size: 1.5rem; }
+
+.return-badge { background: rgba(255, 255, 255, 0.2); padding: 0.5rem 1rem;=
+ border-radius: 20px; font-weight: 600; }
+
+.best-params { display: grid; grid-template-columns: repeat(auto-fit, minma=
+x(150px, 1fr)); gap: 1rem; margin-bottom: 1.5rem; }
+
+.param-group { display: flex; justify-content: space-between; padding: 0.5r=
+em; background: rgba(255, 255, 255, 0.1); border-radius: 6px; }
+
+.performance-summary { display: grid; grid-template-columns: repeat(auto-fi=
+t, minmax(200px, 1fr)); gap: 1rem; }
+
+.perf-metric { display: flex; align-items: center; gap: 0.5rem; font-size: =
+0.9rem; }
+
+.stock-best-section { margin-bottom: 2rem; }
+
+.stock-best-grid { display: grid; grid-template-columns: repeat(auto-fit, m=
+inmax(300px, 1fr)); gap: 1rem; }
+
+.stock-best-card { background: white; border: 1px solid rgb(226, 232, 240);=
+ border-radius: 8px; padding: 1.5rem; box-shadow: rgba(0, 0, 0, 0.05) 0px 2=
+px 4px; }
+
+.stock-header { display: flex; justify-content: space-between; align-items:=
+ center; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px so=
+lid rgb(226, 232, 240); }
+
+.stock-header h4 { margin: 0px; color: rgb(45, 55, 72); }
+
+.stock-returns { display: flex; flex-direction: column; gap: 0.25rem; font-=
+size: 0.8rem; }
+
+.best-params-section { margin-bottom: 1rem; }
+
+.best-params-section h5 { margin: 0px 0px 0.5rem; font-size: 0.9rem; color:=
+ rgb(74, 85, 104); }
+
+.mini-params { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0=
+.25rem; font-size: 0.75rem; }
+
+.mini-params span { padding: 0.25rem; background: rgb(247, 250, 252); borde=
+r-radius: 3px; text-align: center; }
+
+.detailed-results-section { margin-bottom: 2rem; }
+
+.results-controls { display: flex; justify-content: space-between; align-it=
+ems: center; margin-bottom: 1rem; }
+
+.results-controls h3 { margin: 0px; color: rgb(45, 55, 72); }
+
+.stock-filter { display: flex; align-items: center; gap: 0.5rem; }
+
+.stock-filter select { padding: 0.5rem; border: 1px solid rgb(226, 232, 240=
+); border-radius: 4px; background: white; }
+
+.results-table-container { background: white; border-radius: 8px; box-shado=
+w: rgba(0, 0, 0, 0.1) 0px 2px 4px; border: 1px solid rgb(226, 232, 240); ov=
+erflow: auto hidden; }
+
+.results-table { width: 100%; border-collapse: collapse; font-size: 0.875re=
+m; }
+
+.results-table th { background: rgb(247, 250, 252); padding: 1rem 0.75rem; =
+text-align: left; font-weight: 600; color: rgb(45, 55, 72); border-bottom: =
+2px solid rgb(226, 232, 240); white-space: nowrap; }
+
+.results-table td { padding: 0.75rem; border-bottom: 1px solid rgb(226, 232=
+, 240); }
+
+.results-table tr:hover { background: rgb(247, 250, 252); }
+
+.results-table .top-result { background: rgba(102, 126, 234, 0.05); }
+
+.results-table .stock-cell { font-weight: 600; color: rgb(102, 126, 234); }
+
+.results-table .return-cell.positive { color: rgb(56, 161, 105); font-weigh=
+t: 600; }
+
+.results-table .return-cell.negative { color: rgb(229, 62, 62); font-weight=
+: 600; }
+
+.results-table .drawdown-cell { color: rgb(229, 62, 62); }
+
+.table-footer { padding: 1rem; text-align: center; background: rgb(247, 250=
+, 252); border-top: 1px solid rgb(226, 232, 240); font-size: 0.875rem; colo=
+r: rgb(113, 128, 150); }
+
+.report-explanation { background: rgb(247, 250, 252); padding: 2rem; border=
+-radius: 8px; border: 1px solid rgb(226, 232, 240); }
+
+.report-explanation h3 { margin-top: 0px; color: rgb(45, 55, 72); }
+
+.explanation-grid { display: grid; grid-template-columns: repeat(auto-fit, =
+minmax(300px, 1fr)); gap: 1rem; }
+
+.explanation-item { background: white; padding: 1rem; border-radius: 6px; b=
+order: 1px solid rgb(226, 232, 240); }
+
+.explanation-item strong { color: rgb(45, 55, 72); }
+
+.parameters-grid { display: grid; grid-template-columns: repeat(auto-fit, m=
+inmax(300px, 1fr)); gap: 1rem; margin: 1.5rem 0px; }
+
+.parameter-card { display: flex; justify-content: space-between; align-item=
+s: center; padding: 0.75rem 1rem; background: rgb(247, 250, 252); border: 1=
+px solid rgb(226, 232, 240); border-radius: 6px; }
+
+.parameter-label { font-weight: 600; color: rgb(74, 85, 104); font-size: 0.=
+875rem; }
+
+.parameter-value { font-weight: 500; color: rgb(45, 55, 72); font-size: 0.8=
+75rem; text-align: right; }
+
+.scenario-analysis-card { background: white; border-radius: 8px; padding: 0=
+px; margin: 2rem 0px; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 8px; overflow:=
+ hidden; }
+
+.scenario-header { padding: 1.5rem; margin-bottom: 0px; }
+
+.scenario-title { display: flex; align-items: center; gap: 0.75rem; margin-=
+bottom: 0.75rem; }
+
+.scenario-icon { font-size: 1.75rem; }
+
+.scenario-title h3 { margin: 0px; font-size: 1.5rem; font-weight: 600; }
+
+.confidence-badge { padding: 0.25rem 0.75rem; border-radius: 12px; font-siz=
+e: 0.75rem; font-weight: 600; text-transform: uppercase; letter-spacing: 0.=
+5px; }
+
+.scenario-description { margin: 0.5rem 0px; color: rgb(74, 85, 104); font-s=
+ize: 1rem; font-weight: 500; }
+
+.scenario-analysis { margin: 0.5rem 0px 0px; color: rgb(113, 128, 150); fon=
+t-size: 0.9rem; font-style: italic; }
+
+.scenario-metrics, .scenario-risk-metrics, .scenario-recommendations { padd=
+ing: 1.5rem; border-top: 1px solid rgb(226, 232, 240); }
+
+.scenario-metrics h4, .scenario-risk-metrics h4, .scenario-recommendations =
+h4 { margin: 0px 0px 1rem; font-size: 1.1rem; font-weight: 600; color: rgb(=
+45, 55, 72); }
+
+.metrics-grid { display: grid; grid-template-columns: repeat(auto-fit, minm=
+ax(200px, 1fr)); gap: 1rem; }
+
+.metric-item { display: flex; flex-direction: column; gap: 0.25rem; padding=
+: 0.75rem; background: rgb(247, 250, 252); border-radius: 6px; }
+
+.metric-label { font-size: 0.75rem; font-weight: 600; color: rgb(113, 128, =
+150); text-transform: uppercase; letter-spacing: 0.5px; }
+
+.metric-value { font-size: 1.1rem; font-weight: 700; color: rgb(31, 41, 55)=
+; }
+
+.recommendations-list { display: flex; flex-direction: column; gap: 1rem; }
+
+.recommendation-item { padding: 1rem; background: rgb(247, 250, 252); borde=
+r-radius: 6px; border-left-width: 3px; border-left-style: solid; }
+
+.recommendation-header { display: flex; align-items: center; gap: 0.75rem; =
+margin-bottom: 0.75rem; }
+
+.priority-badge { padding: 0.25rem 0.5rem; border-radius: 4px; font-size: 0=
+.65rem; font-weight: 700; letter-spacing: 0.5px; }
+
+.recommendation-action { font-size: 1rem; font-weight: 600; color: rgb(45, =
+55, 72); }
+
+.recommendation-reason, .recommendation-suggestion { margin: 0.5rem 0px; fo=
+nt-size: 0.875rem; color: rgb(74, 85, 104); line-height: 1.5; }
+
+.recommendation-reason strong, .recommendation-suggestion strong { color: r=
+gb(45, 55, 72); }
+
+@media (max-width: 768px) {
+  .metrics-grid { grid-template-columns: 1fr; }
+  .scenario-title { flex-wrap: wrap; }
+  .confidence-badge { width: 100%; text-align: center; }
+}
+
+.total-return-card { background: white; border: 2px solid rgb(16, 185, 129)=
+; border-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; text-align: =
+center; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 8px; }
+
+.total-return-card h4 { margin: 0px 0px 0.75rem; color: rgb(16, 185, 129); =
+font-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacin=
+g: 0.5px; min-width: 150px; display: inline-block; }
+
+.total-return-card .metrics { color: rgb(75, 85, 99); font-size: 0.95rem; f=
+ont-weight: 500; white-space: nowrap; overflow-x: auto; }
+
+.buy-hold-card { background: white; border: 2px solid rgb(59, 130, 246); bo=
+rder-radius: 12px; padding: 1.5rem; margin-bottom: 1.5rem; text-align: cent=
+er; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 8px; }
+
+.buy-hold-card h4 { margin: 0px 0px 0.75rem; color: rgb(59, 130, 246); font=
+-size: 1rem; font-weight: 700; text-transform: uppercase; letter-spacing: 0=
+.5px; min-width: 150px; display: inline-block; }
+
+.buy-hold-card .metrics { color: rgb(75, 85, 99); font-size: 0.95rem; font-=
+weight: 500; white-space: nowrap; overflow-x: auto; }
+
+.compact-metrics { display: flex; flex-wrap: wrap; gap: 1.5rem; padding: 1r=
+em; background: rgb(249, 250, 251); border-radius: 8px; margin-bottom: 1.5r=
+em; border: 1px solid rgb(229, 231, 235); }
+
+.compact-metrics span { color: rgb(55, 65, 81); font-size: 1.1rem; white-sp=
+ace: nowrap; }
+
+.compact-metrics strong { color: rgb(31, 41, 55); margin-right: 0.25rem; }
+
+@media (max-width: 768px) {
+  .compact-metrics { flex-direction: column; gap: 0.75rem; }
+}
+
+.future-trades-section .future-trades-content { padding: 1rem; }
+
+.future-trades-section .current-state { display: flex; gap: 2rem; margin-bo=
+ttom: 1.5rem; padding: 1rem; background: rgb(249, 250, 251); border-radius:=
+ 8px; font-size: 1.1rem; }
+
+.future-trades-section .trade-directions { display: grid; grid-template-col=
+umns: 1fr 1fr; gap: 1.5rem; }
+
+.future-trades-section .trade-direction { border: 2px solid rgb(229, 231, 2=
+35); border-radius: 12px; padding: 1.5rem; background: white; }
+
+.future-trades-section .trade-direction.buy-direction { border-color: rgb(2=
+39, 68, 68); }
+
+.future-trades-section .trade-direction.sell-direction { border-color: rgb(=
+16, 185, 129); }
+
+.future-trades-section .trade-direction.disabled { border-color: rgb(156, 1=
+63, 175); opacity: 0.6; }
+
+.future-trades-section .direction-header { display: flex; align-items: cent=
+er; gap: 0.5rem; margin-bottom: 1rem; padding-bottom: 0.75rem; border-botto=
+m: 2px solid rgb(229, 231, 235); }
+
+.future-trades-section .buy-direction .direction-header { color: rgb(239, 6=
+8, 68); border-bottom-color: rgb(254, 202, 202); }
+
+.future-trades-section .sell-direction .direction-header { color: rgb(16, 1=
+85, 129); border-bottom-color: rgb(167, 243, 208); }
+
+.future-trades-section .direction-title { font-weight: 700; font-size: 1.1r=
+em; text-transform: uppercase; letter-spacing: 0.5px; }
+
+.future-trades-section .direction-details { display: flex; flex-direction: =
+column; gap: 1rem; }
+
+.future-trades-section .activation-info, .future-trades-section .execution-=
+info, .future-trades-section .profit-requirement { display: flex; flex-dire=
+ction: column; gap: 0.25rem; }
+
+.future-trades-section .label { font-size: 0.85rem; color: rgb(107, 114, 12=
+8); font-weight: 500; }
+
+.future-trades-section .value { font-size: 1.1rem; font-weight: 700; color:=
+ rgb(17, 24, 39); }
+
+.future-trades-section .buy-direction .value { color: rgb(239, 68, 68); }
+
+.future-trades-section .sell-direction .value { color: rgb(16, 185, 129); }
+
+.future-trades-section .percent { font-size: 0.9rem; color: rgb(107, 114, 1=
+28); font-style: italic; }
+
+.future-trades-section .no-holdings-message { text-align: center; padding: =
+2rem 1rem; color: rgb(156, 163, 175); font-style: italic; }
+
+@media (max-width: 768px) {
+  .future-trades-section .trade-directions { grid-template-columns: 1fr; }
+  .future-trades-section .current-state { flex-direction: column; gap: 0.5r=
+em; }
+}
+------MultipartBoundary--SUWAHIHbdTB1QXLKp8JYLuedXKxHu0TbMEbIvnlCv1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-e92eca15-8fec-4390-9b1a-04cdbf4315d0@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+html, body { height: 100%; }
+
+body { margin: 0px; font-family: -apple-system, BlinkMacSystemFont, "Segoe =
+UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helveti=
+ca Neue", sans-serif; -webkit-font-smoothing: antialiased; background-color=
+: rgb(245, 245, 245); color: rgb(51, 51, 51); }
+
+code { font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New"=
+, monospace; }
+
+.container { max-width: 1200px; margin: 0px auto; padding: 20px; }
+
+.loading { display: flex; justify-content: center; align-items: center; pad=
+ding: 40px; color: rgb(102, 102, 102); }
+
+.error { background-color: rgb(255, 238, 238); border: 1px solid rgb(255, 2=
+04, 204); color: rgb(204, 51, 51); padding: 15px; border-radius: 4px; margi=
+n: 10px 0px; }
+
+.success { background-color: rgb(238, 255, 238); border: 1px solid rgb(204,=
+ 255, 204); color: rgb(51, 102, 51); padding: 15px; border-radius: 4px; mar=
+gin: 10px 0px; }
+------MultipartBoundary--SUWAHIHbdTB1QXLKp8JYLuedXKxHu0TbMEbIvnlCv1----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-175f79d9-95d4-40d1-acd6-6c9be74a1d6d@mhtml.blink
+
+@charset "utf-8";
+
+body { margin: 0px; font-family: -apple-system, BlinkMacSystemFont, "Segoe =
+UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helveti=
+ca Neue", sans-serif; -webkit-font-smoothing: antialiased; }
+
+code { font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New"=
+, monospace; }
+
+#loading-screen { position: fixed; top: 0px; left: 0px; width: 100%; height=
+: 100%; background: linear-gradient(135deg, rgb(102, 126, 234) 0%, rgb(118,=
+ 75, 162) 100%); display: flex; flex-direction: column; justify-content: ce=
+nter; align-items: center; z-index: 9999; }
+
+.loading-content { text-align: center; color: white; }
+
+.loading-spinner { width: 40px; height: 40px; border-width: 4px; border-sty=
+le: solid; border-color: white rgba(255, 255, 255, 0.3) rgba(255, 255, 255,=
+ 0.3); border-image: initial; border-radius: 50%; animation: 1s linear 0s i=
+nfinite normal none running spin; margin-bottom: 1rem; }
+
+@keyframes spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loading-text { font-size: 1.2rem; font-weight: 600; margin: 0px; }
+
+.loading-subtext { font-size: 0.9rem; opacity: 0.8; margin: 0.5rem 0px 0px;=
+ }
+------MultipartBoundary--SUWAHIHbdTB1QXLKp8JYLuedXKxHu0TbMEbIvnlCv1------

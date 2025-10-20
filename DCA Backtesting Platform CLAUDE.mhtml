@@ -1,0 +1,3131 @@
+From: <Saved by Blink>
+Snapshot-Content-Location: http://localhost:3000/batch/AAPL+ALAB+AMSC+AMZN+API+APP+AVGO+BABA+BITF+CIFR+COIN+CRCL+CRDO+CRWV+FIGR+HIMS+HOOD+HYLN+IDCC+INTC+JD+KNDI+LMND+META+MSFT+NBIS+NIO+NVDA+OMDS+ORCL+PLTR+QBTS+QQQ+RDDT+RXRX+SEZL+SHOP+SMDK+SOFI+SOUN+TDOC+TEM+TSLA+U/results?params=N4IgDghgThC2CmAXeUBKEB2BzeBnEAXKLgJ6wBGA9gDb4EDaIAgkwAoAyIANM+0wELdmAWQDKAYSFNhALQByU1gElFrKQDUA4gHkh-AUz1KAKgDEh4padQXtShT3GpxnR6gAiutwHV1Q00qaNjwAEkpiQiHa2u6RAJrsDiBK7uKSPPbG6SAAUrE8ANJy7io87MLFQsIAosaGPGKmxkJy-EqiLUpeIHLq7vUg2sLuHTzazq4gHMbBIACK-Maj83NzQh7uzTyoABq7QqLVMpOiUWo8osMFB9oBNwCqScae2cbVwkJLfEL3IAC6PAAxpR4AAzUEAS0BEPgGEQdHoAAYAHQAVi4AEYuCiAEyogEgWAQAAe7Eo8OMlFE8Go1EI9AxBLAUEokMQqHgAEcAK4QqDwBBw+koxk8LBQCEAEyUcJQADcINRWChAbDEMLkViUYj8TxEDAIdQIdh+NySExAYgIQqrZQMMqoKqhQwRQT9RBDcasKaSByqNyMJKHU71S63QajdhqbSLVabRC7cG1RrRSB3Z6ozSldzaeQIICANZJ51I7HInUE3CIaCIdwQZCEEA4xE4jEAWkRAE4OxihLDJXWGwQmy3UW2MYiOzihNRyaIIQAveD3XCSwgTxGbnhE0nkugTgC+PFhEHI1Hg-CQEFEgMVXsIoMVuHgPFwlCgiH4JEbmAw3LvS6ShyiDclAGAgAeQA
+Subject: DCA Backtesting Platform CLAUDE
+Date: Thu, 2 Oct 2025 15:21:28 -0700
+MIME-Version: 1.0
+Content-Type: multipart/related;
+	type="text/html";
+	boundary="----MultipartBoundary--NeRqNacFpMOLpZS3Dkr2ENNfDWbOZ7zxcPypiCC0Wb----"
+
+
+------MultipartBoundary--NeRqNacFpMOLpZS3Dkr2ENNfDWbOZ7zxcPypiCC0Wb----
+Content-Type: text/html
+Content-ID: <frame-0CAB867420C7A634678154D4D7A1D6BB@mhtml.blink>
+Content-Transfer-Encoding: quoted-printable
+Content-Location: http://localhost:3000/batch/AAPL+ALAB+AMSC+AMZN+API+APP+AVGO+BABA+BITF+CIFR+COIN+CRCL+CRDO+CRWV+FIGR+HIMS+HOOD+HYLN+IDCC+INTC+JD+KNDI+LMND+META+MSFT+NBIS+NIO+NVDA+OMDS+ORCL+PLTR+QBTS+QQQ+RDDT+RXRX+SEZL+SHOP+SMDK+SOFI+SOUN+TDOC+TEM+TSLA+U/results?params=N4IgDghgThC2CmAXeUBKEB2BzeBnEAXKLgJ6wBGA9gDb4EDaIAgkwAoAyIANM+0wELdmAWQDKAYSFNhALQByU1gElFrKQDUA4gHkh-AUz1KAKgDEh4padQXtShT3GpxnR6gAiutwHV1Q00qaNjwAEkpiQiHa2u6RAJrsDiBK7uKSPPbG6SAAUrE8ANJy7io87MLFQsIAosaGPGKmxkJy-EqiLUpeIHLq7vUg2sLuHTzazq4gHMbBIACK-Maj83NzQh7uzTyoABq7QqLVMpOiUWo8osMFB9oBNwCqScae2cbVwkJLfEL3IAC6PAAxpR4AAzUEAS0BEPgGEQdHoAAYAHQAVi4AEYuCiAEyogEgWAQAAe7Eo8OMlFE8Go1EI9AxBLAUEokMQqHgAEcAK4QqDwBBw+koxk8LBQCEAEyUcJQADcINRWChAbDEMLkViUYj8TxEDAIdQIdh+NySExAYgIQqrZQMMqoKqhQwRQT9RBDcasKaSByqNyMJKHU71S63QajdhqbSLVabRC7cG1RrRSB3Z6ozSldzaeQIICANZJ51I7HInUE3CIaCIdwQZCEEA4xE4jEAWkRAE4OxihLDJXWGwQmy3UW2MYiOzihNRyaIIQAveD3XCSwgTxGbnhE0nkugTgC+PFhEHI1Hg-CQEFEgMVXsIoMVuHgPFwlCgiH4JEbmAw3LvS6ShyiDclAGAgAeQA
+
+<!DOCTYPE html><html lang=3D"en"><head><meta http-equiv=3D"Content-Type" co=
+ntent=3D"text/html; charset=3DUTF-8"><link rel=3D"stylesheet" type=3D"text/=
+css" href=3D"cid:css-c8edce09-53ab-4794-894f-905fb196963d@mhtml.blink" /><l=
+ink rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-0105c2da-ba6c-466d=
+-baad-e3dae05a7599@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css=
+" href=3D"cid:css-3a6f2d8a-e8b5-4d59-8845-44659d05d8d5@mhtml.blink" /><link=
+ rel=3D"stylesheet" type=3D"text/css" href=3D"cid:css-a7326cfd-f099-4c2d-b7=
+28-708b3a4c6e59@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" h=
+ref=3D"cid:css-32557cb9-60fa-42f8-8b34-98fe35345a18@mhtml.blink" /><link re=
+l=3D"stylesheet" type=3D"text/css" href=3D"cid:css-5a313a8c-8d5d-43e1-b8e9-=
+eed4d29c57aa@mhtml.blink" /><link rel=3D"stylesheet" type=3D"text/css" href=
+=3D"cid:css-2b80f095-3ba5-4d29-97ed-ebbe90412378@mhtml.blink" />
+   =20
+    <link rel=3D"icon" href=3D"http://localhost:3000/favicon.ico">
+    <meta name=3D"viewport" content=3D"width=3Ddevice-width, initial-scale=
+=3D1">
+    <meta name=3D"theme-color" content=3D"#667eea">
+    <meta name=3D"description" content=3D"DCA Backtesting Platform CLAUDE- =
+Analyze Dollar Cost Averaging strategies with technical indicators">
+    <title>DCA Backtesting Platform CLAUDE</title>
+   =20
+  </head>
+  <body>
+   =20
+
+    <!-- Loading screen -->
+    <div id=3D"loading-screen" style=3D"opacity: 0; transition: opacity 0.5=
+s; display: none;">
+      <div class=3D"loading-content">
+        <div class=3D"loading-spinner"></div>
+        <h2 class=3D"loading-text">DCA Backtesting Platform</h2>
+        <p class=3D"loading-subtext">Loading application...</p>
+      </div>
+    </div>
+
+    <div id=3D"root"><div class=3D"App"><header class=3D"app-header"><div c=
+lass=3D"header-content"><h1><svg xmlns=3D"http://www.w3.org/2000/svg" width=
+=3D"24" height=3D"24" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"current=
+Color" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round=
+" class=3D"header-icon"><polyline points=3D"22 7 13.5 15.5 8.5 10.5 2 17"><=
+/polyline><polyline points=3D"16 7 22 7 22 13"></polyline></svg>DCA Backtes=
+ting Platform</h1><p>Analyze Dollar Cost Averaging strategies with technica=
+l indicators</p></div></header><nav class=3D"tab-navigation"><button class=
+=3D"tab-button "><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"18" hei=
+ght=3D"18" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stro=
+ke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"=
+lucide lucide-settings"><path d=3D"M12.22 2h-.44a2 2 0 0 0-2 2v.18a2 2 0 0 =
+1-1 1.73l-.43.25a2 2 0 0 1-2 0l-.15-.08a2 2 0 0 0-2.73.73l-.22.38a2 2 0 0 0=
+ .73 2.73l.15.1a2 2 0 0 1 1 1.72v.51a2 2 0 0 1-1 1.74l-.15.09a2 2 0 0 0-.73=
+ 2.73l.22.38a2 2 0 0 0 2.73.73l.15-.08a2 2 0 0 1 2 0l.43.25a2 2 0 0 1 1 1.7=
+3V20a2 2 0 0 0 2 2h.44a2 2 0 0 0 2-2v-.18a2 2 0 0 1 1-1.73l.43-.25a2 2 0 0 =
+1 2 0l.15.08a2 2 0 0 0 2.73-.73l.22-.39a2 2 0 0 0-.73-2.73l-.15-.08a2 2 0 0=
+ 1-1-1.74v-.5a2 2 0 0 1 1-1.74l.15-.09a2 2 0 0 0 .73-2.73l-.22-.38a2 2 0 0 =
+0-2.73-.73l-.15.08a2 2 0 0 1-2 0l-.43-.25a2 2 0 0 1-1-1.73V4a2 2 0 0 0-2-2z=
+"></path><circle cx=3D"12" cy=3D"12" r=3D"3"></circle></svg>Parameters</but=
+ton><button class=3D"tab-button " disabled=3D""><svg xmlns=3D"http://www.w3=
+.org/2000/svg" width=3D"18" height=3D"18" viewBox=3D"0 0 24 24" fill=3D"non=
+e" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stro=
+ke-linejoin=3D"round" class=3D"lucide lucide-trending-up"><polyline points=
+=3D"22 7 13.5 15.5 8.5 10.5 2 17"></polyline><polyline points=3D"16 7 22 7 =
+22 13"></polyline></svg>Chart &amp; Analysis</button><button class=3D"tab-b=
+utton active"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"18" height=
+=3D"18" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-=
+width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"luc=
+ide lucide-zap"><polygon points=3D"13 2 3 14 12 14 11 22 21 10 12 10 13 2">=
+</polygon></svg>Batch Results</button></nav><main class=3D"app-main"><div c=
+lass=3D"tab-content"><div class=3D"batch-results"><div class=3D"results-hea=
+der"><h2><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"24" height=3D"2=
+4" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=
+=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide l=
+ucide-trophy"><path d=3D"M6 9H4.5a2.5 2.5 0 0 1 0-5H6"></path><path d=3D"M1=
+8 9h1.5a2.5 2.5 0 0 0 0-5H18"></path><path d=3D"M4 22h16"></path><path d=3D=
+"M10 14.66V17c0 .55-.47.98-.97 1.21C7.85 18.75 7 20.24 7 22"></path><path d=
+=3D"M14 14.66V17c0 .55.47.98.97 1.21C16.15 18.75 17 20.24 17 22"></path><pa=
+th d=3D"M18 2H6v7a6 6 0 0 0 12 0V2Z"></path></svg>Batch Optimization Result=
+s</h2><div class=3D"execution-stats"><span>=E2=9C=85 168 successful</span><=
+span>=E2=9D=8C 2 failed</span><span>=E2=8F=B1=EF=B8=8F NaNs</span></div></d=
+iv><div class=3D"error-banner" style=3D"margin-bottom: 1rem;"><strong>=E2=
+=9A=A0=EF=B8=8F Stock Validation Errors:</strong><div style=3D"margin-top: =
+0.5rem;"><div style=3D"margin-left: 1rem; font-size: 0.9rem;">=E2=80=A2 <st=
+rong>OMDS</strong>: No price data available for OMDS</div><div style=3D"mar=
+gin-left: 1rem; font-size: 0.9rem;">=E2=80=A2 <strong>SMDK</strong>: No pri=
+ce data available for SMDK</div></div><div style=3D"margin-top: 0.5rem; fon=
+t-size: 0.9rem;">Valid symbols tested: AAPL, ALAB, AMSC, AMZN, API, APP, AV=
+GO, BABA, BITF, CIFR, COIN, CRCL, CRDO, CRWV, FIGR, HIMS, HOOD, HYLN, IDCC,=
+ INTC, JD, KNDI, LMND, META, MSFT, NBIS, NIO, NVDA, ORCL, PLTR, QBTS, QQQ, =
+RDDT, RXRX, SEZL, SHOP, SOFI, SOUN, TDOC, TEM, TSLA, U</div></div><div clas=
+s=3D"summary-section"><h3>=F0=9F=93=8A Overall Statistics</h3><div class=3D=
+"metrics-grid"><div class=3D"metric-card"><svg xmlns=3D"http://www.w3.org/2=
+000/svg" width=3D"20" height=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" str=
+oke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-lin=
+ejoin=3D"round" class=3D"lucide lucide-activity"><path d=3D"M22 12h-4l-3 9L=
+9 3l-3 9H2"></path></svg><div><span class=3D"metric-label">Total Combinatio=
+ns Tested</span><span class=3D"metric-value">168</span></div></div><div cla=
+ss=3D"metric-card"><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"20" h=
+eight=3D"20" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" st=
+roke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=3D"round" class=
+=3D"lucide lucide-trending-up"><polyline points=3D"22 7 13.5 15.5 8.5 10.5 =
+2 17"></polyline><polyline points=3D"16 7 22 7 22 13"></polyline></svg><div=
+><span class=3D"metric-label">Average Annualized Return</span><span class=
+=3D"metric-value">34.26%</span></div></div><div class=3D"metric-card"><svg =
+xmlns=3D"http://www.w3.org/2000/svg" width=3D"20" height=3D"20" viewBox=3D"=
+0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-=
+linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-target">=
+<circle cx=3D"12" cy=3D"12" r=3D"10"></circle><circle cx=3D"12" cy=3D"12" r=
+=3D"6"></circle><circle cx=3D"12" cy=3D"12" r=3D"2"></circle></svg><div><sp=
+an class=3D"metric-label">Average Win Rate</span><span class=3D"metric-valu=
+e">93.45%</span></div></div><div class=3D"metric-card"><svg xmlns=3D"http:/=
+/www.w3.org/2000/svg" width=3D"20" height=3D"20" viewBox=3D"0 0 24 24" fill=
+=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"roun=
+d" stroke-linejoin=3D"round" class=3D"lucide lucide-bar-chart3"><path d=3D"=
+M3 3v18h18"></path><path d=3D"M18 17V9"></path><path d=3D"M13 17V5"></path>=
+<path d=3D"M8 17v-3"></path></svg><div><span class=3D"metric-label">Max Ann=
+ualized Return</span><span class=3D"metric-value">+1.97%</span></div></div>=
+</div></div><div class=3D"best-result-section"><h3>=F0=9F=8F=86 Best Overal=
+l Performance</h3><div class=3D"best-result-card"><div class=3D"best-result=
+-header"><h4>ALAB</h4><span class=3D"return-badge">196.53% Annual Return</s=
+pan></div><div class=3D"best-params"><div class=3D"param-group"><span>Profi=
+t Req:</span><span>+10.00%</span></div><div class=3D"param-group"><span>Gri=
+d Interval:</span><span>+5.00%</span></div><div class=3D"param-group"><span=
+>Buy Activation:</span><span>+10.00%</span></div><div class=3D"param-group"=
+><span>Buy Rebound:</span><span>+0.00%</span></div><div class=3D"param-grou=
+p"><span>Sell Activation:</span><span>+10.00%</span></div><div class=3D"par=
+am-group"><span>Sell Pullback:</span><span>+5.00%</span></div></div><div cl=
+ass=3D"performance-summary"><div class=3D"perf-metric"><svg xmlns=3D"http:/=
+/www.w3.org/2000/svg" width=3D"16" height=3D"16" viewBox=3D"0 0 24 24" fill=
+=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=3D"roun=
+d" stroke-linejoin=3D"round" class=3D"lucide lucide-dollar-sign"><line x1=
+=3D"12" x2=3D"12" y1=3D"2" y2=3D"22"></line><path d=3D"M17 5H9.5a3.5 3.5 0 =
+0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"></path></svg><span>Total Return: 346.99%</sp=
+an></div><div class=3D"perf-metric"><svg xmlns=3D"http://www.w3.org/2000/sv=
+g" width=3D"16" height=3D"16" viewBox=3D"0 0 24 24" fill=3D"none" stroke=3D=
+"currentColor" stroke-width=3D"2" stroke-linecap=3D"round" stroke-linejoin=
+=3D"round" class=3D"lucide lucide-activity"><path d=3D"M22 12h-4l-3 9L9 3l-=
+3 9H2"></path></svg><span>Trades: 15</span></div><div class=3D"perf-metric"=
+><svg xmlns=3D"http://www.w3.org/2000/svg" width=3D"16" height=3D"16" viewB=
+ox=3D"0 0 24 24" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" s=
+troke-linecap=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-ta=
+rget"><circle cx=3D"12" cy=3D"12" r=3D"10"></circle><circle cx=3D"12" cy=3D=
+"12" r=3D"6"></circle><circle cx=3D"12" cy=3D"12" r=3D"2"></circle></svg><s=
+pan>Win Rate: 100.00%</span></div><div class=3D"perf-metric"><svg xmlns=3D"=
+http://www.w3.org/2000/svg" width=3D"16" height=3D"16" viewBox=3D"0 0 24 24=
+" fill=3D"none" stroke=3D"currentColor" stroke-width=3D"2" stroke-linecap=
+=3D"round" stroke-linejoin=3D"round" class=3D"lucide lucide-percent"><line =
+x1=3D"19" x2=3D"5" y1=3D"5" y2=3D"19"></line><circle cx=3D"6.5" cy=3D"6.5" =
+r=3D"2.5"></circle><circle cx=3D"17.5" cy=3D"17.5" r=3D"2.5"></circle></svg=
+><span>Max Drawdown: 44.19%</span></div></div></div></div><div class=3D"sto=
+ck-best-section"><h3>=F0=9F=93=88 Best Parameters by Stock</h3><div class=
+=3D"stock-best-grid"><div class=3D"stock-best-card"><div class=3D"stock-hea=
+der"><h4>ALAB</h4><div class=3D"stock-returns"><span>Best Total: +3.47%</sp=
+an><span>Best Annual: +1.97%</span></div></div><div class=3D"best-params-se=
+ction"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=3D"mini-params=
+"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy Activation=
+: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.=
+00%</span><span>Sell Pullback: +5.00%</span></div></div><div class=3D"best-=
+params-section"><h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=
+=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><span=
+>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell A=
+ctivation: +10.00%</span><span>Sell Pullback: +5.00%</span></div></div></di=
+v><div class=3D"stock-best-card"><div class=3D"stock-header"><h4>SOUN</h4><=
+div class=3D"stock-returns"><span>Best Total: +5.24%</span><span>Best Annua=
+l: +1.77%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=
+=8E=AF Best for Total Return</h5><div class=3D"mini-params"><span>Profit: +=
+10.00%</span><span>Grid: +5.00%</span><span>Buy Activation: +10.00%</span><=
+span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>S=
+ell Pullback: +5.00%</span></div></div><div class=3D"best-params-section"><=
+h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=3D"mini-params"><=
+span>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy Activation: +=
+10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%=
+</span><span>Sell Pullback: +5.00%</span></div></div></div><div class=3D"st=
+ock-best-card"><div class=3D"stock-header"><h4>SEZL</h4><div class=3D"stock=
+-returns"><span>Best Total: +6.25%</span><span>Best Annual: +1.69%</span></=
+div></div><div class=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Tota=
+l Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>G=
+rid: +5.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0=
+.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%=
+</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=93=8A Best=
+ for Annualized Return</h5><div class=3D"mini-params"><span>Profit: +10.00%=
+</span><span>Grid: +5.00%</span><span>Buy Activation: +10.00%</span><span>B=
+uy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pu=
+llback: +5.00%</span></div></div></div><div class=3D"stock-best-card"><div =
+class=3D"stock-header"><h4>APP</h4><div class=3D"stock-returns"><span>Best =
+Total: +5.27%</span><span>Best Annual: +1.34%</span></div></div><div class=
+=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Total Return</h5><div cl=
+ass=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><s=
+pan>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sel=
+l Activation: +10.00%</span><span>Sell Pullback: +5.00%</span></div></div><=
+div class=3D"best-params-section"><h5>=F0=9F=93=8A Best for Annualized Retu=
+rn</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +=
+5.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</=
+span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%</span=
+></div></div></div><div class=3D"stock-best-card"><div class=3D"stock-heade=
+r"><h4>QBTS</h4><div class=3D"stock-returns"><span>Best Total: +7.21%</span=
+><span>Best Annual: +1.33%</span></div></div><div class=3D"best-params-sect=
+ion"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=3D"mini-params">=
+<span>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy Activation: =
++10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00=
+%</span><span>Sell Pullback: +0.00%</span></div></div><div class=3D"best-pa=
+rams-section"><h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=3D=
+"mini-params"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Bu=
+y Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Acti=
+vation: +10.00%</span><span>Sell Pullback: +0.00%</span></div></div></div><=
+div class=3D"stock-best-card"><div class=3D"stock-header"><h4>CRWV</h4><div=
+ class=3D"stock-returns"><span>Best Total: +1.73%</span><span>Best Annual: =
++1.32%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=8E=
+=AF Best for Total Return</h5><div class=3D"mini-params"><span>Profit: +10.=
+00%</span><span>Grid: +5.00%</span><span>Buy Activation: +10.00%</span><spa=
+n>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell=
+ Pullback: +5.00%</span></div></div><div class=3D"best-params-section"><h5>=
+=F0=9F=93=8A Best for Annualized Return</h5><div class=3D"mini-params"><spa=
+n>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy Activation: +10.=
+00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</s=
+pan><span>Sell Pullback: +5.00%</span></div></div></div><div class=3D"stock=
+-best-card"><div class=3D"stock-header"><h4>PLTR</h4><div class=3D"stock-re=
+turns"><span>Best Total: +5.15%</span><span>Best Annual: +1.26%</span></div=
+></div><div class=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Total R=
+eturn</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid=
+: +5.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00=
+%</span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%</s=
+pan></div></div><div class=3D"best-params-section"><h5>=F0=9F=93=8A Best fo=
+r Annualized Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</s=
+pan><span>Grid: +5.00%</span><span>Buy Activation: +10.00%</span><span>Buy =
+Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pullb=
+ack: +5.00%</span></div></div></div><div class=3D"stock-best-card"><div cla=
+ss=3D"stock-header"><h4>HIMS</h4><div class=3D"stock-returns"><span>Best To=
+tal: +5.44%</span><span>Best Annual: +1.18%</span></div></div><div class=3D=
+"best-params-section"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=
+=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><span=
+>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell A=
+ctivation: +10.00%</span><span>Sell Pullback: +5.00%</span></div></div><div=
+ class=3D"best-params-section"><h5>=F0=9F=93=8A Best for Annualized Return<=
+/h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +5.0=
+0%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</spa=
+n><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%</span></=
+div></div></div><div class=3D"stock-best-card"><div class=3D"stock-header">=
+<h4>CRDO</h4><div class=3D"stock-returns"><span>Best Total: +5.88%</span><s=
+pan>Best Annual: +1.07%</span></div></div><div class=3D"best-params-section=
+"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=3D"mini-params"><sp=
+an>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy Activation: +10=
+.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</=
+span><span>Sell Pullback: +5.00%</span></div></div><div class=3D"best-param=
+s-section"><h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=3D"mi=
+ni-params"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy A=
+ctivation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activat=
+ion: +10.00%</span><span>Sell Pullback: +5.00%</span></div></div></div><div=
+ class=3D"stock-best-card"><div class=3D"stock-header"><h4>AMSC</h4><div cl=
+ass=3D"stock-returns"><span>Best Total: +3.80%</span><span>Best Annual: +0.=
+94%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=8E=AF B=
+est for Total Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</=
+span><span>Grid: +5.00%</span><span>Buy Activation: +10.00%</span><span>Buy=
+ Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pull=
+back: +5.00%</span></div></div><div class=3D"best-params-section"><h5>=F0=
+=9F=93=8A Best for Annualized Return</h5><div class=3D"mini-params"><span>P=
+rofit: +10.00%</span><span>Grid: +5.00%</span><span>Buy Activation: +10.00%=
+</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span=
+><span>Sell Pullback: +5.00%</span></div></div></div><div class=3D"stock-be=
+st-card"><div class=3D"stock-header"><h4>RDDT</h4><div class=3D"stock-retur=
+ns"><span>Best Total: +2.94%</span><span>Best Annual: +0.85%</span></div></=
+div><div class=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Total Retu=
+rn</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +=
+5.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</=
+span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%</span=
+></div></div><div class=3D"best-params-section"><h5>=F0=9F=93=8A Best for A=
+nnualized Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</span=
+><span>Grid: +5.00%</span><span>Buy Activation: +10.00%</span><span>Buy Reb=
+ound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pullback=
+: +5.00%</span></div></div></div><div class=3D"stock-best-card"><div class=
+=3D"stock-header"><h4>HOOD</h4><div class=3D"stock-returns"><span>Best Tota=
+l: +2.92%</span><span>Best Annual: +0.82%</span></div></div><div class=3D"b=
+est-params-section"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=
+=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><span=
+>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell A=
+ctivation: +10.00%</span><span>Sell Pullback: +5.00%</span></div></div><div=
+ class=3D"best-params-section"><h5>=F0=9F=93=8A Best for Annualized Return<=
+/h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +5.0=
+0%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</spa=
+n><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%</span></=
+div></div></div><div class=3D"stock-best-card"><div class=3D"stock-header">=
+<h4>NVDA</h4><div class=3D"stock-returns"><span>Best Total: +5.73%</span><s=
+pan>Best Annual: +0.81%</span></div></div><div class=3D"best-params-section=
+"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=3D"mini-params"><sp=
+an>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy Activation: +10=
+.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</=
+span><span>Sell Pullback: +5.00%</span></div></div><div class=3D"best-param=
+s-section"><h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=3D"mi=
+ni-params"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy A=
+ctivation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activat=
+ion: +10.00%</span><span>Sell Pullback: +5.00%</span></div></div></div><div=
+ class=3D"stock-best-card"><div class=3D"stock-header"><h4>NBIS</h4><div cl=
+ass=3D"stock-returns"><span>Best Total: +3.13%</span><span>Best Annual: +0.=
+74%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=8E=AF B=
+est for Total Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</=
+span><span>Grid: +5.00%</span><span>Buy Activation: +10.00%</span><span>Buy=
+ Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pull=
+back: +0.00%</span></div></div><div class=3D"best-params-section"><h5>=F0=
+=9F=93=8A Best for Annualized Return</h5><div class=3D"mini-params"><span>P=
+rofit: +10.00%</span><span>Grid: +5.00%</span><span>Buy Activation: +10.00%=
+</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span=
+><span>Sell Pullback: +0.00%</span></div></div></div><div class=3D"stock-be=
+st-card"><div class=3D"stock-header"><h4>TEM</h4><div class=3D"stock-return=
+s"><span>Best Total: +1.64%</span><span>Best Annual: +0.61%</span></div></d=
+iv><div class=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Total Retur=
+n</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +5=
+.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</s=
+pan><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%</span>=
+</div></div><div class=3D"best-params-section"><h5>=F0=9F=93=8A Best for An=
+nualized Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</span>=
+<span>Grid: +5.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebo=
+und: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pullback:=
+ +5.00%</span></div></div></div><div class=3D"stock-best-card"><div class=
+=3D"stock-header"><h4>IDCC</h4><div class=3D"stock-returns"><span>Best Tota=
+l: +4.52%</span><span>Best Annual: +0.56%</span></div></div><div class=3D"b=
+est-params-section"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=
+=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><span=
+>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell A=
+ctivation: +10.00%</span><span>Sell Pullback: +5.00%</span></div></div><div=
+ class=3D"best-params-section"><h5>=F0=9F=93=8A Best for Annualized Return<=
+/h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +5.0=
+0%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</spa=
+n><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%</span></=
+div></div></div><div class=3D"stock-best-card"><div class=3D"stock-header">=
+<h4>META</h4><div class=3D"stock-returns"><span>Best Total: +2.86%</span><s=
+pan>Best Annual: +0.55%</span></div></div><div class=3D"best-params-section=
+"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=3D"mini-params"><sp=
+an>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy Activation: +10=
+.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</=
+span><span>Sell Pullback: +5.00%</span></div></div><div class=3D"best-param=
+s-section"><h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=3D"mi=
+ni-params"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy A=
+ctivation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activat=
+ion: +10.00%</span><span>Sell Pullback: +5.00%</span></div></div></div><div=
+ class=3D"stock-best-card"><div class=3D"stock-header"><h4>CIFR</h4><div cl=
+ass=3D"stock-returns"><span>Best Total: +1.63%</span><span>Best Annual: +0.=
+54%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=8E=AF B=
+est for Total Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</=
+span><span>Grid: +10.00%</span><span>Buy Activation: +10.00%</span><span>Bu=
+y Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pul=
+lback: +5.00%</span></div></div><div class=3D"best-params-section"><h5>=F0=
+=9F=93=8A Best for Annualized Return</h5><div class=3D"mini-params"><span>P=
+rofit: +10.00%</span><span>Grid: +10.00%</span><span>Buy Activation: +10.00=
+%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</spa=
+n><span>Sell Pullback: +5.00%</span></div></div></div><div class=3D"stock-b=
+est-card"><div class=3D"stock-header"><h4>SHOP</h4><div class=3D"stock-retu=
+rns"><span>Best Total: +1.58%</span><span>Best Annual: +0.46%</span></div><=
+/div><div class=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Total Ret=
+urn</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: =
++5.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%<=
+/span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%</spa=
+n></div></div><div class=3D"best-params-section"><h5>=F0=9F=93=8A Best for =
+Annualized Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</spa=
+n><span>Grid: +5.00%</span><span>Buy Activation: +10.00%</span><span>Buy Re=
+bound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pullbac=
+k: +5.00%</span></div></div></div><div class=3D"stock-best-card"><div class=
+=3D"stock-header"><h4>SOFI</h4><div class=3D"stock-returns"><span>Best Tota=
+l: +1.58%</span><span>Best Annual: +0.44%</span></div></div><div class=3D"b=
+est-params-section"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=
+=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +10.00%</span><spa=
+n>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell =
+Activation: +10.00%</span><span>Sell Pullback: +5.00%</span></div></div><di=
+v class=3D"best-params-section"><h5>=F0=9F=93=8A Best for Annualized Return=
+</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +10=
+.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</s=
+pan><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%</span>=
+</div></div></div><div class=3D"stock-best-card"><div class=3D"stock-header=
+"><h4>COIN</h4><div class=3D"stock-returns"><span>Best Total: +1.84%</span>=
+<span>Best Annual: +0.40%</span></div></div><div class=3D"best-params-secti=
+on"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=3D"mini-params"><=
+span>Profit: +10.00%</span><span>Grid: +10.00%</span><span>Buy Activation: =
++10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00=
+%</span><span>Sell Pullback: +0.00%</span></div></div><div class=3D"best-pa=
+rams-section"><h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=3D=
+"mini-params"><span>Profit: +10.00%</span><span>Grid: +10.00%</span><span>B=
+uy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Act=
+ivation: +10.00%</span><span>Sell Pullback: +0.00%</span></div></div></div>=
+<div class=3D"stock-best-card"><div class=3D"stock-header"><h4>TSLA</h4><di=
+v class=3D"stock-returns"><span>Best Total: +2.57%</span><span>Best Annual:=
+ +0.40%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=8E=
+=AF Best for Total Return</h5><div class=3D"mini-params"><span>Profit: +10.=
+00%</span><span>Grid: +10.00%</span><span>Buy Activation: +10.00%</span><sp=
+an>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sel=
+l Pullback: +0.00%</span></div></div><div class=3D"best-params-section"><h5=
+>=F0=9F=93=8A Best for Annualized Return</h5><div class=3D"mini-params"><sp=
+an>Profit: +10.00%</span><span>Grid: +10.00%</span><span>Buy Activation: +1=
+0.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%<=
+/span><span>Sell Pullback: +0.00%</span></div></div></div><div class=3D"sto=
+ck-best-card"><div class=3D"stock-header"><h4>ORCL</h4><div class=3D"stock-=
+returns"><span>Best Total: +2.98%</span><span>Best Annual: +0.30%</span></d=
+iv></div><div class=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Total=
+ Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Gr=
+id: +5.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.=
+00%</span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%<=
+/span></div></div><div class=3D"best-params-section"><h5>=F0=9F=93=8A Best =
+for Annualized Return</h5><div class=3D"mini-params"><span>Profit: +10.00%<=
+/span><span>Grid: +5.00%</span><span>Buy Activation: +10.00%</span><span>Bu=
+y Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pul=
+lback: +5.00%</span></div></div></div><div class=3D"stock-best-card"><div c=
+lass=3D"stock-header"><h4>AMZN</h4><div class=3D"stock-returns"><span>Best =
+Total: +1.23%</span><span>Best Annual: +0.27%</span></div></div><div class=
+=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Total Return</h5><div cl=
+ass=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><s=
+pan>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sel=
+l Activation: +10.00%</span><span>Sell Pullback: +5.00%</span></div></div><=
+div class=3D"best-params-section"><h5>=F0=9F=93=8A Best for Annualized Retu=
+rn</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +=
+5.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</=
+span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%</span=
+></div></div></div><div class=3D"stock-best-card"><div class=3D"stock-heade=
+r"><h4>BABA</h4><div class=3D"stock-returns"><span>Best Total: +1.13%</span=
+><span>Best Annual: +0.25%</span></div></div><div class=3D"best-params-sect=
+ion"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=3D"mini-params">=
+<span>Profit: +10.00%</span><span>Grid: +10.00%</span><span>Buy Activation:=
+ +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.0=
+0%</span><span>Sell Pullback: +5.00%</span></div></div><div class=3D"best-p=
+arams-section"><h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=
+=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +10.00%</span><spa=
+n>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell =
+Activation: +10.00%</span><span>Sell Pullback: +5.00%</span></div></div></d=
+iv><div class=3D"stock-best-card"><div class=3D"stock-header"><h4>AVGO</h4>=
+<div class=3D"stock-returns"><span>Best Total: +4.33%</span><span>Best Annu=
+al: +0.24%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=
+=8E=AF Best for Total Return</h5><div class=3D"mini-params"><span>Profit: +=
+10.00%</span><span>Grid: +5.00%</span><span>Buy Activation: +10.00%</span><=
+span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>S=
+ell Pullback: +5.00%</span></div></div><div class=3D"best-params-section"><=
+h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=3D"mini-params"><=
+span>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy Activation: +=
+10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%=
+</span><span>Sell Pullback: +5.00%</span></div></div></div><div class=3D"st=
+ock-best-card"><div class=3D"stock-header"><h4>LMND</h4><div class=3D"stock=
+-returns"><span>Best Total: +0.66%</span><span>Best Annual: +0.21%</span></=
+div></div><div class=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Tota=
+l Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>G=
+rid: +10.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +=
+0.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +0.00=
+%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=93=8A Bes=
+t for Annualized Return</h5><div class=3D"mini-params"><span>Profit: +10.00=
+%</span><span>Grid: +10.00%</span><span>Buy Activation: +10.00%</span><span=
+>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell =
+Pullback: +0.00%</span></div></div></div><div class=3D"stock-best-card"><di=
+v class=3D"stock-header"><h4>FIGR</h4><div class=3D"stock-returns"><span>Be=
+st Total: +0.19%</span><span>Best Annual: +0.18%</span></div></div><div cla=
+ss=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Total Return</h5><div =
+class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +5.00%</span>=
+<span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>S=
+ell Activation: +10.00%</span><span>Sell Pullback: +0.00%</span></div></div=
+><div class=3D"best-params-section"><h5>=F0=9F=93=8A Best for Annualized Re=
+turn</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid:=
+ +5.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%=
+</span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +0.00%</sp=
+an></div></div></div><div class=3D"stock-best-card"><div class=3D"stock-hea=
+der"><h4>MSFT</h4><div class=3D"stock-returns"><span>Best Total: +1.23%</sp=
+an><span>Best Annual: +0.18%</span></div></div><div class=3D"best-params-se=
+ction"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=3D"mini-params=
+"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy Activation=
+: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.=
+00%</span><span>Sell Pullback: +5.00%</span></div></div><div class=3D"best-=
+params-section"><h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=
+=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><span=
+>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell A=
+ctivation: +10.00%</span><span>Sell Pullback: +5.00%</span></div></div></di=
+v><div class=3D"stock-best-card"><div class=3D"stock-header"><h4>INTC</h4><=
+div class=3D"stock-returns"><span>Best Total: +0.82%</span><span>Best Annua=
+l: +0.18%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=
+=8E=AF Best for Total Return</h5><div class=3D"mini-params"><span>Profit: +=
+10.00%</span><span>Grid: +5.00%</span><span>Buy Activation: +10.00%</span><=
+span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>S=
+ell Pullback: +0.00%</span></div></div><div class=3D"best-params-section"><=
+h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=3D"mini-params"><=
+span>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy Activation: +=
+10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%=
+</span><span>Sell Pullback: +0.00%</span></div></div></div><div class=3D"st=
+ock-best-card"><div class=3D"stock-header"><h4>QQQ</h4><div class=3D"stock-=
+returns"><span>Best Total: +1.20%</span><span>Best Annual: +0.12%</span></d=
+iv></div><div class=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Total=
+ Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Gr=
+id: +5.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.=
+00%</span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%<=
+/span></div></div><div class=3D"best-params-section"><h5>=F0=9F=93=8A Best =
+for Annualized Return</h5><div class=3D"mini-params"><span>Profit: +10.00%<=
+/span><span>Grid: +5.00%</span><span>Buy Activation: +10.00%</span><span>Bu=
+y Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pul=
+lback: +5.00%</span></div></div></div><div class=3D"stock-best-card"><div c=
+lass=3D"stock-header"><h4>CRCL</h4><div class=3D"stock-returns"><span>Best =
+Total: +0.11%</span><span>Best Annual: +0.11%</span></div></div><div class=
+=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Total Return</h5><div cl=
+ass=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +10.00%</span><=
+span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Se=
+ll Activation: +10.00%</span><span>Sell Pullback: +5.00%</span></div></div>=
+<div class=3D"best-params-section"><h5>=F0=9F=93=8A Best for Annualized Ret=
+urn</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: =
++10.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%=
+</span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%</sp=
+an></div></div></div><div class=3D"stock-best-card"><div class=3D"stock-hea=
+der"><h4>AAPL</h4><div class=3D"stock-returns"><span>Best Total: +1.10%</sp=
+an><span>Best Annual: +0.10%</span></div></div><div class=3D"best-params-se=
+ction"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=3D"mini-params=
+"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><span>Buy Activation=
+: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.=
+00%</span><span>Sell Pullback: +0.00%</span></div></div><div class=3D"best-=
+params-section"><h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=
+=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +5.00%</span><span=
+>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell A=
+ctivation: +10.00%</span><span>Sell Pullback: +0.00%</span></div></div></di=
+v><div class=3D"stock-best-card"><div class=3D"stock-header"><h4>BITF</h4><=
+div class=3D"stock-returns"><span>Best Total: +0.24%</span><span>Best Annua=
+l: +0.07%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=
+=8E=AF Best for Total Return</h5><div class=3D"mini-params"><span>Profit: +=
+10.00%</span><span>Grid: +10.00%</span><span>Buy Activation: +10.00%</span>=
+<span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>=
+Sell Pullback: +0.00%</span></div></div><div class=3D"best-params-section">=
+<h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=3D"mini-params">=
+<span>Profit: +10.00%</span><span>Grid: +10.00%</span><span>Buy Activation:=
+ +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.0=
+0%</span><span>Sell Pullback: +0.00%</span></div></div></div><div class=3D"=
+stock-best-card"><div class=3D"stock-header"><h4>JD</h4><div class=3D"stock=
+-returns"><span>Best Total: +0.28%</span><span>Best Annual: +0.07%</span></=
+div></div><div class=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Tota=
+l Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>G=
+rid: +10.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +=
+0.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +0.00=
+%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=93=8A Bes=
+t for Annualized Return</h5><div class=3D"mini-params"><span>Profit: +10.00=
+%</span><span>Grid: +10.00%</span><span>Buy Activation: +10.00%</span><span=
+>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell =
+Pullback: +0.00%</span></div></div></div><div class=3D"stock-best-card"><di=
+v class=3D"stock-header"><h4>RXRX</h4><div class=3D"stock-returns"><span>Be=
+st Total: -0.03%</span><span>Best Annual: -0.01%</span></div></div><div cla=
+ss=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Total Return</h5><div =
+class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +10.00%</span=
+><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>=
+Sell Activation: +10.00%</span><span>Sell Pullback: +0.00%</span></div></di=
+v><div class=3D"best-params-section"><h5>=F0=9F=93=8A Best for Annualized R=
+eturn</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid=
+: +10.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.0=
+0%</span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +0.00%</=
+span></div></div></div><div class=3D"stock-best-card"><div class=3D"stock-h=
+eader"><h4>KNDI</h4><div class=3D"stock-returns"><span>Best Total: -0.34%</=
+span><span>Best Annual: -0.07%</span></div></div><div class=3D"best-params-=
+section"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=3D"mini-para=
+ms"><span>Profit: +10.00%</span><span>Grid: +10.00%</span><span>Buy Activat=
+ion: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +=
+10.00%</span><span>Sell Pullback: +0.00%</span></div></div><div class=3D"be=
+st-params-section"><h5>=F0=9F=93=8A Best for Annualized Return</h5><div cla=
+ss=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +10.00%</span><s=
+pan>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sel=
+l Activation: +10.00%</span><span>Sell Pullback: +0.00%</span></div></div><=
+/div><div class=3D"stock-best-card"><div class=3D"stock-header"><h4>U</h4><=
+div class=3D"stock-returns"><span>Best Total: -0.45%</span><span>Best Annua=
+l: -0.14%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=
+=8E=AF Best for Total Return</h5><div class=3D"mini-params"><span>Profit: +=
+10.00%</span><span>Grid: +10.00%</span><span>Buy Activation: +10.00%</span>=
+<span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>=
+Sell Pullback: +5.00%</span></div></div><div class=3D"best-params-section">=
+<h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=3D"mini-params">=
+<span>Profit: +10.00%</span><span>Grid: +10.00%</span><span>Buy Activation:=
+ +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.0=
+0%</span><span>Sell Pullback: +5.00%</span></div></div></div><div class=3D"=
+stock-best-card"><div class=3D"stock-header"><h4>HYLN</h4><div class=3D"sto=
+ck-returns"><span>Best Total: -0.52%</span><span>Best Annual: -0.16%</span>=
+</div></div><div class=3D"best-params-section"><h5>=F0=9F=8E=AF Best for To=
+tal Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span=
+>Grid: +10.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound:=
+ +0.00%</span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +0.=
+00%</span></div></div><div class=3D"best-params-section"><h5>=F0=9F=93=8A B=
+est for Annualized Return</h5><div class=3D"mini-params"><span>Profit: +10.=
+00%</span><span>Grid: +10.00%</span><span>Buy Activation: +10.00%</span><sp=
+an>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><span>Sel=
+l Pullback: +0.00%</span></div></div></div><div class=3D"stock-best-card"><=
+div class=3D"stock-header"><h4>NIO</h4><div class=3D"stock-returns"><span>B=
+est Total: -0.55%</span><span>Best Annual: -0.16%</span></div></div><div cl=
+ass=3D"best-params-section"><h5>=F0=9F=8E=AF Best for Total Return</h5><div=
+ class=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +10.00%</spa=
+n><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span=
+>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%</span></div></d=
+iv><div class=3D"best-params-section"><h5>=F0=9F=93=8A Best for Annualized =
+Return</h5><div class=3D"mini-params"><span>Profit: +10.00%</span><span>Gri=
+d: +10.00%</span><span>Buy Activation: +10.00%</span><span>Buy Rebound: +0.=
+00%</span><span>Sell Activation: +10.00%</span><span>Sell Pullback: +5.00%<=
+/span></div></div></div><div class=3D"stock-best-card"><div class=3D"stock-=
+header"><h4>API</h4><div class=3D"stock-returns"><span>Best Total: -0.76%</=
+span><span>Best Annual: -0.25%</span></div></div><div class=3D"best-params-=
+section"><h5>=F0=9F=8E=AF Best for Total Return</h5><div class=3D"mini-para=
+ms"><span>Profit: +10.00%</span><span>Grid: +10.00%</span><span>Buy Activat=
+ion: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +=
+10.00%</span><span>Sell Pullback: +0.00%</span></div></div><div class=3D"be=
+st-params-section"><h5>=F0=9F=93=8A Best for Annualized Return</h5><div cla=
+ss=3D"mini-params"><span>Profit: +10.00%</span><span>Grid: +10.00%</span><s=
+pan>Buy Activation: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sel=
+l Activation: +10.00%</span><span>Sell Pullback: +0.00%</span></div></div><=
+/div><div class=3D"stock-best-card"><div class=3D"stock-header"><h4>TDOC</h=
+4><div class=3D"stock-returns"><span>Best Total: -0.94%</span><span>Best An=
+nual: -0.29%</span></div></div><div class=3D"best-params-section"><h5>=F0=
+=9F=8E=AF Best for Total Return</h5><div class=3D"mini-params"><span>Profit=
+: +10.00%</span><span>Grid: +10.00%</span><span>Buy Activation: +10.00%</sp=
+an><span>Buy Rebound: +0.00%</span><span>Sell Activation: +10.00%</span><sp=
+an>Sell Pullback: +5.00%</span></div></div><div class=3D"best-params-sectio=
+n"><h5>=F0=9F=93=8A Best for Annualized Return</h5><div class=3D"mini-param=
+s"><span>Profit: +10.00%</span><span>Grid: +10.00%</span><span>Buy Activati=
+on: +10.00%</span><span>Buy Rebound: +0.00%</span><span>Sell Activation: +1=
+0.00%</span><span>Sell Pullback: +5.00%</span></div></div></div></div></div=
+><div class=3D"detailed-results-section"><div class=3D"results-controls"><h=
+3>=F0=9F=93=8B Detailed Results</h3><div class=3D"filter-controls"><div cla=
+ss=3D"stock-filter"><label for=3D"stock-filter">Filter by Stock:</label><se=
+lect id=3D"stock-filter"><option value=3D"all">All Stocks (top 2 unique con=
+figs per stock, 84 total results)</option><option value=3D"ALAB">ALAB (top =
+2 unique of 4 results)</option><option value=3D"SOUN">SOUN (top 2 unique of=
+ 4 results)</option><option value=3D"SEZL">SEZL (top 2 unique of 4 results)=
+</option><option value=3D"APP">APP (top 2 unique of 4 results)</option><opt=
+ion value=3D"QBTS">QBTS (top 2 unique of 4 results)</option><option value=
+=3D"CRWV">CRWV (top 2 unique of 4 results)</option><option value=3D"PLTR">P=
+LTR (top 2 unique of 4 results)</option><option value=3D"HIMS">HIMS (top 2 =
+unique of 4 results)</option><option value=3D"CRDO">CRDO (top 2 unique of 4=
+ results)</option><option value=3D"AMSC">AMSC (top 2 unique of 4 results)</=
+option><option value=3D"RDDT">RDDT (top 2 unique of 4 results)</option><opt=
+ion value=3D"HOOD">HOOD (top 2 unique of 4 results)</option><option value=
+=3D"NVDA">NVDA (top 2 unique of 4 results)</option><option value=3D"NBIS">N=
+BIS (top 2 unique of 4 results)</option><option value=3D"TEM">TEM (top 2 un=
+ique of 4 results)</option><option value=3D"IDCC">IDCC (top 2 unique of 4 r=
+esults)</option><option value=3D"META">META (top 2 unique of 4 results)</op=
+tion><option value=3D"CIFR">CIFR (top 2 unique of 4 results)</option><optio=
+n value=3D"SHOP">SHOP (top 2 unique of 4 results)</option><option value=3D"=
+SOFI">SOFI (top 2 unique of 4 results)</option><option value=3D"COIN">COIN =
+(top 2 unique of 4 results)</option><option value=3D"TSLA">TSLA (top 2 uniq=
+ue of 4 results)</option><option value=3D"ORCL">ORCL (top 2 unique of 4 res=
+ults)</option><option value=3D"AMZN">AMZN (top 2 unique of 4 results)</opti=
+on><option value=3D"BABA">BABA (top 2 unique of 4 results)</option><option =
+value=3D"AVGO">AVGO (top 2 unique of 4 results)</option><option value=3D"LM=
+ND">LMND (top 2 unique of 4 results)</option><option value=3D"FIGR">FIGR (t=
+op 2 unique of 4 results)</option><option value=3D"MSFT">MSFT (top 2 unique=
+ of 4 results)</option><option value=3D"INTC">INTC (top 2 unique of 4 resul=
+ts)</option><option value=3D"QQQ">QQQ (top 2 unique of 4 results)</option><=
+option value=3D"CRCL">CRCL (top 2 unique of 4 results)</option><option valu=
+e=3D"AAPL">AAPL (top 2 unique of 4 results)</option><option value=3D"BITF">=
+BITF (top 2 unique of 4 results)</option><option value=3D"JD">JD (top 2 uni=
+que of 4 results)</option><option value=3D"RXRX">RXRX (top 2 unique of 4 re=
+sults)</option><option value=3D"KNDI">KNDI (top 2 unique of 4 results)</opt=
+ion><option value=3D"U">U (top 2 unique of 4 results)</option><option value=
+=3D"HYLN">HYLN (top 2 unique of 4 results)</option><option value=3D"NIO">NI=
+O (top 2 unique of 4 results)</option><option value=3D"API">API (top 2 uniq=
+ue of 4 results)</option><option value=3D"TDOC">TDOC (top 2 unique of 4 res=
+ults)</option></select></div><div class=3D"beta-filter"><label for=3D"beta-=
+filter">Filter by Coefficient:</label><select id=3D"beta-filter"><option va=
+lue=3D"all">All Coefficients (84 results)</option><option value=3D"1">Coeff=
+icient =3D 1.00 (168 results)</option></select></div></div></div><div class=
+=3D"results-table-container"><table class=3D"results-table"><thead><tr><th>=
+Actions</th><th>Rank</th><th>Stock</th><th>Beta</th><th>Coeff</th><th>=CE=
+=B2-Factor</th><th>Total Return</th><th>Annual Return</th><th>CAGR on Max D=
+eployed</th><th>CAGR on Avg Deployed</th><th>Return on Max Deployed</th><th=
+>Sharpe Ratio</th><th>Sortino Ratio</th><th>Total Trades</th><th>Win Rate</=
+th><th>Avg Profit/Trade</th><th>Max Drawdown</th><th>Capital Util.</th><th>=
+Max Lots/Sell</th><th>Profit Req.</th><th>Grid Int.</th><th>Buy Act.</th><t=
+h>Buy Rebound</th><th>Sell Act.</th><th>Sell Pullback</th></tr></thead><tbo=
+dy><tr class=3D"top-result"><td><button class=3D"run-single-button" title=
+=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>1<=
+/td><td class=3D"stock-cell">ALAB</td><td class=3D"beta-cell">1.00</td><td =
+class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td=
+><td class=3D"return-cell positive"><div style=3D"display: flex; flex-direc=
+tion: column; gap: 2px;"><div style=3D"font-weight: bold;">$207,832.62</div=
+><div style=3D"font-size: 0.85em;">346.99% | Avg: $59,896.37</div><div styl=
+e=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div><=
+/div></td><td class=3D"return-cell positive">196.53%</td><td class=3D"retur=
+n-cell positive">108.35%</td><td class=3D"return-cell positive">191.15%</td=
+><td class=3D"return-cell positive">207.83%</td><td class=3D"ratio-cell">1.=
+46</td><td class=3D"ratio-cell">2.50</td><td>15</td><td>100.00%</td><td cla=
+ss=3D"return-cell positive">$8,168.75</td><td class=3D"drawdown-cell">44.19=
+%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</t=
+d><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D"top-resul=
+t"><td><button class=3D"run-single-button" title=3D"Run single backtest in =
+new window">=F0=9F=93=8A Run</button></td><td>2</td><td class=3D"stock-cell=
+">SOUN</td><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">=
+1.00</td><td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell p=
+ositive"><div style=3D"display: flex; flex-direction: column; gap: 2px;"><d=
+iv style=3D"font-weight: bold;">$416,992.33</div><div style=3D"font-size: 0=
+.85em;">523.83% | Avg: $79,605.11</div><div style=3D"font-size: 0.85em; col=
+or: rgb(102, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"retu=
+rn-cell positive">176.77%</td><td class=3D"return-cell positive">61.74%</td=
+><td class=3D"return-cell positive">72.91%</td><td class=3D"return-cell pos=
+itive">416.99%</td><td class=3D"ratio-cell">0.89</td><td class=3D"ratio-cel=
+l">1.76</td><td>28</td><td>100.00%</td><td class=3D"return-cell positive">$=
+12,839.75</td><td class=3D"drawdown-cell">71.23%</td><td>0.00%</td><td>1</t=
+d><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%=
+</td><td>+5.00%</td></tr><tr class=3D"top-result"><td><button class=3D"run-=
+single-button" title=3D"Run single backtest in new window">=F0=9F=93=8A Run=
+</button></td><td>3</td><td class=3D"stock-cell">SEZL</td><td class=3D"beta=
+-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td class=3D"beta-f=
+actor-cell">1.00</td><td class=3D"return-cell positive"><div style=3D"displ=
+ay: flex; flex-direction: column; gap: 2px;"><div style=3D"font-weight: bol=
+d;">$247,162.83</div><div style=3D"font-size: 0.85em;">624.63% | Avg: $39,5=
+69.29</div><div style=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max=
+: $90,000.00</div></div></td><td class=3D"return-cell positive">168.94%</td=
+><td class=3D"return-cell positive">89.09%</td><td class=3D"return-cell pos=
+itive">178.67%</td><td class=3D"return-cell positive">285.74%</td><td class=
+=3D"ratio-cell">1.56</td><td class=3D"ratio-cell">2.45</td><td>23</td><td>1=
+00.00%</td><td class=3D"return-cell positive">$7,847.01</td><td class=3D"dr=
+awdown-cell">31.78%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%<=
+/td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr =
+class=3D"top-result"><td><button class=3D"run-single-button" title=3D"Run s=
+ingle backtest in new window">=F0=9F=93=8A Run</button></td><td>4</td><td c=
+lass=3D"stock-cell">SEZL</td><td class=3D"beta-cell">1.00</td><td class=3D"=
+coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td clas=
+s=3D"return-cell positive"><div style=3D"display: flex; flex-direction: col=
+umn; gap: 2px;"><div style=3D"font-weight: bold;">$234,525.35</div><div sty=
+le=3D"font-size: 0.85em;">939.51% | Avg: $24,962.55</div><div style=3D"font=
+-size: 0.85em; color: rgb(102, 102, 102);">Max: $90,000.00</div></div></td>=
+<td class=3D"return-cell positive">160.30%</td><td class=3D"return-cell pos=
+itive">85.81%</td><td class=3D"return-cell positive">240.34%</td><td class=
+=3D"return-cell positive">271.69%</td><td class=3D"ratio-cell">1.86</td><td=
+ class=3D"ratio-cell">4.13</td><td>38</td><td>100.00%</td><td class=3D"retu=
+rn-cell positive">$6,188.52</td><td class=3D"drawdown-cell">15.65%</td><td>=
+0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.0=
+0%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D"top-result"><td><bu=
+tton class=3D"run-single-button" title=3D"Run single backtest in new window=
+">=F0=9F=93=8A Run</button></td><td>5</td><td class=3D"stock-cell">SOUN</td=
+><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><=
+td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><=
+div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">$355,316.72</div><div style=3D"font-size: 0.85em;">=
+588.78% | Avg: $60,348.43</div><div style=3D"font-size: 0.85em; color: rgb(=
+102, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell =
+positive">150.63%</td><td class=3D"return-cell positive">55.84%</td><td cla=
+ss=3D"return-cell positive">80.66%</td><td class=3D"return-cell positive">3=
+55.32%</td><td class=3D"ratio-cell">0.85</td><td class=3D"ratio-cell">1.63<=
+/td><td>30</td><td>100.00%</td><td class=3D"return-cell positive">$11,006.7=
+6</td><td class=3D"drawdown-cell">64.10%</td><td>0.00%</td><td>1</td><td>+1=
+0.00%</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><t=
+d>+5.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" ti=
+tle=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td=
+>6</td><td class=3D"stock-cell">APP</td><td class=3D"beta-cell">1.00</td><t=
+d class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</=
+td><td class=3D"return-cell positive"><div style=3D"display: flex; flex-dir=
+ection: column; gap: 2px;"><div style=3D"font-weight: bold;">$377,221.35</d=
+iv><div style=3D"font-size: 0.85em;">527.14% | Avg: $71,559.45</div><div st=
+yle=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div=
+></div></td><td class=3D"return-cell positive">134.20%</td><td class=3D"ret=
+urn-cell positive">46.79%</td><td class=3D"return-cell positive">59.37%</td=
+><td class=3D"return-cell positive">377.22%</td><td class=3D"ratio-cell">0.=
+86</td><td class=3D"ratio-cell">1.41</td><td>19</td><td>100.00%</td><td cla=
+ss=3D"return-cell positive">$19,853.76</td><td class=3D"drawdown-cell">82.7=
+5%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</=
+td><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><b=
+utton class=3D"run-single-button" title=3D"Run single backtest in new windo=
+w">=F0=9F=93=8A Run</button></td><td>7</td><td class=3D"stock-cell">QBTS</t=
+d><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td>=
+<td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive">=
+<div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">$374,019.56</div><div style=3D"font-size: 0.85em;">=
+721.19% | Avg: $51,861.60</div><div style=3D"font-size: 0.85em; color: rgb(=
+102, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell =
+positive">133.06%</td><td class=3D"return-cell positive">46.55%</td><td cla=
+ss=3D"return-cell positive">72.20%</td><td class=3D"return-cell positive">3=
+74.02%</td><td class=3D"ratio-cell">0.78</td><td class=3D"ratio-cell">1.56<=
+/td><td>41</td><td>100.00%</td><td class=3D"return-cell positive">$9,122.43=
+</td><td class=3D"drawdown-cell">74.91%</td><td>0.00%</td><td>1</td><td>+10=
+.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>=
++0.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" titl=
+e=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>8=
+</td><td class=3D"stock-cell">CRWV</td><td class=3D"beta-cell">1.00</td><td=
+ class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</t=
+d><td class=3D"return-cell positive"><div style=3D"display: flex; flex-dire=
+ction: column; gap: 2px;"><div style=3D"font-weight: bold;">$47,025.07</div=
+><div style=3D"font-size: 0.85em;">172.69% | Avg: $27,230.77</div><div styl=
+e=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $60,000.00</div></=
+div></td><td class=3D"return-cell positive">132.03%</td><td class=3D"return=
+-cell positive">468.23%</td><td class=3D"return-cell positive">2527.82%</td=
+><td class=3D"return-cell positive">145.04%</td><td class=3D"ratio-cell">2.=
+58</td><td class=3D"ratio-cell">4.36</td><td>4</td><td>100.00%</td><td clas=
+s=3D"return-cell positive">$8,937.80</td><td class=3D"drawdown-cell">14.09%=
+</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td=
+><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><but=
+ton class=3D"run-single-button" title=3D"Run single backtest in new window"=
+>=F0=9F=93=8A Run</button></td><td>9</td><td class=3D"stock-cell">PLTR</td>=
+<td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><t=
+d class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><d=
+iv style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D=
+"font-weight: bold;">$355,100.15</div><div style=3D"font-size: 0.85em;">514=
+.67% | Avg: $68,996.10</div><div style=3D"font-size: 0.85em; color: rgb(102=
+, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell pos=
+itive">126.33%</td><td class=3D"return-cell positive">45.09%</td><td class=
+=3D"return-cell positive">58.94%</td><td class=3D"return-cell positive">355=
+.10%</td><td class=3D"ratio-cell">0.87</td><td class=3D"ratio-cell">1.33</t=
+d><td>19</td><td>100.00%</td><td class=3D"return-cell positive">$18,585.45<=
+/td><td class=3D"drawdown-cell">62.20%</td><td>0.00%</td><td>1</td><td>+10.=
+00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+=
+5.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" title=
+=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>10=
+</td><td class=3D"stock-cell">CRWV</td><td class=3D"beta-cell">1.00</td><td=
+ class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</t=
+d><td class=3D"return-cell positive"><div style=3D"display: flex; flex-dire=
+ction: column; gap: 2px;"><div style=3D"font-weight: bold;">$44,963.39</div=
+><div style=3D"font-size: 0.85em;">196.81% | Avg: $22,846.15</div><div styl=
+e=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $50,000.00</div></=
+div></td><td class=3D"return-cell positive">126.24%</td><td class=3D"return=
+-cell positive">687.28%</td><td class=3D"return-cell positive">3493.43%</td=
+><td class=3D"return-cell positive">189.93%</td><td class=3D"ratio-cell">2.=
+79</td><td class=3D"ratio-cell">5.20</td><td>5</td><td>100.00%</td><td clas=
+s=3D"return-cell positive">$7,369.81</td><td class=3D"drawdown-cell">10.76%=
+</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</t=
+d><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><bu=
+tton class=3D"run-single-button" title=3D"Run single backtest in new window=
+">=F0=9F=93=8A Run</button></td><td>11</td><td class=3D"stock-cell">HIMS</t=
+d><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td>=
+<td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive">=
+<div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">$333,093.02</div><div style=3D"font-size: 0.85em;">=
+543.93% | Avg: $61,237.82</div><div style=3D"font-size: 0.85em; color: rgb(=
+102, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell =
+positive">118.50%</td><td class=3D"return-cell positive">43.34%</td><td cla=
+ss=3D"return-cell positive">61.68%</td><td class=3D"return-cell positive">3=
+33.09%</td><td class=3D"ratio-cell">0.89</td><td class=3D"ratio-cell">1.40<=
+/td><td>35</td><td>100.00%</td><td class=3D"return-cell positive">$5,677.28=
+</td><td class=3D"drawdown-cell">48.93%</td><td>0.00%</td><td>1</td><td>+10=
+.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>=
++5.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" titl=
+e=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>1=
+2</td><td class=3D"stock-cell">QBTS</td><td class=3D"beta-cell">1.00</td><t=
+d class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</=
+td><td class=3D"return-cell positive"><div style=3D"display: flex; flex-dir=
+ection: column; gap: 2px;"><div style=3D"font-weight: bold;">$319,117.62</d=
+iv><div style=3D"font-size: 0.85em;">646.30% | Avg: $49,376.22</div><div st=
+yle=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div=
+></div></td><td class=3D"return-cell positive">113.53%</td><td class=3D"ret=
+urn-cell positive">42.19%</td><td class=3D"return-cell positive">69.09%</td=
+><td class=3D"return-cell positive">319.12%</td><td class=3D"ratio-cell">0.=
+74</td><td class=3D"ratio-cell">1.50</td><td>39</td><td>100.00%</td><td cla=
+ss=3D"return-cell positive">$8,182.50</td><td class=3D"drawdown-cell">72.28=
+%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</=
+td><td>+0.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><b=
+utton class=3D"run-single-button" title=3D"Run single backtest in new windo=
+w">=F0=9F=93=8A Run</button></td><td>13</td><td class=3D"stock-cell">ALAB</=
+td><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td=
+><td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"=
+><div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">$119,111.61</div><div style=3D"font-size: 0.85em;">=
+223.84% | Avg: $53,212.44</div><div style=3D"font-size: 0.85em; color: rgb(=
+102, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell =
+positive">112.63%</td><td class=3D"return-cell positive">66.88%</td><td cla=
+ss=3D"return-cell positive">151.93%</td><td class=3D"return-cell positive">=
+119.11%</td><td class=3D"ratio-cell">1.14</td><td class=3D"ratio-cell">1.82=
+</td><td>22</td><td>100.00%</td><td class=3D"return-cell positive">$5,393.9=
+1</td><td class=3D"drawdown-cell">43.27%</td><td>0.00%</td><td>1</td><td>+1=
+0.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td=
+>+0.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" tit=
+le=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>=
+14</td><td class=3D"stock-cell">CRDO</td><td class=3D"beta-cell">1.00</td><=
+td class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00<=
+/td><td class=3D"return-cell positive"><div style=3D"display: flex; flex-di=
+rection: column; gap: 2px;"><div style=3D"font-weight: bold;">$272,108.53</=
+div><div style=3D"font-size: 0.85em;">587.72% | Avg: $46,298.70</div><div s=
+tyle=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</di=
+v></div></td><td class=3D"return-cell positive">107.49%</td><td class=3D"re=
+turn-cell positive">43.10%</td><td class=3D"return-cell positive">76.54%</t=
+d><td class=3D"return-cell positive">272.11%</td><td class=3D"ratio-cell">1=
+.05</td><td class=3D"ratio-cell">1.30</td><td>29</td><td>100.00%</td><td cl=
+ass=3D"return-cell positive">$9,372.12</td><td class=3D"drawdown-cell">46.3=
+3%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</=
+td><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><b=
+utton class=3D"run-single-button" title=3D"Run single backtest in new windo=
+w">=F0=9F=93=8A Run</button></td><td>15</td><td class=3D"stock-cell">AMSC</=
+td><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td=
+><td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"=
+><div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">$264,669.89</div><div style=3D"font-size: 0.85em;">=
+380.38% | Avg: $69,580.90</div><div style=3D"font-size: 0.85em; color: rgb(=
+102, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell =
+positive">94.16%</td><td class=3D"return-cell positive">37.41%</td><td clas=
+s=3D"return-cell positive">50.21%</td><td class=3D"return-cell positive">26=
+4.67%</td><td class=3D"ratio-cell">0.73</td><td class=3D"ratio-cell">1.17</=
+td><td>24</td><td>100.00%</td><td class=3D"return-cell positive">$7,372.86<=
+/td><td class=3D"drawdown-cell">64.58%</td><td>0.00%</td><td>1</td><td>+10.=
+00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+=
+5.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" title=
+=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>16=
+</td><td class=3D"stock-cell">AMSC</td><td class=3D"beta-cell">1.00</td><td=
+ class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</t=
+d><td class=3D"return-cell positive"><div style=3D"display: flex; flex-dire=
+ction: column; gap: 2px;"><div style=3D"font-weight: bold;">$264,353.98</di=
+v><div style=3D"font-size: 0.85em;">430.31% | Avg: $61,432.75</div><div sty=
+le=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div>=
+</div></td><td class=3D"return-cell positive">94.04%</td><td class=3D"retur=
+n-cell positive">37.38%</td><td class=3D"return-cell positive">54.84%</td><=
+td class=3D"return-cell positive">264.35%</td><td class=3D"ratio-cell">0.73=
+</td><td class=3D"ratio-cell">1.13</td><td>22</td><td>100.00%</td><td class=
+=3D"return-cell positive">$12,016.09</td><td class=3D"drawdown-cell">63.86%=
+</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</t=
+d><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><bu=
+tton class=3D"run-single-button" title=3D"Run single backtest in new window=
+">=F0=9F=93=8A Run</button></td><td>17</td><td class=3D"stock-cell">RDDT</t=
+d><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td>=
+<td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive">=
+<div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">$89,760.81</div><div style=3D"font-size: 0.85em;">2=
+93.61% | Avg: $30,571.43</div><div style=3D"font-size: 0.85em; color: rgb(1=
+02, 102, 102);">Max: $70,000.00</div></div></td><td class=3D"return-cell po=
+sitive">85.10%</td><td class=3D"return-cell positive">92.08%</td><td class=
+=3D"return-cell positive">230.36%</td><td class=3D"return-cell positive">17=
+1.09%</td><td class=3D"ratio-cell">1.64</td><td class=3D"ratio-cell">2.90</=
+td><td>10</td><td>100.00%</td><td class=3D"return-cell positive">$5,262.74<=
+/td><td class=3D"drawdown-cell">13.49%</td><td>0.00%</td><td>1</td><td>+10.=
+00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+=
+5.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" title=
+=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>18=
+</td><td class=3D"stock-cell">HOOD</td><td class=3D"beta-cell">1.00</td><td=
+ class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</t=
+d><td class=3D"return-cell positive"><div style=3D"display: flex; flex-dire=
+ction: column; gap: 2px;"><div style=3D"font-weight: bold;">$231,665.51</di=
+v><div style=3D"font-size: 0.85em;">292.25% | Avg: $79,269.01</div><div sty=
+le=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div>=
+</div></td><td class=3D"return-cell positive">82.42%</td><td class=3D"retur=
+n-cell positive">34.24%</td><td class=3D"return-cell positive">42.13%</td><=
+td class=3D"return-cell positive">231.67%</td><td class=3D"ratio-cell">0.73=
+</td><td class=3D"ratio-cell">1.10</td><td>16</td><td>100.00%</td><td class=
+=3D"return-cell positive">$14,232.14</td><td class=3D"drawdown-cell">66.53%=
+</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td=
+><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><but=
+ton class=3D"run-single-button" title=3D"Run single backtest in new window"=
+>=F0=9F=93=8A Run</button></td><td>19</td><td class=3D"stock-cell">NVDA</td=
+><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><=
+td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><=
+div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">$227,360.15</div><div style=3D"font-size: 0.85em;">=
+573.29% | Avg: $39,658.87</div><div style=3D"font-size: 0.85em; color: rgb(=
+102, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell =
+positive">80.88%</td><td class=3D"return-cell positive">33.81%</td><td clas=
+s=3D"return-cell positive">67.94%</td><td class=3D"return-cell positive">22=
+7.36%</td><td class=3D"ratio-cell">1.06</td><td class=3D"ratio-cell">1.54</=
+td><td>21</td><td>100.00%</td><td class=3D"return-cell positive">$9,656.54<=
+/td><td class=3D"drawdown-cell">38.27%</td><td>0.00%</td><td>1</td><td>+10.=
+00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+=
+5.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" title=
+=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>20=
+</td><td class=3D"stock-cell">APP</td><td class=3D"beta-cell">1.00</td><td =
+class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td=
+><td class=3D"return-cell positive"><div style=3D"display: flex; flex-direc=
+tion: column; gap: 2px;"><div style=3D"font-weight: bold;">$219,685.69</div=
+><div style=3D"font-size: 0.85em;">366.02% | Avg: $60,019.49</div><div styl=
+e=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div><=
+/div></td><td class=3D"return-cell positive">78.15%</td><td class=3D"return=
+-cell positive">33.04%</td><td class=3D"return-cell positive">50.81%</td><t=
+d class=3D"return-cell positive">219.69%</td><td class=3D"ratio-cell">0.75<=
+/td><td class=3D"ratio-cell">1.16</td><td>18</td><td>100.00%</td><td class=
+=3D"return-cell positive">$12,204.76</td><td class=3D"drawdown-cell">76.52%=
+</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</t=
+d><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><bu=
+tton class=3D"run-single-button" title=3D"Run single backtest in new window=
+">=F0=9F=93=8A Run</button></td><td>21</td><td class=3D"stock-cell">HIMS</t=
+d><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td>=
+<td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive">=
+<div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">$208,804.72</div><div style=3D"font-size: 0.85em;">=
+566.31% | Avg: $36,871.35</div><div style=3D"font-size: 0.85em; color: rgb(=
+102, 102, 102);">Max: $70,000.00</div></div></td><td class=3D"return-cell p=
+ositive">74.28%</td><td class=3D"return-cell positive">43.99%</td><td class=
+=3D"return-cell positive">68.54%</td><td class=3D"return-cell positive">341=
+.15%</td><td class=3D"ratio-cell">0.94</td><td class=3D"ratio-cell">1.28</t=
+d><td>31</td><td>100.00%</td><td class=3D"return-cell positive">$4,149.21</=
+td><td class=3D"drawdown-cell">33.34%</td><td>0.00%</td><td>1</td><td>+10.0=
+0%</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+=
+5.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" title=
+=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>22=
+</td><td class=3D"stock-cell">NBIS</td><td class=3D"beta-cell">1.00</td><td=
+ class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</t=
+d><td class=3D"return-cell positive"><div style=3D"display: flex; flex-dire=
+ction: column; gap: 2px;"><div style=3D"font-weight: bold;">$185,548.97</di=
+v><div style=3D"font-size: 0.85em;">313.30% | Avg: $59,224.04</div><div sty=
+le=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div>=
+</div></td><td class=3D"return-cell positive">74.02%</td><td class=3D"retur=
+n-cell positive">33.51%</td><td class=3D"return-cell positive">54.23%</td><=
+td class=3D"return-cell positive">185.55%</td><td class=3D"ratio-cell">0.79=
+</td><td class=3D"ratio-cell">1.19</td><td>15</td><td>100.00%</td><td class=
+=3D"return-cell positive">$4,489.73</td><td class=3D"drawdown-cell">46.74%<=
+/td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td>=
+<td>+0.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><butt=
+on class=3D"run-single-button" title=3D"Run single backtest in new window">=
+=F0=9F=93=8A Run</button></td><td>23</td><td class=3D"stock-cell">NBIS</td>=
+<td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><t=
+d class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><d=
+iv style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D=
+"font-weight: bold;">$178,888.95</div><div style=3D"font-size: 0.85em;">296=
+.80% | Avg: $60,273.22</div><div style=3D"font-size: 0.85em; color: rgb(102=
+, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell pos=
+itive">71.36%</td><td class=3D"return-cell positive">32.64%</td><td class=
+=3D"return-cell positive">52.49%</td><td class=3D"return-cell positive">178=
+.89%</td><td class=3D"ratio-cell">0.73</td><td class=3D"ratio-cell">1.06</t=
+d><td>8</td><td>100.00%</td><td class=3D"return-cell positive">$3,561.55</t=
+d><td class=3D"drawdown-cell">56.72%</td><td>0.00%</td><td>1</td><td>+10.00=
+%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.=
+00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" title=
+=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>24=
+</td><td class=3D"stock-cell">TEM</td><td class=3D"beta-cell">1.00</td><td =
+class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td=
+><td class=3D"return-cell positive"><div style=3D"display: flex; flex-direc=
+tion: column; gap: 2px;"><div style=3D"font-weight: bold;">$54,059.85</div>=
+<div style=3D"font-size: 0.85em;">163.74% | Avg: $33,015.38</div><div style=
+=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $60,000.00</div></d=
+iv></td><td class=3D"return-cell positive">60.71%</td><td class=3D"return-c=
+ell positive">107.75%</td><td class=3D"return-cell positive">230.15%</td><t=
+d class=3D"return-cell positive">156.77%</td><td class=3D"ratio-cell">1.00<=
+/td><td class=3D"ratio-cell">1.62</td><td>16</td><td>100.00%</td><td class=
+=3D"return-cell positive">$2,508.07</td><td class=3D"drawdown-cell">23.02%<=
+/td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td>=
+<td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><butt=
+on class=3D"run-single-button" title=3D"Run single backtest in new window">=
+=F0=9F=93=8A Run</button></td><td>25</td><td class=3D"stock-cell">RDDT</td>=
+<td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><t=
+d class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><d=
+iv style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D=
+"font-weight: bold;">$63,781.08</div><div style=3D"font-size: 0.85em;">262.=
+63% | Avg: $24,285.71</div><div style=3D"font-size: 0.85em; color: rgb(102,=
+ 102, 102);">Max: $70,000.00</div></div></td><td class=3D"return-cell posit=
+ive">60.47%</td><td class=3D"return-cell positive">74.44%</td><td class=3D"=
+return-cell positive">248.79%</td><td class=3D"return-cell positive">133.97=
+%</td><td class=3D"ratio-cell">1.41</td><td class=3D"ratio-cell">2.22</td><=
+td>17</td><td>100.00%</td><td class=3D"return-cell positive">$3,164.07</td>=
+<td class=3D"drawdown-cell">14.82%</td><td>0.00%</td><td>1</td><td>+10.00%<=
+/td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+0.00=
+%</td></tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"=
+Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>26</td=
+><td class=3D"stock-cell">TEM</td><td class=3D"beta-cell">1.00</td><td clas=
+s=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td=
+ class=3D"return-cell positive"><div style=3D"display: flex; flex-direction=
+: column; gap: 2px;"><div style=3D"font-weight: bold;">$50,764.07</div><div=
+ style=3D"font-size: 0.85em;">182.91% | Avg: $27,753.85</div><div style=3D"=
+font-size: 0.85em; color: rgb(102, 102, 102);">Max: $50,000.00</div></div><=
+/td><td class=3D"return-cell positive">57.01%</td><td class=3D"return-cell =
+positive">135.32%</td><td class=3D"return-cell positive">271.44%</td><td cl=
+ass=3D"return-cell positive">201.53%</td><td class=3D"ratio-cell">0.99</td>=
+<td class=3D"ratio-cell">1.65</td><td>20</td><td>100.00%</td><td class=3D"r=
+eturn-cell positive">$2,496.35</td><td class=3D"drawdown-cell">26.58%</td><=
+td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+=
+0.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><button cl=
+ass=3D"run-single-button" title=3D"Run single backtest in new window">=F0=
+=9F=93=8A Run</button></td><td>27</td><td class=3D"stock-cell">IDCC</td><td=
+ class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td c=
+lass=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><div =
+style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"fo=
+nt-weight: bold;">$157,784.88</div><div style=3D"font-size: 0.85em;">452.20=
+% | Avg: $34,892.79</div><div style=3D"font-size: 0.85em; color: rgb(102, 1=
+02, 102);">Max: $60,000.00</div></div></td><td class=3D"return-cell positiv=
+e">56.13%</td><td class=3D"return-cell positive">43.05%</td><td class=3D"re=
+turn-cell positive">63.43%</td><td class=3D"return-cell positive">329.64%</=
+td><td class=3D"ratio-cell">1.31</td><td class=3D"ratio-cell">2.53</td><td>=
+11</td><td>100.00%</td><td class=3D"return-cell positive">$14,344.08</td><t=
+d class=3D"drawdown-cell">16.47%</td><td>0.00%</td><td>1</td><td>+10.00%</t=
+d><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.00%<=
+/td></tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"Ru=
+n single backtest in new window">=F0=9F=93=8A Run</button></td><td>28</td><=
+td class=3D"stock-cell">META</td><td class=3D"beta-cell">1.00</td><td class=
+=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td =
+class=3D"return-cell positive"><div style=3D"display: flex; flex-direction:=
+ column; gap: 2px;"><div style=3D"font-weight: bold;">$154,033.03</div><div=
+ style=3D"font-size: 0.85em;">285.89% | Avg: $53,879.14</div><div style=3D"=
+font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div></div>=
+</td><td class=3D"return-cell positive">54.80%</td><td class=3D"return-cell=
+ positive">25.73%</td><td class=3D"return-cell positive">46.36%</td><td cla=
+ss=3D"return-cell positive">154.03%</td><td class=3D"ratio-cell">0.75</td><=
+td class=3D"ratio-cell">0.97</td><td>14</td><td>100.00%</td><td class=3D"re=
+turn-cell positive">$7,706.19</td><td class=3D"drawdown-cell">55.77%</td><t=
+d>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0=
+.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><button cla=
+ss=3D"run-single-button" title=3D"Run single backtest in new window">=F0=9F=
+=93=8A Run</button></td><td>29</td><td class=3D"stock-cell">CIFR</td><td cl=
+ass=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td clas=
+s=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><div sty=
+le=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"font-=
+weight: bold;">$152,984.17</div><div style=3D"font-size: 0.85em;">163.37% |=
+ Avg: $93,645.22</div><div style=3D"font-size: 0.85em; color: rgb(102, 102,=
+ 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell positive"=
+>54.42%</td><td class=3D"return-cell positive">25.60%</td><td class=3D"retu=
+rn-cell positive">27.65%</td><td class=3D"return-cell positive">152.98%</td=
+><td class=3D"ratio-cell">0.74</td><td class=3D"ratio-cell">1.31</td><td>7<=
+/td><td>100.00%</td><td class=3D"return-cell positive">$762.64</td><td clas=
+s=3D"drawdown-cell">92.94%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>=
++10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td><=
+/tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"Run sin=
+gle backtest in new window">=F0=9F=93=8A Run</button></td><td>30</td><td cl=
+ass=3D"stock-cell">HOOD</td><td class=3D"beta-cell">1.00</td><td class=3D"c=
+oefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td class=
+=3D"return-cell positive"><div style=3D"display: flex; flex-direction: colu=
+mn; gap: 2px;"><div style=3D"font-weight: bold;">$148,479.02</div><div styl=
+e=3D"font-size: 0.85em;">203.34% | Avg: $73,021.44</div><div style=3D"font-=
+size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div></div></td>=
+<td class=3D"return-cell positive">52.82%</td><td class=3D"return-cell posi=
+tive">25.05%</td><td class=3D"return-cell positive">35.09%</td><td class=3D=
+"return-cell positive">148.48%</td><td class=3D"ratio-cell">0.61</td><td cl=
+ass=3D"ratio-cell">0.89</td><td>16</td><td>100.00%</td><td class=3D"return-=
+cell positive">$9,032.99</td><td class=3D"drawdown-cell">61.63%</td><td>0.0=
+0%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%=
+</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><button class=
+=3D"run-single-button" title=3D"Run single backtest in new window">=F0=9F=
+=93=8A Run</button></td><td>31</td><td class=3D"stock-cell">CRDO</td><td cl=
+ass=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td clas=
+s=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><div sty=
+le=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"font-=
+weight: bold;">$131,136.59</div><div style=3D"font-size: 0.85em;">687.69% |=
+ Avg: $19,069.26</div><div style=3D"font-size: 0.85em; color: rgb(102, 102,=
+ 102);">Max: $70,000.00</div></div></td><td class=3D"return-cell positive">=
+51.80%</td><td class=3D"return-cell positive">38.51%</td><td class=3D"retur=
+n-cell positive">97.47%</td><td class=3D"return-cell positive">230.20%</td>=
+<td class=3D"ratio-cell">1.37</td><td class=3D"ratio-cell">2.11</td><td>38<=
+/td><td>100.00%</td><td class=3D"return-cell positive">$3,442.62</td><td cl=
+ass=3D"drawdown-cell">13.92%</td><td>0.00%</td><td>1</td><td>+10.00%</td><t=
+d>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+0.00%</td>=
+</tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"Run si=
+ngle backtest in new window">=F0=9F=93=8A Run</button></td><td>32</td><td c=
+lass=3D"stock-cell">SHOP</td><td class=3D"beta-cell">1.00</td><td class=3D"=
+coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td clas=
+s=3D"return-cell positive"><div style=3D"display: flex; flex-direction: col=
+umn; gap: 2px;"><div style=3D"font-weight: bold;">$130,230.04</div><div sty=
+le=3D"font-size: 0.85em;">157.58% | Avg: $82,641.33</div><div style=3D"font=
+-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div></div></td=
+><td class=3D"return-cell positive">46.33%</td><td class=3D"return-cell pos=
+itive">22.73%</td><td class=3D"return-cell positive">28.61%</td><td class=
+=3D"return-cell positive">130.23%</td><td class=3D"ratio-cell">0.57</td><td=
+ class=3D"ratio-cell">0.87</td><td>12</td><td>100.00%</td><td class=3D"retu=
+rn-cell positive">$1,960.56</td><td class=3D"drawdown-cell">59.85%</td><td>=
+0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.0=
+0%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><button class=
+=3D"run-single-button" title=3D"Run single backtest in new window">=F0=9F=
+=93=8A Run</button></td><td>33</td><td class=3D"stock-cell">SHOP</td><td cl=
+ass=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td clas=
+s=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><div sty=
+le=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"font-=
+weight: bold;">$127,575.63</div><div style=3D"font-size: 0.85em;">187.34% |=
+ Avg: $68,099.42</div><div style=3D"font-size: 0.85em; color: rgb(102, 102,=
+ 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell positive"=
+>45.39%</td><td class=3D"return-cell positive">22.38%</td><td class=3D"retu=
+rn-cell positive">34.49%</td><td class=3D"return-cell positive">127.58%</td=
+><td class=3D"ratio-cell">0.57</td><td class=3D"ratio-cell">0.87</td><td>17=
+</td><td>100.00%</td><td class=3D"return-cell positive">$2,706.56</td><td c=
+lass=3D"drawdown-cell">52.37%</td><td>0.00%</td><td>1</td><td>+10.00%</td><=
+td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.00%</t=
+d></tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"Run =
+single backtest in new window">=F0=9F=93=8A Run</button></td><td>34</td><td=
+ class=3D"stock-cell">NVDA</td><td class=3D"beta-cell">1.00</td><td class=
+=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td =
+class=3D"return-cell positive"><div style=3D"display: flex; flex-direction:=
+ column; gap: 2px;"><div style=3D"font-weight: bold;">$126,962.54</div><div=
+ style=3D"font-size: 0.85em;">447.79% | Avg: $28,352.83</div><div style=3D"=
+font-size: 0.85em; color: rgb(102, 102, 102);">Max: $90,000.00</div></div><=
+/td><td class=3D"return-cell positive">45.17%</td><td class=3D"return-cell =
+positive">25.51%</td><td class=3D"return-cell positive">66.68%</td><td clas=
+s=3D"return-cell positive">152.18%</td><td class=3D"ratio-cell">0.86</td><t=
+d class=3D"ratio-cell">1.22</td><td>27</td><td>100.00%</td><td class=3D"ret=
+urn-cell positive">$4,355.22</td><td class=3D"drawdown-cell">31.88%</td><td=
+>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.=
+00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><button clas=
+s=3D"run-single-button" title=3D"Run single backtest in new window">=F0=9F=
+=93=8A Run</button></td><td>35</td><td class=3D"stock-cell">SOFI</td><td cl=
+ass=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td clas=
+s=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><div sty=
+le=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"font-=
+weight: bold;">$124,527.94</div><div style=3D"font-size: 0.85em;">157.50% |=
+ Avg: $79,064.33</div><div style=3D"font-size: 0.85em; color: rgb(102, 102,=
+ 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell positive"=
+>44.30%</td><td class=3D"return-cell positive">21.98%</td><td class=3D"retu=
+rn-cell positive">29.22%</td><td class=3D"return-cell positive">124.53%</td=
+><td class=3D"ratio-cell">0.56</td><td class=3D"ratio-cell">0.89</td><td>13=
+</td><td>100.00%</td><td class=3D"return-cell positive">$6,450.92</td><td c=
+lass=3D"drawdown-cell">53.41%</td><td>0.00%</td><td>1</td><td>+10.00%</td><=
+td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.00%</t=
+d></tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"Run =
+single backtest in new window">=F0=9F=93=8A Run</button></td><td>36</td><td=
+ class=3D"stock-cell">COIN</td><td class=3D"beta-cell">1.00</td><td class=
+=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td =
+class=3D"return-cell positive"><div style=3D"display: flex; flex-direction:=
+ column; gap: 2px;"><div style=3D"font-weight: bold;">$112,661.63</div><div=
+ style=3D"font-size: 0.85em;">184.27% | Avg: $61,140.35</div><div style=3D"=
+font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div></div>=
+</td><td class=3D"return-cell positive">40.08%</td><td class=3D"return-cell=
+ positive">20.36%</td><td class=3D"return-cell positive">35.82%</td><td cla=
+ss=3D"return-cell positive">112.66%</td><td class=3D"ratio-cell">0.54</td><=
+td class=3D"ratio-cell">0.78</td><td>21</td><td>100.00%</td><td class=3D"re=
+turn-cell positive">$5,290.65</td><td class=3D"drawdown-cell">74.17%</td><t=
+d>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</td><td>+=
+0.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><button cl=
+ass=3D"run-single-button" title=3D"Run single backtest in new window">=F0=
+=9F=93=8A Run</button></td><td>37</td><td class=3D"stock-cell">TSLA</td><td=
+ class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td c=
+lass=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><div =
+style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"fo=
+nt-weight: bold;">$111,836.06</div><div style=3D"font-size: 0.85em;">256.87=
+% | Avg: $43,538.01</div><div style=3D"font-size: 0.85em; color: rgb(102, 1=
+02, 102);">Max: $70,000.00</div></div></td><td class=3D"return-cell positiv=
+e">39.79%</td><td class=3D"return-cell positive">31.26%</td><td class=3D"re=
+turn-cell positive">47.49%</td><td class=3D"return-cell positive">202.62%</=
+td><td class=3D"ratio-cell">0.75</td><td class=3D"ratio-cell">1.14</td><td>=
+28</td><td>100.00%</td><td class=3D"return-cell positive">$3,656.71</td><td=
+ class=3D"drawdown-cell">28.45%</td><td>0.00%</td><td>1</td><td>+10.00%</td=
+><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+0.00%<=
+/td></tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"Ru=
+n single backtest in new window">=F0=9F=93=8A Run</button></td><td>38</td><=
+td class=3D"stock-cell">COIN</td><td class=3D"beta-cell">1.00</td><td class=
+=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td =
+class=3D"return-cell positive"><div style=3D"display: flex; flex-direction:=
+ column; gap: 2px;"><div style=3D"font-weight: bold;">$108,487.03</div><div=
+ style=3D"font-size: 0.85em;">144.09% | Avg: $75,292.40</div><div style=3D"=
+font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div></div>=
+</td><td class=3D"return-cell positive">38.59%</td><td class=3D"return-cell=
+ positive">19.78%</td><td class=3D"return-cell positive">28.42%</td><td cla=
+ss=3D"return-cell positive">108.49%</td><td class=3D"ratio-cell">0.55</td><=
+td class=3D"ratio-cell">0.82</td><td>23</td><td>100.00%</td><td class=3D"re=
+turn-cell positive">$2,937.92</td><td class=3D"drawdown-cell">81.17%</td><t=
+d>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0=
+.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><button cla=
+ss=3D"run-single-button" title=3D"Run single backtest in new window">=F0=9F=
+=93=8A Run</button></td><td>39</td><td class=3D"stock-cell">SOFI</td><td cl=
+ass=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td clas=
+s=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><div sty=
+le=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"font-=
+weight: bold;">$105,986.54</div><div style=3D"font-size: 0.85em;">121.40% |=
+ Avg: $87,300.19</div><div style=3D"font-size: 0.85em; color: rgb(102, 102,=
+ 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell positive"=
+>37.70%</td><td class=3D"return-cell positive">19.42%</td><td class=3D"retu=
+rn-cell positive">23.47%</td><td class=3D"return-cell positive">105.99%</td=
+><td class=3D"ratio-cell">0.52</td><td class=3D"ratio-cell">0.84</td><td>11=
+</td><td>100.00%</td><td class=3D"return-cell positive">$2,402.03</td><td c=
+lass=3D"drawdown-cell">65.14%</td><td>0.00%</td><td>1</td><td>+10.00%</td><=
+td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td=
+></tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"Run s=
+ingle backtest in new window">=F0=9F=93=8A Run</button></td><td>40</td><td =
+class=3D"stock-cell">PLTR</td><td class=3D"beta-cell">1.00</td><td class=3D=
+"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td cla=
+ss=3D"return-cell positive"><div style=3D"display: flex; flex-direction: co=
+lumn; gap: 2px;"><div style=3D"font-weight: bold;">$104,494.50</div><div st=
+yle=3D"font-size: 0.85em;">179.64% | Avg: $58,167.64</div><div style=3D"fon=
+t-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div></div></t=
+d><td class=3D"return-cell positive">37.17%</td><td class=3D"return-cell po=
+sitive">19.21%</td><td class=3D"return-cell positive">36.18%</td><td class=
+=3D"return-cell positive">104.49%</td><td class=3D"ratio-cell">0.52</td><td=
+ class=3D"ratio-cell">0.76</td><td>26</td><td>100.00%</td><td class=3D"retu=
+rn-cell positive">$4,019.02</td><td class=3D"drawdown-cell">62.20%</td><td>=
+0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.0=
+0%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><button class=
+=3D"run-single-button" title=3D"Run single backtest in new window">=F0=9F=
+=93=8A Run</button></td><td>41</td><td class=3D"stock-cell">CIFR</td><td cl=
+ass=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td clas=
+s=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><div sty=
+le=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"font-=
+weight: bold;">$102,534.20</div><div style=3D"font-size: 0.85em;">108.15% |=
+ Avg: $94,805.07</div><div style=3D"font-size: 0.85em; color: rgb(102, 102,=
+ 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell positive"=
+>36.48%</td><td class=3D"return-cell positive">18.93%</td><td class=3D"retu=
+rn-cell positive">20.50%</td><td class=3D"return-cell positive">102.53%</td=
+><td class=3D"ratio-cell">0.70</td><td class=3D"ratio-cell">1.24</td><td>2<=
+/td><td>100.00%</td><td class=3D"return-cell positive">$812.95</td><td clas=
+s=3D"drawdown-cell">94.23%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>=
++5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></=
+tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"Run sing=
+le backtest in new window">=F0=9F=93=8A Run</button></td><td>42</td><td cla=
+ss=3D"stock-cell">META</td><td class=3D"beta-cell">1.00</td><td class=3D"co=
+efficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td class=
+=3D"return-cell positive"><div style=3D"display: flex; flex-direction: colu=
+mn; gap: 2px;"><div style=3D"font-weight: bold;">$89,544.70</div><div style=
+=3D"font-size: 0.85em;">259.16% | Avg: $34,551.66</div><div style=3D"font-s=
+ize: 0.85em; color: rgb(102, 102, 102);">Max: $80,000.00</div></div></td><t=
+d class=3D"return-cell positive">31.86%</td><td class=3D"return-cell positi=
+ve">23.60%</td><td class=3D"return-cell positive">51.90%</td><td class=3D"r=
+eturn-cell positive">136.93%</td><td class=3D"ratio-cell">0.65</td><td clas=
+s=3D"ratio-cell">0.89</td><td>12</td><td>100.00%</td><td class=3D"return-ce=
+ll positive">$7,120.09</td><td class=3D"drawdown-cell">40.87%</td><td>0.00%=
+</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</=
+td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><button class=3D"=
+run-single-button" title=3D"Run single backtest in new window">=F0=9F=93=8A=
+ Run</button></td><td>43</td><td class=3D"stock-cell">IDCC</td><td class=3D=
+"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td class=3D"b=
+eta-factor-cell">1.00</td><td class=3D"return-cell positive"><div style=3D"=
+display: flex; flex-direction: column; gap: 2px;"><div style=3D"font-weight=
+: bold;">$88,187.46</div><div style=3D"font-size: 0.85em;">379.85% | Avg: $=
+23,216.37</div><div style=3D"font-size: 0.85em; color: rgb(102, 102, 102);"=
+>Max: $50,000.00</div></div></td><td class=3D"return-cell positive">31.37%<=
+/td><td class=3D"return-cell positive">38.48%</td><td class=3D"return-cell =
+positive">67.19%</td><td class=3D"return-cell positive">276.37%</td><td cla=
+ss=3D"ratio-cell">1.08</td><td class=3D"ratio-cell">2.13</td><td>9</td><td>=
+100.00%</td><td class=3D"return-cell positive">$9,798.61</td><td class=3D"d=
+rawdown-cell">12.27%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00=
+%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><t=
+r class=3D""><td><button class=3D"run-single-button" title=3D"Run single ba=
+cktest in new window">=F0=9F=93=8A Run</button></td><td>44</td><td class=3D=
+"stock-cell">ORCL</td><td class=3D"beta-cell">1.00</td><td class=3D"coeffic=
+ient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td class=3D"re=
+turn-cell positive"><div style=3D"display: flex; flex-direction: column; ga=
+p: 2px;"><div style=3D"font-weight: bold;">$85,115.71</div><div style=3D"fo=
+nt-size: 0.85em;">297.95% | Avg: $28,567.25</div><div style=3D"font-size: 0=
+.85em; color: rgb(102, 102, 102);">Max: $60,000.00</div></div></td><td clas=
+s=3D"return-cell positive">30.28%</td><td class=3D"return-cell positive">31=
+.88%</td><td class=3D"return-cell positive">58.25%</td><td class=3D"return-=
+cell positive">208.53%</td><td class=3D"ratio-cell">0.81</td><td class=3D"r=
+atio-cell">1.37</td><td>10</td><td>100.00%</td><td class=3D"return-cell pos=
+itive">$5,175.39</td><td class=3D"drawdown-cell">10.30%</td><td>0.00%</td><=
+td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>=
++10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><button class=3D"run-sin=
+gle-button" title=3D"Run single backtest in new window">=F0=9F=93=8A Run</b=
+utton></td><td>45</td><td class=3D"stock-cell">TSLA</td><td class=3D"beta-c=
+ell">1.00</td><td class=3D"coefficient-cell">1.00</td><td class=3D"beta-fac=
+tor-cell">1.00</td><td class=3D"return-cell positive"><div style=3D"display=
+: flex; flex-direction: column; gap: 2px;"><div style=3D"font-weight: bold;=
+">$81,075.02</div><div style=3D"font-size: 0.85em;">167.20% | Avg: $48,489.=
+28</div><div style=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $=
+80,000.00</div></div></td><td class=3D"return-cell positive">28.84%</td><td=
+ class=3D"return-cell positive">22.22%</td><td class=3D"return-cell positiv=
+e">38.21%</td><td class=3D"return-cell positive">126.34%</td><td class=3D"r=
+atio-cell">0.49</td><td class=3D"ratio-cell">0.75</td><td>20</td><td>100.00=
+%</td><td class=3D"return-cell positive">$2,396.24</td><td class=3D"drawdow=
+n-cell">36.26%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td>=
+<td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr clas=
+s=3D""><td><button class=3D"run-single-button" title=3D"Run single backtest=
+ in new window">=F0=9F=93=8A Run</button></td><td>46</td><td class=3D"stock=
+-cell">AMZN</td><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-c=
+ell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td class=3D"return-c=
+ell positive"><div style=3D"display: flex; flex-direction: column; gap: 2px=
+;"><div style=3D"font-weight: bold;">$77,010.52</div><div style=3D"font-siz=
+e: 0.85em;">122.84% | Avg: $62,690.06</div><div style=3D"font-size: 0.85em;=
+ color: rgb(102, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"=
+return-cell positive">27.40%</td><td class=3D"return-cell positive">15.06%<=
+/td><td class=3D"return-cell positive">29.04%</td><td class=3D"return-cell =
+positive">77.01%</td><td class=3D"ratio-cell">0.54</td><td class=3D"ratio-c=
+ell">0.79</td><td>12</td><td>100.00%</td><td class=3D"return-cell positive"=
+>$3,647.22</td><td class=3D"drawdown-cell">31.99%</td><td>0.00%</td><td>1</=
+td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00=
+%</td><td>+5.00%</td></tr><tr class=3D""><td><button class=3D"run-single-bu=
+tton" title=3D"Run single backtest in new window">=F0=9F=93=8A Run</button>=
+</td><td>47</td><td class=3D"stock-cell">BABA</td><td class=3D"beta-cell">1=
+.00</td><td class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-ce=
+ll">1.00</td><td class=3D"return-cell positive"><div style=3D"display: flex=
+; flex-direction: column; gap: 2px;"><div style=3D"font-weight: bold;">$69,=
+545.43</div><div style=3D"font-size: 0.85em;">113.04% | Avg: $61,520.47</di=
+v><div style=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $80,000=
+.00</div></div></td><td class=3D"return-cell positive">24.74%</td><td class=
+=3D"return-cell positive">20.26%</td><td class=3D"return-cell positive">28.=
+27%</td><td class=3D"return-cell positive">111.93%</td><td class=3D"ratio-c=
+ell">0.44</td><td class=3D"ratio-cell">0.72</td><td>7</td><td>100.00%</td><=
+td class=3D"return-cell positive">$1,749.60</td><td class=3D"drawdown-cell"=
+>32.25%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10=
+.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D"">=
+<td><button class=3D"run-single-button" title=3D"Run single backtest in new=
+ window">=F0=9F=93=8A Run</button></td><td>48</td><td class=3D"stock-cell">=
+AVGO</td><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.=
+00</td><td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell pos=
+itive"><div style=3D"display: flex; flex-direction: column; gap: 2px;"><div=
+ style=3D"font-weight: bold;">$66,419.70</div><div style=3D"font-size: 0.85=
+em;">433.23% | Avg: $15,331.38</div><div style=3D"font-size: 0.85em; color:=
+ rgb(102, 102, 102);">Max: $40,000.00</div></div></td><td class=3D"return-c=
+ell positive">23.63%</td><td class=3D"return-cell positive">41.93%</td><td =
+class=3D"return-cell positive">79.62%</td><td class=3D"return-cell positive=
+">316.05%</td><td class=3D"ratio-cell">1.09</td><td class=3D"ratio-cell">1.=
+87</td><td>14</td><td>100.00%</td><td class=3D"return-cell positive">$3,872=
+.11</td><td class=3D"drawdown-cell">5.90%</td><td>0.00%</td><td>1</td><td>+=
+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><t=
+d>+5.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" ti=
+tle=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td=
+>49</td><td class=3D"stock-cell">BABA</td><td class=3D"beta-cell">1.00</td>=
+<td class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00=
+</td><td class=3D"return-cell positive"><div style=3D"display: flex; flex-d=
+irection: column; gap: 2px;"><div style=3D"font-weight: bold;">$66,043.36</=
+div><div style=3D"font-size: 0.85em;">76.38% | Avg: $86,461.99</div><div st=
+yle=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div=
+></div></td><td class=3D"return-cell positive">23.49%</td><td class=3D"retu=
+rn-cell positive">13.26%</td><td class=3D"return-cell positive">17.38%</td>=
+<td class=3D"return-cell positive">66.04%</td><td class=3D"ratio-cell">0.41=
+</td><td class=3D"ratio-cell">0.67</td><td>5</td><td>100.00%</td><td class=
+=3D"return-cell positive">$1,593.72</td><td class=3D"drawdown-cell">45.70%<=
+/td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td>=
+<td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><butt=
+on class=3D"run-single-button" title=3D"Run single backtest in new window">=
+=F0=9F=93=8A Run</button></td><td>50</td><td class=3D"stock-cell">AMZN</td>=
+<td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><t=
+d class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><d=
+iv style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D=
+"font-weight: bold;">$63,312.18</div><div style=3D"font-size: 0.85em;">134.=
+16% | Avg: $47,192.98</div><div style=3D"font-size: 0.85em; color: rgb(102,=
+ 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell posi=
+tive">22.52%</td><td class=3D"return-cell positive">12.80%</td><td class=3D=
+"return-cell positive">35.65%</td><td class=3D"return-cell positive">63.31%=
+</td><td class=3D"ratio-cell">0.49</td><td class=3D"ratio-cell">0.69</td><t=
+d>16</td><td>100.00%</td><td class=3D"return-cell positive">$3,788.87</td><=
+td class=3D"drawdown-cell">31.99%</td><td>0.00%</td><td>1</td><td>+10.00%</=
+td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+0.00%=
+</td></tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"R=
+un single backtest in new window">=F0=9F=93=8A Run</button></td><td>51</td>=
+<td class=3D"stock-cell">ORCL</td><td class=3D"beta-cell">1.00</td><td clas=
+s=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td=
+ class=3D"return-cell positive"><div style=3D"display: flex; flex-direction=
+: column; gap: 2px;"><div style=3D"font-weight: bold;">$59,647.10</div><div=
+ style=3D"font-size: 0.85em;">306.60% | Avg: $19,454.19</div><div style=3D"=
+font-size: 0.85em; color: rgb(102, 102, 102);">Max: $50,000.00</div></div><=
+/td><td class=3D"return-cell positive">21.22%</td><td class=3D"return-cell =
+positive">33.00%</td><td class=3D"return-cell positive">67.70%</td><td clas=
+s=3D"return-cell positive">219.29%</td><td class=3D"ratio-cell">0.92</td><t=
+d class=3D"ratio-cell">1.57</td><td>18</td><td>100.00%</td><td class=3D"ret=
+urn-cell positive">$3,336.97</td><td class=3D"drawdown-cell">9.66%</td><td>=
+0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.0=
+0%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><button class=
+=3D"run-single-button" title=3D"Run single backtest in new window">=F0=9F=
+=93=8A Run</button></td><td>52</td><td class=3D"stock-cell">LMND</td><td cl=
+ass=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td clas=
+s=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><div sty=
+le=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"font-=
+weight: bold;">$57,840.36</div><div style=3D"font-size: 0.85em;">65.71% | A=
+vg: $88,019.51</div><div style=3D"font-size: 0.85em; color: rgb(102, 102, 1=
+02);">Max: $100,000.00</div></div></td><td class=3D"return-cell positive">2=
+0.60%</td><td class=3D"return-cell positive">11.87%</td><td class=3D"return=
+-cell positive">15.44%</td><td class=3D"return-cell positive">57.84%</td><t=
+d class=3D"ratio-cell">0.46</td><td class=3D"ratio-cell">0.79</td><td>11</t=
+d><td>100.00%</td><td class=3D"return-cell positive">$2,949.05</td><td clas=
+s=3D"drawdown-cell">70.70%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>=
++10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+0.00%</td><=
+/tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"Run sin=
+gle backtest in new window">=F0=9F=93=8A Run</button></td><td>53</td><td cl=
+ass=3D"stock-cell">FIGR</td><td class=3D"beta-cell">1.00</td><td class=3D"c=
+oefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td class=
+=3D"return-cell positive"><div style=3D"display: flex; flex-direction: colu=
+mn; gap: 2px;"><div style=3D"font-weight: bold;">$809.88</div><div style=3D=
+"font-size: 0.85em;">18.51% | Avg: $4,375.00</div><div style=3D"font-size: =
+0.85em; color: rgb(102, 102, 102);">Max: $20,000.00</div></div></td><td cla=
+ss=3D"return-cell positive">18.48%</td><td class=3D"return-cell positive">1=
+1586468070305.88%</td><td class=3D"return-cell positive">2.8824985497932273=
+e+23%</td><td class=3D"return-cell positive">404.05%</td><td class=3D"ratio=
+-cell">1.44</td><td class=3D"ratio-cell">4.49</td><td>0</td><td>0.00%</td><=
+td class=3D"return-cell positive">$0.00</td><td class=3D"drawdown-cell">1.0=
+6%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</=
+td><td>+0.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><b=
+utton class=3D"run-single-button" title=3D"Run single backtest in new windo=
+w">=F0=9F=93=8A Run</button></td><td>54</td><td class=3D"stock-cell">FIGR</=
+td><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td=
+><td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"=
+><div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">$809.88</div><div style=3D"font-size: 0.85em;">18.5=
+1% | Avg: $4,375.00</div><div style=3D"font-size: 0.85em; color: rgb(102, 1=
+02, 102);">Max: $20,000.00</div></div></td><td class=3D"return-cell positiv=
+e">18.48%</td><td class=3D"return-cell positive">11586468070305.88%</td><td=
+ class=3D"return-cell positive">2.8824985497932273e+23%</td><td class=3D"re=
+turn-cell positive">404.05%</td><td class=3D"ratio-cell">1.44</td><td class=
+=3D"ratio-cell">4.49</td><td>0</td><td>0.00%</td><td class=3D"return-cell p=
+ositive">$0.00</td><td class=3D"drawdown-cell">1.06%</td><td>0.00%</td><td>=
+1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10=
+.00%</td><td>+5.00%</td></tr><tr class=3D""><td><button class=3D"run-single=
+-button" title=3D"Run single backtest in new window">=F0=9F=93=8A Run</butt=
+on></td><td>55</td><td class=3D"stock-cell">MSFT</td><td class=3D"beta-cell=
+">1.00</td><td class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor=
+-cell">1.00</td><td class=3D"return-cell positive"><div style=3D"display: f=
+lex; flex-direction: column; gap: 2px;"><div style=3D"font-weight: bold;">$=
+51,484.16</div><div style=3D"font-size: 0.85em;">122.90% | Avg: $41,890.84<=
+/div><div style=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $60,=
+000.00</div></div></td><td class=3D"return-cell positive">18.32%</td><td cl=
+ass=3D"return-cell positive">25.54%</td><td class=3D"return-cell positive">=
+37.12%</td><td class=3D"return-cell positive">152.47%</td><td class=3D"rati=
+o-cell">0.55</td><td class=3D"ratio-cell">0.80</td><td>7</td><td>100.00%</t=
+d><td class=3D"return-cell positive">$3,211.17</td><td class=3D"drawdown-ce=
+ll">13.26%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+=
+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D"=
+"><td><button class=3D"run-single-button" title=3D"Run single backtest in n=
+ew window">=F0=9F=93=8A Run</button></td><td>56</td><td class=3D"stock-cell=
+">INTC</td><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">=
+1.00</td><td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell p=
+ositive"><div style=3D"display: flex; flex-direction: column; gap: 2px;"><d=
+iv style=3D"font-weight: bold;">$50,177.40</div><div style=3D"font-size: 0.=
+85em;">82.12% | Avg: $61,101.36</div><div style=3D"font-size: 0.85em; color=
+: rgb(102, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return=
+-cell positive">17.85%</td><td class=3D"return-cell positive">10.50%</td><t=
+d class=3D"return-cell positive">24.72%</td><td class=3D"return-cell positi=
+ve">50.18%</td><td class=3D"ratio-cell">0.35</td><td class=3D"ratio-cell">0=
+.51</td><td>13</td><td>100.00%</td><td class=3D"return-cell positive">$2,19=
+6.54</td><td class=3D"drawdown-cell">39.81%</td><td>0.00%</td><td>1</td><td=
+>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td>=
+<td>+0.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" =
+title=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><=
+td>57</td><td class=3D"stock-cell">LMND</td><td class=3D"beta-cell">1.00</t=
+d><td class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.=
+00</td><td class=3D"return-cell positive"><div style=3D"display: flex; flex=
+-direction: column; gap: 2px;"><div style=3D"font-weight: bold;">$47,900.23=
+</div><div style=3D"font-size: 0.85em;">52.99% | Avg: $90,390.24</div><div =
+style=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</d=
+iv></div></td><td class=3D"return-cell positive">17.06%</td><td class=3D"re=
+turn-cell positive">10.10%</td><td class=3D"return-cell positive">12.87%</t=
+d><td class=3D"return-cell positive">47.90%</td><td class=3D"ratio-cell">0.=
+45</td><td class=3D"ratio-cell">0.78</td><td>7</td><td>100.00%</td><td clas=
+s=3D"return-cell positive">$1,193.88</td><td class=3D"drawdown-cell">70.70%=
+</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</t=
+d><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><bu=
+tton class=3D"run-single-button" title=3D"Run single backtest in new window=
+">=F0=9F=93=8A Run</button></td><td>58</td><td class=3D"stock-cell">AVGO</t=
+d><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td>=
+<td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive">=
+<div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">$41,551.87</div><div style=3D"font-size: 0.85em;">3=
+42.98% | Avg: $12,115.01</div><div style=3D"font-size: 0.85em; color: rgb(1=
+02, 102, 102);">Max: $50,000.00</div></div></td><td class=3D"return-cell po=
+sitive">14.78%</td><td class=3D"return-cell positive">29.12%</td><td class=
+=3D"return-cell positive">82.90%</td><td class=3D"return-cell positive">183=
+.10%</td><td class=3D"ratio-cell">0.66</td><td class=3D"ratio-cell">1.07</t=
+d><td>20</td><td>100.00%</td><td class=3D"return-cell positive">$2,060.85</=
+td><td class=3D"drawdown-cell">8.08%</td><td>0.00%</td><td>1</td><td>+10.00=
+%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+0.=
+00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" title=
+=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>59=
+</td><td class=3D"stock-cell">QQQ</td><td class=3D"beta-cell">1.00</td><td =
+class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td=
+><td class=3D"return-cell positive"><div style=3D"display: flex; flex-direc=
+tion: column; gap: 2px;"><div style=3D"font-weight: bold;">$32,847.69</div>=
+<div style=3D"font-size: 0.85em;">120.42% | Avg: $27,278.05</div><div style=
+=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $50,000.00</div></d=
+iv></td><td class=3D"return-cell positive">11.70%</td><td class=3D"return-c=
+ell positive">27.16%</td><td class=3D"return-cell positive">47.58%</td><td =
+class=3D"return-cell positive">165.70%</td><td class=3D"ratio-cell">0.45</t=
+d><td class=3D"ratio-cell">0.63</td><td>5</td><td>100.00%</td><td class=3D"=
+return-cell positive">$5,151.55</td><td class=3D"drawdown-cell">8.99%</td><=
+td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+=
+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><button cl=
+ass=3D"run-single-button" title=3D"Run single backtest in new window">=F0=
+=9F=93=8A Run</button></td><td>60</td><td class=3D"stock-cell">CRCL</td><td=
+ class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td c=
+lass=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><div =
+style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"fo=
+nt-weight: bold;">$2,519.79</div><div style=3D"font-size: 0.85em;">10.73% |=
+ Avg: $23,493.98</div><div style=3D"font-size: 0.85em; color: rgb(102, 102,=
+ 102);">Max: $50,000.00</div></div></td><td class=3D"return-cell positive">=
+11.08%</td><td class=3D"return-cell positive">784.68%</td><td class=3D"retu=
+rn-cell positive">8663.56%</td><td class=3D"return-cell positive">105.04%</=
+td><td class=3D"ratio-cell">0.27</td><td class=3D"ratio-cell">0.55</td><td>=
+1</td><td>100.00%</td><td class=3D"return-cell positive">$115.62</td><td cl=
+ass=3D"drawdown-cell">13.40%</td><td>0.00%</td><td>1</td><td>+10.00%</td><t=
+d>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td=
+></tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"Run s=
+ingle backtest in new window">=F0=9F=93=8A Run</button></td><td>61</td><td =
+class=3D"stock-cell">INTC</td><td class=3D"beta-cell">1.00</td><td class=3D=
+"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td cla=
+ss=3D"return-cell positive"><div style=3D"display: flex; flex-direction: co=
+lumn; gap: 2px;"><div style=3D"font-weight: bold;">$28,707.12</div><div sty=
+le=3D"font-size: 0.85em;">67.31% | Avg: $42,651.07</div><div style=3D"font-=
+size: 0.85em; color: rgb(102, 102, 102);">Max: $70,000.00</div></div></td><=
+td class=3D"return-cell positive">10.21%</td><td class=3D"return-cell posit=
+ive">16.14%</td><td class=3D"return-cell positive">31.16%</td><td class=3D"=
+return-cell positive">83.87%</td><td class=3D"ratio-cell">0.21</td><td clas=
+s=3D"ratio-cell">0.30</td><td>8</td><td>100.00%</td><td class=3D"return-cel=
+l positive">$1,931.63</td><td class=3D"drawdown-cell">29.70%</td><td>0.00%<=
+/td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</t=
+d><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><button class=3D"r=
+un-single-button" title=3D"Run single backtest in new window">=F0=9F=93=8A =
+Run</button></td><td>62</td><td class=3D"stock-cell">AAPL</td><td class=3D"=
+beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td class=3D"be=
+ta-factor-cell">1.00</td><td class=3D"return-cell positive"><div style=3D"d=
+isplay: flex; flex-direction: column; gap: 2px;"><div style=3D"font-weight:=
+ bold;">$27,321.78</div><div style=3D"font-size: 0.85em;">109.89% | Avg: $2=
+4,863.55</div><div style=3D"font-size: 0.85em; color: rgb(102, 102, 102);">=
+Max: $50,000.00</div></div></td><td class=3D"return-cell positive">9.72%</t=
+d><td class=3D"return-cell positive">25.81%</td><td class=3D"return-cell po=
+sitive">49.36%</td><td class=3D"return-cell positive">154.64%</td><td class=
+=3D"ratio-cell">0.29</td><td class=3D"ratio-cell">0.41</td><td>13</td><td>1=
+00.00%</td><td class=3D"return-cell positive">$1,872.05</td><td class=3D"dr=
+awdown-cell">11.78%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%<=
+/td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr =
+class=3D""><td><button class=3D"run-single-button" title=3D"Run single back=
+test in new window">=F0=9F=93=8A Run</button></td><td>63</td><td class=3D"s=
+tock-cell">MSFT</td><td class=3D"beta-cell">1.00</td><td class=3D"coefficie=
+nt-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td class=3D"retu=
+rn-cell positive"><div style=3D"display: flex; flex-direction: column; gap:=
+ 2px;"><div style=3D"font-weight: bold;">$27,020.00</div><div style=3D"font=
+-size: 0.85em;">127.52% | Avg: $21,189.08</div><div style=3D"font-size: 0.8=
+5em; color: rgb(102, 102, 102);">Max: $60,000.00</div></div></td><td class=
+=3D"return-cell positive">9.61%</td><td class=3D"return-cell positive">20.2=
+3%</td><td class=3D"return-cell positive">55.25%</td><td class=3D"return-ce=
+ll positive">111.70%</td><td class=3D"ratio-cell">0.25</td><td class=3D"rat=
+io-cell">0.35</td><td>10</td><td>100.00%</td><td class=3D"return-cell posit=
+ive">$2,702.00</td><td class=3D"drawdown-cell">13.26%</td><td>0.00%</td><td=
+>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+1=
+0.00%</td><td>+0.00%</td></tr><tr class=3D""><td><button class=3D"run-singl=
+e-button" title=3D"Run single backtest in new window">=F0=9F=93=8A Run</but=
+ton></td><td>64</td><td class=3D"stock-cell">QQQ</td><td class=3D"beta-cell=
+">1.00</td><td class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor=
+-cell">1.00</td><td class=3D"return-cell positive"><div style=3D"display: f=
+lex; flex-direction: column; gap: 2px;"><div style=3D"font-weight: bold;">$=
+26,588.30</div><div style=3D"font-size: 0.85em;">127.95% | Avg: $20,780.49<=
+/div><div style=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $50,=
+000.00</div></div></td><td class=3D"return-cell positive">9.47%</td><td cla=
+ss=3D"return-cell positive">25.66%</td><td class=3D"return-cell positive">5=
+5.93%</td><td class=3D"return-cell positive">153.18%</td><td class=3D"ratio=
+-cell">0.31</td><td class=3D"ratio-cell">0.44</td><td>9</td><td>100.00%</td=
+><td class=3D"return-cell positive">$2,954.26</td><td class=3D"drawdown-cel=
+l">8.99%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10=
+.00%</td><td>+0.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D"">=
+<td><button class=3D"run-single-button" title=3D"Run single backtest in new=
+ window">=F0=9F=93=8A Run</button></td><td>65</td><td class=3D"stock-cell">=
+AAPL</td><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.=
+00</td><td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell pos=
+itive"><div style=3D"display: flex; flex-direction: column; gap: 2px;"><div=
+ style=3D"font-weight: bold;">$25,991.01</div><div style=3D"font-size: 0.85=
+em;">99.65% | Avg: $26,081.87</div><div style=3D"font-size: 0.85em; color: =
+rgb(102, 102, 102);">Max: $40,000.00</div></div></td><td class=3D"return-ce=
+ll positive">9.25%</td><td class=3D"return-cell positive">32.55%</td><td cl=
+ass=3D"return-cell positive">47.23%</td><td class=3D"return-cell positive">=
+214.98%</td><td class=3D"ratio-cell">0.24</td><td class=3D"ratio-cell">0.34=
+</td><td>8</td><td>100.00%</td><td class=3D"return-cell positive">$3,248.88=
+</td><td class=3D"drawdown-cell">12.09%</td><td>0.00%</td><td>1</td><td>+10=
+.00%</td><td>+5.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>=
++5.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" titl=
+e=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>6=
+6</td><td class=3D"stock-cell">CRCL</td><td class=3D"beta-cell">1.00</td><t=
+d class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</=
+td><td class=3D"return-cell positive"><div style=3D"display: flex; flex-dir=
+ection: column; gap: 2px;"><div style=3D"font-weight: bold;">$1,800.71</div=
+><div style=3D"font-size: 0.85em;">6.31% | Avg: $28,554.22</div><div style=
+=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $60,000.00</div></d=
+iv></td><td class=3D"return-cell positive">7.92%</td><td class=3D"return-ce=
+ll positive">397.85%</td><td class=3D"return-cell positive">4644.57%</td><t=
+d class=3D"return-cell positive">69.67%</td><td class=3D"ratio-cell">0.20</=
+td><td class=3D"ratio-cell">0.40</td><td>1</td><td>100.00%</td><td class=3D=
+"return-cell positive">$2,863.37</td><td class=3D"drawdown-cell">15.51%</td=
+><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</td><t=
+d>+0.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><button=
+ class=3D"run-single-button" title=3D"Run single backtest in new window">=
+=F0=9F=93=8A Run</button></td><td>67</td><td class=3D"stock-cell">BITF</td>=
+<td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><t=
+d class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell positive"><d=
+iv style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D=
+"font-weight: bold;">$20,901.85</div><div style=3D"font-size: 0.85em;">23.6=
+2% | Avg: $88,479.53</div><div style=3D"font-size: 0.85em; color: rgb(102, =
+102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell posit=
+ive">7.44%</td><td class=3D"return-cell positive">4.77%</td><td class=3D"re=
+turn-cell positive">7.97%</td><td class=3D"return-cell positive">20.90%</td=
+><td class=3D"ratio-cell">0.39</td><td class=3D"ratio-cell">0.74</td><td>6<=
+/td><td>100.00%</td><td class=3D"return-cell positive">$3,662.16</td><td cl=
+ass=3D"drawdown-cell">83.52%</td><td>0.00%</td><td>1</td><td>+10.00%</td><t=
+d>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+0.00%</td=
+></tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"Run s=
+ingle backtest in new window">=F0=9F=93=8A Run</button></td><td>68</td><td =
+class=3D"stock-cell">BITF</td><td class=3D"beta-cell">1.00</td><td class=3D=
+"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td cla=
+ss=3D"return-cell positive"><div style=3D"display: flex; flex-direction: co=
+lumn; gap: 2px;"><div style=3D"font-weight: bold;">$20,283.58</div><div sty=
+le=3D"font-size: 0.85em;">22.80% | Avg: $88,976.61</div><div style=3D"font-=
+size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div></div></td>=
+<td class=3D"return-cell positive">7.22%</td><td class=3D"return-cell posit=
+ive">4.64%</td><td class=3D"return-cell positive">7.69%</td><td class=3D"re=
+turn-cell positive">20.28%</td><td class=3D"ratio-cell">0.37</td><td class=
+=3D"ratio-cell">0.69</td><td>5</td><td>100.00%</td><td class=3D"return-cell=
+ positive">$3,583.05</td><td class=3D"drawdown-cell">79.74%</td><td>0.00%</=
+td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td=
+><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><button class=3D"ru=
+n-single-button" title=3D"Run single backtest in new window">=F0=9F=93=8A R=
+un</button></td><td>69</td><td class=3D"stock-cell">JD</td><td class=3D"bet=
+a-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td class=3D"beta-=
+factor-cell">1.00</td><td class=3D"return-cell positive"><div style=3D"disp=
+lay: flex; flex-direction: column; gap: 2px;"><div style=3D"font-weight: bo=
+ld;">$18,585.79</div><div style=3D"font-size: 0.85em;">27.99% | Avg: $66,40=
+3.51</div><div style=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max:=
+ $100,000.00</div></div></td><td class=3D"return-cell positive">6.61%</td><=
+td class=3D"return-cell positive">4.28%</td><td class=3D"return-cell positi=
+ve">15.31%</td><td class=3D"return-cell positive">18.59%</td><td class=3D"r=
+atio-cell">0.17</td><td class=3D"ratio-cell">0.29</td><td>10</td><td>100.00=
+%</td><td class=3D"return-cell positive">$2,108.12</td><td class=3D"drawdow=
+n-cell">45.68%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td>=
+<td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr clas=
+s=3D""><td><button class=3D"run-single-button" title=3D"Run single backtest=
+ in new window">=F0=9F=93=8A Run</button></td><td>70</td><td class=3D"stock=
+-cell">JD</td><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cel=
+l">1.00</td><td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cel=
+l positive"><div style=3D"display: flex; flex-direction: column; gap: 2px;"=
+><div style=3D"font-weight: bold;">$8,666.63</div><div style=3D"font-size: =
+0.85em;">12.41% | Avg: $69,824.56</div><div style=3D"font-size: 0.85em; col=
+or: rgb(102, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"retu=
+rn-cell positive">3.08%</td><td class=3D"return-cell positive">2.06%</td><t=
+d class=3D"return-cell positive">11.48%</td><td class=3D"return-cell positi=
+ve">8.67%</td><td class=3D"ratio-cell">0.13</td><td class=3D"ratio-cell">0.=
+22</td><td>5</td><td>100.00%</td><td class=3D"return-cell positive">$1,514.=
+67</td><td class=3D"drawdown-cell">49.81%</td><td>0.00%</td><td>1</td><td>+=
+10.00%</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><=
+td>+5.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" t=
+itle=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><t=
+d>71</td><td class=3D"stock-cell">RXRX</td><td class=3D"beta-cell">1.00</td=
+><td class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.0=
+0</td><td class=3D"return-cell negative"><div style=3D"display: flex; flex-=
+direction: column; gap: 2px;"><div style=3D"font-weight: bold;">-$2,234.68<=
+/div><div style=3D"font-size: 0.85em;">-2.57% | Avg: $87,007.80</div><div s=
+tyle=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</di=
+v></div></td><td class=3D"return-cell negative">-0.79%</td><td class=3D"ret=
+urn-cell negative">-0.55%</td><td class=3D"return-cell positive">2.90%</td>=
+<td class=3D"return-cell negative">-2.23%</td><td class=3D"ratio-cell">0.23=
+</td><td class=3D"ratio-cell">0.45</td><td>14</td><td>100.00%</td><td class=
+=3D"return-cell positive">$3,169.51</td><td class=3D"drawdown-cell">54.52%<=
+/td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</td=
+><td>+0.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><but=
+ton class=3D"run-single-button" title=3D"Run single backtest in new window"=
+>=F0=9F=93=8A Run</button></td><td>72</td><td class=3D"stock-cell">KNDI</td=
+><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><=
+td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell negative"><=
+div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">-$20,593.98</div><div style=3D"font-size: 0.85em;">=
+-34.33% | Avg: $59,980.51</div><div style=3D"font-size: 0.85em; color: rgb(=
+102, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell =
+negative">-7.33%</td><td class=3D"return-cell negative">-5.51%</td><td clas=
+s=3D"return-cell positive">7.13%</td><td class=3D"return-cell negative">-20=
+.59%</td><td class=3D"ratio-cell">-0.15</td><td class=3D"ratio-cell">-0.25<=
+/td><td>8</td><td>100.00%</td><td class=3D"return-cell positive">$2,893.52<=
+/td><td class=3D"drawdown-cell">48.83%</td><td>0.00%</td><td>1</td><td>+10.=
+00%</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>=
++0.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" titl=
+e=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>7=
+3</td><td class=3D"stock-cell">RXRX</td><td class=3D"beta-cell">1.00</td><t=
+d class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</=
+td><td class=3D"return-cell negative"><div style=3D"display: flex; flex-dir=
+ection: column; gap: 2px;"><div style=3D"font-weight: bold;">-$30,909.15</d=
+iv><div style=3D"font-size: 0.85em;">-34.48% | Avg: $89,639.38</div><div st=
+yle=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div=
+></div></td><td class=3D"return-cell negative">-11.00%</td><td class=3D"ret=
+urn-cell negative">-8.68%</td><td class=3D"return-cell negative">-6.19%</td=
+><td class=3D"return-cell negative">-30.91%</td><td class=3D"ratio-cell">0.=
+22</td><td class=3D"ratio-cell">0.43</td><td>7</td><td>100.00%</td><td clas=
+s=3D"return-cell positive">$1,852.49</td><td class=3D"drawdown-cell">66.42%=
+</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</t=
+d><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><bu=
+tton class=3D"run-single-button" title=3D"Run single backtest in new window=
+">=F0=9F=93=8A Run</button></td><td>74</td><td class=3D"stock-cell">U</td><=
+td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td=
+ class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell negative"><di=
+v style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"=
+font-weight: bold;">-$39,649.73</div><div style=3D"font-size: 0.85em;">-45.=
+49% | Avg: $87,154.00</div><div style=3D"font-size: 0.85em; color: rgb(102,=
+ 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell nega=
+tive">-14.11%</td><td class=3D"return-cell negative">-11.67%</td><td class=
+=3D"return-cell negative">-8.63%</td><td class=3D"return-cell negative">-39=
+.65%</td><td class=3D"ratio-cell">0.03</td><td class=3D"ratio-cell">0.05</t=
+d><td>1</td><td>100.00%</td><td class=3D"return-cell positive">$5,029.70</t=
+d><td class=3D"drawdown-cell">76.65%</td><td>0.00%</td><td>1</td><td>+10.00=
+%</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5=
+.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" title=
+=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>75=
+</td><td class=3D"stock-cell">KNDI</td><td class=3D"beta-cell">1.00</td><td=
+ class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</t=
+d><td class=3D"return-cell negative"><div style=3D"display: flex; flex-dire=
+ction: column; gap: 2px;"><div style=3D"font-weight: bold;">-$40,325.81</di=
+v><div style=3D"font-size: 0.85em;">-51.63% | Avg: $78,099.42</div><div sty=
+le=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div>=
+</div></td><td class=3D"return-cell negative">-14.35%</td><td class=3D"retu=
+rn-cell negative">-11.91%</td><td class=3D"return-cell negative">-6.40%</td=
+><td class=3D"return-cell negative">-40.33%</td><td class=3D"ratio-cell">-0=
+.24</td><td class=3D"ratio-cell">-0.40</td><td>8</td><td>100.00%</td><td cl=
+ass=3D"return-cell positive">$2,133.59</td><td class=3D"drawdown-cell">65.3=
+9%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+5.00%</td><td>+10.00%</=
+td><td>+0.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><b=
+utton class=3D"run-single-button" title=3D"Run single backtest in new windo=
+w">=F0=9F=93=8A Run</button></td><td>76</td><td class=3D"stock-cell">U</td>=
+<td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><t=
+d class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell negative"><d=
+iv style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D=
+"font-weight: bold;">-$43,768.04</div><div style=3D"font-size: 0.85em;">-50=
+.36% | Avg: $86,910.33</div><div style=3D"font-size: 0.85em; color: rgb(102=
+, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell neg=
+ative">-15.57%</td><td class=3D"return-cell negative">-13.19%</td><td class=
+=3D"return-cell negative">-10.14%</td><td class=3D"return-cell negative">-4=
+3.77%</td><td class=3D"ratio-cell">0.06</td><td class=3D"ratio-cell">0.09</=
+td><td>1</td><td>100.00%</td><td class=3D"return-cell positive">$1,028.91</=
+td><td class=3D"drawdown-cell">79.51%</td><td>0.00%</td><td>1</td><td>+10.0=
+0%</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+=
+0.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" title=
+=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>77=
+</td><td class=3D"stock-cell">HYLN</td><td class=3D"beta-cell">1.00</td><td=
+ class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</t=
+d><td class=3D"return-cell negative"><div style=3D"display: flex; flex-dire=
+ction: column; gap: 2px;"><div style=3D"font-weight: bold;">-$44,725.94</di=
+v><div style=3D"font-size: 0.85em;">-51.77% | Avg: $86,393.76</div><div sty=
+le=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div>=
+</div></td><td class=3D"return-cell negative">-15.91%</td><td class=3D"retu=
+rn-cell negative">-13.55%</td><td class=3D"return-cell negative">-10.39%</t=
+d><td class=3D"return-cell negative">-44.73%</td><td class=3D"ratio-cell">0=
+.12</td><td class=3D"ratio-cell">0.20</td><td>2</td><td>100.00%</td><td cla=
+ss=3D"return-cell positive">$1,617.38</td><td class=3D"drawdown-cell">83.41=
+%</td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</=
+td><td>+0.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><b=
+utton class=3D"run-single-button" title=3D"Run single backtest in new windo=
+w">=F0=9F=93=8A Run</button></td><td>78</td><td class=3D"stock-cell">NIO</t=
+d><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td>=
+<td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell negative">=
+<div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">-$45,291.02</div><div style=3D"font-size: 0.85em;">=
+-54.89% | Avg: $82,504.87</div><div style=3D"font-size: 0.85em; color: rgb(=
+102, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell =
+negative">-16.11%</td><td class=3D"return-cell negative">-13.77%</td><td cl=
+ass=3D"return-cell negative">-9.60%</td><td class=3D"return-cell negative">=
+-45.29%</td><td class=3D"ratio-cell">-0.02</td><td class=3D"ratio-cell">-0.=
+04</td><td>2</td><td>100.00%</td><td class=3D"return-cell positive">$960.49=
+</td><td class=3D"drawdown-cell">80.41%</td><td>0.00%</td><td>1</td><td>+10=
+.00%</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td=
+>+5.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" tit=
+le=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>=
+79</td><td class=3D"stock-cell">HYLN</td><td class=3D"beta-cell">1.00</td><=
+td class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00<=
+/td><td class=3D"return-cell negative"><div style=3D"display: flex; flex-di=
+rection: column; gap: 2px;"><div style=3D"font-weight: bold;">-$48,063.39</=
+div><div style=3D"font-size: 0.85em;">-55.51% | Avg: $86,578.95</div><div s=
+tyle=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</di=
+v></div></td><td class=3D"return-cell negative">-17.10%</td><td class=3D"re=
+turn-cell negative">-14.86%</td><td class=3D"return-cell negative">-11.80%<=
+/td><td class=3D"return-cell negative">-48.06%</td><td class=3D"ratio-cell"=
+>0.16</td><td class=3D"ratio-cell">0.25</td><td>0</td><td>0.00%</td><td cla=
+ss=3D"return-cell positive">$0.00</td><td class=3D"drawdown-cell">86.49%</t=
+d><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</td><=
+td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><butto=
+n class=3D"run-single-button" title=3D"Run single backtest in new window">=
+=F0=9F=93=8A Run</button></td><td>80</td><td class=3D"stock-cell">NIO</td><=
+td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td=
+ class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell negative"><di=
+v style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"=
+font-weight: bold;">-$52,048.97</div><div style=3D"font-size: 0.85em;">-60.=
+82% | Avg: $85,575.05</div><div style=3D"font-size: 0.85em; color: rgb(102,=
+ 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell nega=
+tive">-18.52%</td><td class=3D"return-cell negative">-16.52%</td><td class=
+=3D"return-cell negative">-13.26%</td><td class=3D"return-cell negative">-5=
+2.05%</td><td class=3D"ratio-cell">-0.06</td><td class=3D"ratio-cell">-0.10=
+</td><td>2</td><td>100.00%</td><td class=3D"return-cell positive">$1,221.51=
+</td><td class=3D"drawdown-cell">81.81%</td><td>0.00%</td><td>1</td><td>+10=
+.00%</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td=
+>+0.00%</td></tr><tr class=3D""><td><button class=3D"run-single-button" tit=
+le=3D"Run single backtest in new window">=F0=9F=93=8A Run</button></td><td>=
+81</td><td class=3D"stock-cell">API</td><td class=3D"beta-cell">1.00</td><t=
+d class=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</=
+td><td class=3D"return-cell negative"><div style=3D"display: flex; flex-dir=
+ection: column; gap: 2px;"><div style=3D"font-weight: bold;">-$69,832.37</d=
+iv><div style=3D"font-size: 0.85em;">-76.04% | Avg: $91,832.36</div><div st=
+yle=3D"font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div=
+></div></td><td class=3D"return-cell negative">-24.84%</td><td class=3D"ret=
+urn-cell negative">-25.50%</td><td class=3D"return-cell negative">-23.92%</=
+td><td class=3D"return-cell negative">-69.83%</td><td class=3D"ratio-cell">=
+0.06</td><td class=3D"ratio-cell">0.10</td><td>0</td><td>0.00%</td><td clas=
+s=3D"return-cell positive">$0.00</td><td class=3D"drawdown-cell">85.68%</td=
+><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</td><t=
+d>+0.00%</td><td>+10.00%</td><td>+0.00%</td></tr><tr class=3D""><td><button=
+ class=3D"run-single-button" title=3D"Run single backtest in new window">=
+=F0=9F=93=8A Run</button></td><td>82</td><td class=3D"stock-cell">API</td><=
+td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><td=
+ class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell negative"><di=
+v style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=3D"=
+font-weight: bold;">-$69,832.37</div><div style=3D"font-size: 0.85em;">-76.=
+04% | Avg: $91,832.36</div><div style=3D"font-size: 0.85em; color: rgb(102,=
+ 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell nega=
+tive">-24.84%</td><td class=3D"return-cell negative">-25.50%</td><td class=
+=3D"return-cell negative">-23.92%</td><td class=3D"return-cell negative">-6=
+9.83%</td><td class=3D"ratio-cell">0.06</td><td class=3D"ratio-cell">0.10</=
+td><td>0</td><td>0.00%</td><td class=3D"return-cell positive">$0.00</td><td=
+ class=3D"drawdown-cell">85.68%</td><td>0.00%</td><td>1</td><td>+10.00%</td=
+><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td><td>+5.00%<=
+/td></tr><tr class=3D""><td><button class=3D"run-single-button" title=3D"Ru=
+n single backtest in new window">=F0=9F=93=8A Run</button></td><td>83</td><=
+td class=3D"stock-cell">TDOC</td><td class=3D"beta-cell">1.00</td><td class=
+=3D"coefficient-cell">1.00</td><td class=3D"beta-factor-cell">1.00</td><td =
+class=3D"return-cell negative"><div style=3D"display: flex; flex-direction:=
+ column; gap: 2px;"><div style=3D"font-weight: bold;">-$80,880.41</div><div=
+ style=3D"font-size: 0.85em;">-94.36% | Avg: $85,717.07</div><div style=3D"=
+font-size: 0.85em; color: rgb(102, 102, 102);">Max: $100,000.00</div></div>=
+</td><td class=3D"return-cell negative">-28.80%</td><td class=3D"return-cel=
+l negative">-33.42%</td><td class=3D"return-cell negative">-30.85%</td><td =
+class=3D"return-cell negative">-80.88%</td><td class=3D"ratio-cell">-0.59</=
+td><td class=3D"ratio-cell">-0.86</td><td>1</td><td>100.00%</td><td class=
+=3D"return-cell positive">$1,532.21</td><td class=3D"drawdown-cell">85.14%<=
+/td><td>0.00%</td><td>1</td><td>+10.00%</td><td>+10.00%</td><td>+10.00%</td=
+><td>+0.00%</td><td>+10.00%</td><td>+5.00%</td></tr><tr class=3D""><td><but=
+ton class=3D"run-single-button" title=3D"Run single backtest in new window"=
+>=F0=9F=93=8A Run</button></td><td>84</td><td class=3D"stock-cell">TDOC</td=
+><td class=3D"beta-cell">1.00</td><td class=3D"coefficient-cell">1.00</td><=
+td class=3D"beta-factor-cell">1.00</td><td class=3D"return-cell negative"><=
+div style=3D"display: flex; flex-direction: column; gap: 2px;"><div style=
+=3D"font-weight: bold;">-$84,019.53</div><div style=3D"font-size: 0.85em;">=
+-95.74% | Avg: $87,756.10</div><div style=3D"font-size: 0.85em; color: rgb(=
+102, 102, 102);">Max: $100,000.00</div></div></td><td class=3D"return-cell =
+negative">-29.92%</td><td class=3D"return-cell negative">-36.29%</td><td cl=
+ass=3D"return-cell negative">-34.21%</td><td class=3D"return-cell negative"=
+>-84.02%</td><td class=3D"ratio-cell">-0.62</td><td class=3D"ratio-cell">-0=
+.89</td><td>1</td><td>100.00%</td><td class=3D"return-cell positive">$1,021=
+.21</td><td class=3D"drawdown-cell">87.50%</td><td>0.00%</td><td>1</td><td>=
++10.00%</td><td>+10.00%</td><td>+10.00%</td><td>+0.00%</td><td>+10.00%</td>=
+<td>+0.00%</td></tr></tbody></table></div></div><div class=3D"report-explan=
+ation"><h3>=F0=9F=93=9A Report Metrics Explained</h3><div class=3D"explanat=
+ion-grid"><div class=3D"explanation-item"><strong>Beta:</strong> Stock's vo=
+latility relative to market (fetched from Yahoo Finance). Beta=3D1.0 moves =
+with market, Beta&gt;1.0 more volatile, Beta&lt;1.0 less volatile.</div><di=
+v class=3D"explanation-item"><strong>Coefficient:</strong> User-selected mu=
+ltiplier (0.25-3.0) to amplify or reduce Beta's effect on parameter scaling=
+.</div><div class=3D"explanation-item"><strong>=CE=B2-Factor:</strong> Beta=
+ =C3=97 Coefficient =3D final multiplier used for parameter calculations (e=
+.g., TSLA Beta=3D2.1 =C3=97 Coeff=3D1.5 =3D =CE=B2-Factor=3D3.15).</div><di=
+v class=3D"explanation-item"><strong>Total Return:</strong> (Final Portfoli=
+o Value - Initial Investment) / Initial Investment</div><div class=3D"expla=
+nation-item"><strong>Annualized Return:</strong> (1 + Total Return) ^ (365 =
+/ Days in Period) - 1</div><div class=3D"explanation-item"><strong>CAGR on =
+Max Deployed:</strong> Compound Annual Growth Rate based on maximum capital=
+ actually deployed (most realistic annualized return metric)</div><div clas=
+s=3D"explanation-item"><strong>CAGR on Avg Deployed:</strong> CAGR based on=
+ average capital deployed over time (shows capital efficiency)</div><div cl=
+ass=3D"explanation-item"><strong>Return on Max Deployed:</strong> Total ret=
+urn percentage based on peak capital used, not total available capital</div=
+><div class=3D"explanation-item"><strong>Sharpe Ratio:</strong> Risk-adjust=
+ed return metric: (Avg Return - Risk-Free Rate) / Volatility. Higher is bet=
+ter (&gt;1.0 is good, &gt;2.0 is excellent)</div><div class=3D"explanation-=
+item"><strong>Sortino Ratio:</strong> Like Sharpe but only penalizes downsi=
+de volatility. Higher is better (&gt;1.0 is good, &gt;2.0 is excellent)</di=
+v><div class=3D"explanation-item"><strong>Total Trades:</strong> Total numb=
+er of buy and sell transactions executed</div><div class=3D"explanation-ite=
+m"><strong>Win Rate:</strong> Number of profitable trades / Total number of=
+ trades</div><div class=3D"explanation-item"><strong>Average Profit per Tra=
+de:</strong> Total realized profit / Total number of sell trades</div><div =
+class=3D"explanation-item"><strong>Maximum Drawdown:</strong> Largest peak-=
+to-trough decline in portfolio value</div><div class=3D"explanation-item"><=
+strong>Capital Utilization:</strong> Average capital deployed / Total avail=
+able capital</div></div></div></div></div></main></div></div>
+
+   =20
+ =20
+
+<span id=3D"recharts_measurement_span" aria-hidden=3D"true" style=3D"positi=
+on: absolute; top: -20000px; left: 0px; padding: 0px; margin: 0px; border: =
+none; white-space: pre; font-size: 12px; letter-spacing: normal;">$-100k</s=
+pan><span id=3D"okta-plugin-message-channel-available" style=3D"display: no=
+ne;"></span></body></html>
+------MultipartBoundary--NeRqNacFpMOLpZS3Dkr2ENNfDWbOZ7zxcPypiCC0Wb----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-2b80f095-3ba5-4d29-97ed-ebbe90412378@mhtml.blink
+
+@charset "utf-8";
+
+.village-iframe { width: 100%; height: 100%; border: none; display: block; =
+position: fixed; top: 0px; left: 0px; z-index: 2147483647; background: rgba=
+(0, 0, 0, 0.24); color-scheme: light; }
+
+.village-iframe.village-loading { display: flex; justify-content: center; a=
+lign-items: center; }
+
+.village-iframe > .village-spinner { width: 1.5rem; height: 1.5rem; border-=
+width: 2px; border-style: solid; border-color: rgb(0, 0, 0) rgb(0, 0, 0) tr=
+ansparent transparent; border-image: initial; border-radius: 50%; animation=
+: 0.45s linear 0s infinite normal none running spin; }
+
+.village-iframe.village-hidden { display: none; }
+
+@keyframes spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.village-hidden { display: none; }
+
+[village-paths-data=3D"facepiles"] { display: flex; align-items: center; pa=
+dding-right: 0.5rem; }
+
+[village-paths-data=3D"facepiles"] img { width: 1.5rem; height: 1.5rem; bor=
+der-radius: 50%; margin-right: -0.5rem; }
+
+[village-paths-data=3D"facepiles"] img.village-facepiler-avatar-not-found {=
+ filter: blur(7px); }
+
+[village-paths-data=3D"facepiles"] img:last-child { margin-right: 0px; }
+
+[village-paths-data=3D"count"] { padding-right: 0.25rem; }
+
+[village-paths-availability=3D"error"], [village-paths-availability=3D"foun=
+d"], [village-paths-availability=3D"not-found"], [village-paths-availabilit=
+y=3D"not-activated"] { display: none !important; }
+
+[village-paths-availability=3D"loading"] { display: inline-flex !important;=
+ }
+------MultipartBoundary--NeRqNacFpMOLpZS3Dkr2ENNfDWbOZ7zxcPypiCC0Wb----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-5a313a8c-8d5d-43e1-b8e9-eed4d29c57aa@mhtml.blink
+
+@charset "utf-8";
+
+.batch-progress-banner { background: linear-gradient(135deg, rgb(102, 126, =
+234) 0%, rgb(118, 75, 162) 100%); color: white; padding: 1.5rem; border-rad=
+ius: 12px; margin-bottom: 1.5rem; box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 6p=
+x, rgba(0, 0, 0, 0.08) 0px 1px 3px; animation: 0.3s ease-in 0s 1 normal non=
+e running fadeIn; }
+
+.batch-progress-banner.running { background: linear-gradient(135deg, rgb(10=
+2, 126, 234) 0%, rgb(118, 75, 162) 100%); }
+
+.batch-progress-banner.connecting { background: linear-gradient(135deg, rgb=
+(96, 165, 250) 0%, rgb(59, 130, 246) 100%); display: flex; align-items: cen=
+ter; gap: 1rem; padding: 1rem 1.5rem; }
+
+.batch-progress-banner.error { background: linear-gradient(135deg, rgb(248,=
+ 113, 113) 0%, rgb(239, 68, 68) 100%); display: flex; align-items: center; =
+gap: 1rem; padding: 1rem 1.5rem; }
+
+.progress-spinner { width: 24px; height: 24px; border-width: 3px; border-st=
+yle: solid; border-color: white rgba(255, 255, 255, 0.3) rgba(255, 255, 255=
+, 0.3); border-image: initial; border-radius: 50%; animation: 1s linear 0s =
+infinite normal none running spin; }
+
+@keyframes spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+@keyframes fadeIn {=20
+  0% { opacity: 0; transform: translateY(-10px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.progress-icon { font-size: 1.5rem; }
+
+.progress-content { flex: 1 1 0%; }
+
+.progress-header { display: flex; justify-content: space-between; align-ite=
+ms: center; margin-bottom: 1rem; flex-wrap: wrap; gap: 0.5rem; }
+
+.progress-title { font-size: 1.125rem; font-weight: 600; letter-spacing: 0.=
+025em; }
+
+.progress-subtitle { font-size: 0.875rem; opacity: 0.9; margin-top: 0.25rem=
+; }
+
+.progress-timing { display: flex; align-items: center; gap: 0.75rem; font-s=
+ize: 0.875rem; opacity: 0.9; }
+
+.progress-timing .divider { opacity: 0.5; }
+
+.progress-bar-container { background: rgba(255, 255, 255, 0.2); border-radi=
+us: 9999px; height: 8px; overflow: hidden; margin-bottom: 1rem; }
+
+.progress-bar-fill { background: white; height: 100%; border-radius: 9999px=
+; transition: width 0.5s ease-out; box-shadow: rgba(255, 255, 255, 0.5) 0px=
+ 0px 10px; }
+
+.progress-details { display: flex; flex-direction: column; gap: 0.75rem; fo=
+nt-size: 0.875rem; }
+
+.detail-row { display: flex; flex-wrap: wrap; gap: 1.5rem; }
+
+.detail-item { display: flex; align-items: center; gap: 0.5rem; }
+
+.detail-label { opacity: 0.8; font-weight: 500; }
+
+.detail-value { font-weight: 600; background: rgba(255, 255, 255, 0.2); pad=
+ding: 0.25rem 0.75rem; border-radius: 6px; }
+
+.detail-value.success { background: rgba(16, 185, 129, 0.3); }
+
+.detail-value.error { background: rgba(239, 68, 68, 0.3); }
+
+.best-result { margin-top: 0.5rem; padding-top: 1rem; border-top: 1px solid=
+ rgba(255, 255, 255, 0.2); }
+
+.best-result-label { font-weight: 600; margin-bottom: 0.5rem; opacity: 0.9;=
+ }
+
+.best-result-content { display: flex; align-items: center; flex-wrap: wrap;=
+ gap: 0.75rem; font-size: 0.875rem; }
+
+.best-symbol { font-weight: 700; font-size: 1rem; background: rgba(255, 255=
+, 255, 0.25); padding: 0.25rem 0.75rem; border-radius: 6px; }
+
+.best-divider { opacity: 0.5; }
+
+.best-return, .best-total { font-weight: 600; }
+
+@media (max-width: 640px) {
+  .batch-progress-banner { padding: 1rem; }
+  .progress-header { flex-direction: column; align-items: flex-start; }
+  .progress-title { font-size: 1rem; }
+  .detail-row { gap: 1rem; }
+  .best-result-content { flex-direction: column; align-items: flex-start; g=
+ap: 0.5rem; }
+  .best-divider { display: none; }
+}
+------MultipartBoundary--NeRqNacFpMOLpZS3Dkr2ENNfDWbOZ7zxcPypiCC0Wb----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-32557cb9-60fa-42f8-8b34-98fe35345a18@mhtml.blink
+
+@charset "utf-8";
+
+.performance-summary { background: rgb(255, 255, 255); border: 1px solid rg=
+b(224, 224, 224); border-radius: 8px; padding: 24px; margin: 24px 0px; box-=
+shadow: rgba(0, 0, 0, 0.05) 0px 2px 4px; }
+
+.performance-title { margin: 0px 0px 20px; font-size: 20px; font-weight: 60=
+0; color: rgb(51, 51, 51); border-bottom: 2px solid rgb(74, 144, 226); padd=
+ing-bottom: 10px; }
+
+.metrics-grid { display: grid; grid-template-columns: repeat(auto-fit, minm=
+ax(280px, 1fr)); gap: 24px; margin-bottom: 20px; }
+
+.metric-section { background: rgb(248, 249, 250); border: 1px solid rgb(233=
+, 236, 239); border-radius: 6px; padding: 16px; }
+
+.section-title { margin: 0px 0px 12px; font-size: 14px; font-weight: 600; c=
+olor: rgb(85, 85, 85); text-transform: uppercase; letter-spacing: 0.5px; bo=
+rder-bottom: 1px solid rgb(222, 226, 230); padding-bottom: 8px; }
+
+.metric-row { display: flex; justify-content: space-between; align-items: c=
+enter; padding: 8px 0px; border-bottom: 1px solid rgb(240, 240, 240); }
+
+.metric-row:last-child { border-bottom: none; }
+
+.metric-label { font-size: 13px; color: rgb(102, 102, 102); font-weight: 50=
+0; }
+
+.metric-value { font-size: 14px; font-weight: 600; padding: 4px 12px; borde=
+r-radius: 4px; text-align: right; }
+
+.metric-value.excellent { background-color: rgb(212, 237, 218); color: rgb(=
+21, 87, 36); border: 1px solid rgb(195, 230, 203); }
+
+.metric-value.good { background-color: rgb(209, 236, 241); color: rgb(12, 8=
+4, 96); border: 1px solid rgb(190, 229, 235); }
+
+.metric-value.neutral { background-color: rgb(226, 227, 229); color: rgb(56=
+, 61, 65); border: 1px solid rgb(214, 216, 219); }
+
+.metric-value.poor { background-color: rgb(248, 215, 218); color: rgb(114, =
+28, 36); border: 1px solid rgb(245, 198, 203); }
+
+.metric-notes { background: rgb(255, 243, 205); border: 1px solid rgb(255, =
+238, 186); border-radius: 4px; padding: 12px 16px; margin-top: 16px; }
+
+.metric-notes .note { margin: 0px; font-size: 13px; color: rgb(133, 100, 4)=
+; line-height: 1.5; }
+
+.metric-notes strong { font-weight: 600; }
+
+@media (max-width: 768px) {
+  .metrics-grid { grid-template-columns: 1fr; }
+  .performance-summary { padding: 16px; }
+  .metric-row { flex-direction: column; align-items: flex-start; gap: 4px; =
+}
+  .metric-value { align-self: flex-end; }
+}
+
+@media (min-width: 1200px) {
+  .metrics-grid { grid-template-columns: repeat(3, 1fr); }
+}
+------MultipartBoundary--NeRqNacFpMOLpZS3Dkr2ENNfDWbOZ7zxcPypiCC0Wb----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-a7326cfd-f099-4c2d-b728-708b3a4c6e59@mhtml.blink
+
+@charset "utf-8";
+
+.beta-controls { background: rgb(248, 249, 250); border: 1px solid rgb(233,=
+ 236, 239); border-radius: 8px; padding: 16px; margin-bottom: 16px; }
+
+.beta-header { display: flex; flex-direction: column; gap: 8px; margin-bott=
+om: 16px; }
+
+.beta-header h3 { margin: 0px; font-size: 16px; font-weight: 600; color: rg=
+b(73, 80, 87); display: flex; align-items: center; gap: 8px; }
+
+.beta-loading-spinner { animation: 1s linear 0s infinite normal none runnin=
+g spin; }
+
+@keyframes spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.beta-value-section { display: flex; align-items: center; gap: 8px; }
+
+.beta-display { display: flex; align-items: center; gap: 8px; }
+
+.beta-value { font-size: 24px; font-weight: 700; color: rgb(0, 123, 255); }
+
+.beta-edit-btn { background: none; border: none; cursor: pointer; padding: =
+4px; border-radius: 4px; color: rgb(108, 117, 125); transition: 0.2s; }
+
+.beta-edit-btn:hover:not(:disabled) { background: rgb(233, 236, 239); color=
+: rgb(73, 80, 87); }
+
+.beta-edit-btn:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.beta-edit-controls { display: flex; align-items: center; gap: 8px; }
+
+.beta-input { width: 80px; padding: 4px 8px; border: 1px solid rgb(206, 212=
+, 218); border-radius: 4px; font-size: 16px; }
+
+.beta-save-btn, .beta-cancel-btn { padding: 4px 12px; border: none; border-=
+radius: 4px; cursor: pointer; font-size: 12px; transition: 0.2s; }
+
+.beta-save-btn { background: rgb(40, 167, 69); color: white; }
+
+.beta-save-btn:hover { background: rgb(33, 136, 56); }
+
+.beta-cancel-btn { background: rgb(108, 117, 125); color: white; }
+
+.beta-cancel-btn:hover { background: rgb(90, 98, 104); }
+
+.beta-status { display: flex; flex-direction: column; gap: 4px; font-size: =
+12px; color: rgb(108, 117, 125); }
+
+.beta-source { font-weight: 500; }
+
+.beta-last-updated { font-style: italic; }
+
+.beta-error { background: rgb(248, 215, 218); color: rgb(114, 28, 36); padd=
+ing: 8px 12px; border-radius: 4px; margin-bottom: 16px; font-size: 14px; }
+
+.beta-explanation { background: rgb(231, 243, 255); border: 1px solid rgb(1=
+79, 217, 255); border-radius: 4px; padding: 12px; margin-bottom: 16px; }
+
+.beta-explanation p { margin: 0px 0px 8px; font-weight: 500; color: rgb(0, =
+86, 179); }
+
+.beta-explanation ul { margin: 0px; padding-left: 20px; }
+
+.beta-explanation li { margin-bottom: 4px; color: rgb(73, 80, 87); font-siz=
+e: 14px; }
+
+.beta-controls-section { display: flex; justify-content: space-between; ali=
+gn-items: center; margin-bottom: 16px; flex-wrap: wrap; gap: 12px; }
+
+.beta-scaling-toggle label { display: flex; align-items: center; gap: 8px; =
+cursor: pointer; font-weight: 500; color: rgb(73, 80, 87); }
+
+.beta-scaling-toggle input[type=3D"checkbox"] { width: 16px; height: 16px; =
+}
+
+.beta-override-section { display: flex; align-items: center; gap: 8px; }
+
+.beta-override-btn, .beta-reset-btn { padding: 6px 12px; border: 1px solid =
+rgb(0, 123, 255); background: white; color: rgb(0, 123, 255); border-radius=
+: 4px; cursor: pointer; font-size: 14px; transition: 0.2s; display: flex; a=
+lign-items: center; gap: 4px; }
+
+.beta-override-btn:hover:not(:disabled) { background: rgb(0, 123, 255); col=
+or: white; }
+
+.beta-reset-btn { border-color: rgb(108, 117, 125); color: rgb(108, 117, 12=
+5); }
+
+.beta-reset-btn:hover:not(:disabled) { background: rgb(108, 117, 125); colo=
+r: white; }
+
+.beta-override-btn:disabled, .beta-reset-btn:disabled { opacity: 0.5; curso=
+r: not-allowed; }
+
+.beta-parameter-adjustments { border-top: 1px solid rgb(233, 236, 239); pad=
+ding-top: 16px; }
+
+.beta-parameter-adjustments h4 { margin: 0px 0px 12px; font-size: 14px; fon=
+t-weight: 600; color: rgb(73, 80, 87); }
+
+.beta-warning { background: rgb(255, 243, 205); color: rgb(133, 100, 4); pa=
+dding: 8px 12px; border-radius: 4px; margin-bottom: 12px; font-size: 14px; =
+border: 1px solid rgb(255, 234, 167); }
+
+.parameter-comparison-grid { display: grid; grid-template-columns: repeat(a=
+uto-fit, minmax(250px, 1fr)); gap: 12px; }
+
+.parameter-comparison { background: white; border: 1px solid rgb(233, 236, =
+239); border-radius: 4px; padding: 12px; }
+
+.parameter-label { display: block; font-weight: 500; color: rgb(73, 80, 87)=
+; margin-bottom: 8px; font-size: 14px; }
+
+.parameter-values { display: flex; align-items: center; gap: 8px; font-size=
+: 14px; }
+
+.base-value { color: rgb(108, 117, 125); font-family: monospace; }
+
+.arrow { color: rgb(0, 123, 255); font-weight: bold; }
+
+.adjusted-value { color: rgb(0, 123, 255); font-weight: 600; font-family: m=
+onospace; }
+
+.beta-calculation { margin: 12px 0px; padding: 12px; background-color: rgb(=
+248, 249, 250); border-radius: 6px; border-left: 3px solid rgb(0, 123, 255)=
+; }
+
+.calculation-row { display: flex; align-items: center; justify-content: spa=
+ce-between; margin: 6px 0px; padding: 4px 0px; }
+
+.calculation-row.calculation-result { margin-top: 8px; padding-top: 8px; bo=
+rder-top: 1px solid rgb(222, 226, 230); font-weight: 600; }
+
+.calc-label { font-size: 14px; color: rgb(108, 117, 125); font-weight: 500;=
+ flex: 0 0 140px; }
+
+.calc-value { font-family: monospace; font-size: 16px; font-weight: 600; co=
+lor: rgb(73, 80, 87); flex: 0 0 auto; }
+
+.calc-value.beta-factor { color: rgb(0, 123, 255); font-size: 18px; }
+
+.calc-formula { font-size: 12px; color: rgb(108, 117, 125); font-family: mo=
+nospace; margin-left: 8px; flex: 1 1 0%; text-align: right; }
+
+@media (max-width: 768px) {
+  .beta-controls-section { flex-direction: column; align-items: stretch; }
+  .beta-override-section { justify-content: center; }
+  .parameter-comparison-grid { grid-template-columns: 1fr; }
+  .beta-header { text-align: center; }
+  .beta-value-section { justify-content: center; }
+}
+------MultipartBoundary--NeRqNacFpMOLpZS3Dkr2ENNfDWbOZ7zxcPypiCC0Wb----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-3a6f2d8a-e8b5-4d59-8845-44659d05d8d5@mhtml.blink
+
+@charset "utf-8";
+
+.App { min-height: 100vh; background: linear-gradient(135deg, rgb(102, 126,=
+ 234) 0%, rgb(118, 75, 162) 100%); font-family: "Segoe UI", Tahoma, Geneva,=
+ Verdana, sans-serif; }
+
+.app-header { background: rgba(255, 255, 255, 0.95); backdrop-filter: blur(=
+10px); padding: 2rem 0px; margin-bottom: 2rem; box-shadow: rgba(0, 0, 0, 0.=
+1) 0px 4px 6px; }
+
+.header-content { max-width: min(1600px, 95vw); margin: 0px auto; padding: =
+0px 2rem; text-align: center; }
+
+.header-content h1 { display: flex; align-items: center; justify-content: c=
+enter; gap: 1rem; margin: 0px 0px 0.5rem; font-size: 2.5rem; color: rgb(45,=
+ 55, 72); font-weight: 700; }
+
+.header-icon { color: rgb(102, 126, 234); }
+
+.header-content p { color: rgb(113, 128, 150); font-size: 1.1rem; margin: 0=
+px; }
+
+.tab-navigation { max-width: min(1600px, 95vw); margin: 0px auto 2rem; padd=
+ing: 0px 2rem; display: flex; gap: 1rem; justify-content: center; }
+
+.tab-button { display: flex; align-items: center; gap: 0.5rem; padding: 1re=
+m 2rem; background: rgba(255, 255, 255, 0.9); border: 2px solid transparent=
+; border-radius: 12px; color: rgb(74, 85, 104); font-weight: 600; cursor: p=
+ointer; transition: 0.3s; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px; }
+
+.tab-button:hover:not(:disabled) { background: white; transform: translateY=
+(-2px); box-shadow: rgba(0, 0, 0, 0.15) 0px 4px 8px; }
+
+.tab-button.active { background: white; border-color: rgb(102, 126, 234); c=
+olor: rgb(102, 126, 234); box-shadow: rgba(102, 126, 234, 0.25) 0px 4px 8px=
+; }
+
+.tab-button:disabled { opacity: 0.5; cursor: not-allowed; }
+
+.app-main { max-width: min(1600px, 95vw); margin: 0px auto; padding: 0px 2r=
+em 4rem; }
+
+.tab-content { background: rgba(255, 255, 255, 0.95); backdrop-filter: blur=
+(10px); border-radius: 16px; padding: 2rem; box-shadow: rgba(0, 0, 0, 0.1) =
+0px 8px 32px; border: 1px solid rgba(255, 255, 255, 0.2); }
+
+.error-banner { background: rgb(254, 215, 215); border: 1px solid rgb(254, =
+178, 178); color: rgb(197, 48, 48); padding: 1rem; border-radius: 8px; marg=
+in-bottom: 1rem; display: flex; align-items: center; gap: 0.5rem; }
+
+.validation-error { background: rgb(254, 245, 231); border: 1px solid rgb(2=
+46, 173, 85); color: rgb(192, 86, 33); padding: 0.75rem; border-radius: 8px=
+; margin: 0.5rem 0px; display: flex; align-items: flex-start; gap: 0.5rem; =
+font-size: 0.9rem; }
+
+.validation-error strong { flex-shrink: 0; }
+
+.loading-banner { background: rgb(190, 227, 248); border: 1px solid rgb(144=
+, 205, 244); color: rgb(43, 108, 176); padding: 1rem; border-radius: 8px; m=
+argin-bottom: 1rem; display: flex; align-items: center; gap: 1rem; }
+
+.loading-spinner { width: 20px; height: 20px; border-width: 2px; border-sty=
+le: solid; border-color: rgb(43, 108, 176) rgb(144, 205, 244) rgb(144, 205,=
+ 244); border-image: initial; border-radius: 50%; animation: 1s linear 0s i=
+nfinite normal none running spin; }
+
+@keyframes spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.form-grid { display: grid; grid-template-columns: repeat(auto-fit, minmax(=
+300px, 1fr)); gap: 2rem; margin-bottom: 2rem; }
+
+.form-group { display: flex; flex-direction: column; gap: 0.5rem; }
+
+.form-group label { font-weight: 600; color: rgb(45, 55, 72); font-size: 0.=
+9rem; }
+
+.form-group input, .form-group select { padding: 0.75rem 1rem; border: 2px =
+solid rgb(226, 232, 240); border-radius: 8px; font-size: 1rem; transition: =
+border-color 0.3s; }
+
+.form-group input:focus, .form-group select:focus { outline: none; border-c=
+olor: rgb(102, 126, 234); box-shadow: rgba(102, 126, 234, 0.1) 0px 0px 0px =
+3px; }
+
+.form-help { font-size: 0.8rem; color: rgb(113, 128, 150); font-style: ital=
+ic; }
+
+.custom-symbol-input { display: flex; gap: 0.5rem; align-items: center; }
+
+.custom-symbol-input input { flex: 1 1 0%; margin-bottom: 0px; }
+
+.add-symbol-button { background: linear-gradient(135deg, rgb(56, 161, 105) =
+0%, rgb(47, 133, 90) 100%); color: white; border: none; padding: 0.75rem 1.=
+5rem; border-radius: 8px; font-weight: 600; cursor: pointer; transition: 0.=
+3s; white-space: nowrap; }
+
+.add-symbol-button:hover:not(:disabled) { transform: translateY(-2px); box-=
+shadow: rgba(56, 161, 105, 0.3) 0px 4px 12px; }
+
+.add-symbol-button:disabled { background: rgb(203, 213, 224); cursor: not-a=
+llowed; transform: none; box-shadow: none; }
+
+.run-single-button { background: linear-gradient(135deg, rgb(102, 126, 234)=
+ 0%, rgb(118, 75, 162) 100%); color: white; border: none; padding: 0.5rem 0=
+.75rem; border-radius: 6px; font-size: 0.8rem; font-weight: 600; cursor: po=
+inter; transition: 0.3s; white-space: nowrap; }
+
+.run-single-button:hover { transform: translateY(-1px); box-shadow: rgba(10=
+2, 126, 234, 0.3) 0px 4px 12px; }
+
+.form-actions { display: flex; gap: 1rem; justify-content: center; align-it=
+ems: center; margin-top: 2rem; }
+
+.submit-button { background: linear-gradient(135deg, rgb(102, 126, 234) 0%,=
+ rgb(118, 75, 162) 100%); color: white; border: none; padding: 1rem 2rem; b=
+order-radius: 12px; font-size: 1.1rem; font-weight: 600; cursor: pointer; t=
+ransition: 0.3s; display: flex; align-items: center; justify-content: cente=
+r; gap: 0.5rem; min-width: 200px; }
+
+.submit-button:hover:not(:disabled) { transform: translateY(-2px); box-shad=
+ow: rgba(102, 126, 234, 0.3) 0px 8px 16px; }
+
+.submit-button:disabled { opacity: 0.7; cursor: not-allowed; transform: non=
+e; }
+
+.reset-button { background: linear-gradient(135deg, rgb(108, 117, 125) 0%, =
+rgb(90, 98, 104) 100%); color: white; border: none; padding: 1rem 1.5rem; b=
+order-radius: 12px; font-size: 1rem; font-weight: 600; cursor: pointer; tra=
+nsition: 0.3s; display: flex; align-items: center; justify-content: center;=
+ gap: 0.5rem; min-width: 180px; }
+
+.reset-button:hover:not(:disabled) { transform: translateY(-2px); box-shado=
+w: rgba(108, 117, 125, 0.3) 0px 6px 12px; background: linear-gradient(135de=
+g, rgb(90, 98, 104) 0%, rgb(73, 80, 87) 100%); }
+
+.reset-button:disabled { opacity: 0.7; cursor: not-allowed; transform: none=
+; }
+
+.form-section { margin-bottom: 2.5rem; padding: 1.5rem; background: rgba(24=
+7, 250, 252, 0.5); border-radius: 12px; border: 1px solid rgb(226, 232, 240=
+); }
+
+.section-title { display: flex; align-items: center; gap: 0.75rem; margin: =
+0px 0px 1.5rem; color: rgb(45, 55, 72); font-size: 1.3rem; font-weight: 600=
+; }
+
+.strategy-info { margin: 2rem 0px; }
+
+.info-card { background: linear-gradient(135deg, rgb(190, 227, 248) 0%, rgb=
+(144, 205, 244) 100%); border: 1px solid rgb(99, 179, 237); border-radius: =
+12px; padding: 1.5rem; display: flex; gap: 1rem; align-items: flex-start; }
+
+.info-card h4 { margin: 0px 0px 0.5rem; color: rgb(30, 64, 175); font-weigh=
+t: 600; }
+
+.info-card p { margin: 0px; color: rgb(30, 58, 138); line-height: 1.5; }
+
+.chart-container { width: 100%; }
+
+.chart-title-section { display: flex; flex-direction: column; gap: 0.5rem; =
+}
+
+.data-range-info { display: flex; align-items: center; gap: 0.5rem; color: =
+rgb(113, 128, 150); font-size: 0.9rem; font-weight: 500; }
+
+.chart-header { display: flex; justify-content: space-between; align-items:=
+ center; margin-bottom: 2rem; flex-wrap: wrap; gap: 1rem; }
+
+.chart-header h2 { display: flex; align-items: center; gap: 0.75rem; margin=
+: 0px; color: rgb(45, 55, 72); font-size: 1.5rem; font-weight: 600; }
+
+.chart-controls { display: flex; flex-direction: column; gap: 1rem; align-i=
+tems: flex-end; }
+
+.view-toggles { display: flex; gap: 0.5rem; background: rgb(247, 250, 252);=
+ border-radius: 8px; padding: 0.25rem; border: 1px solid rgb(226, 232, 240)=
+; }
+
+.view-toggle { padding: 0.5rem 1rem; background: transparent; border: none;=
+ border-radius: 6px; color: rgb(74, 85, 104); font-weight: 600; cursor: poi=
+nter; transition: 0.3s; font-size: 0.875rem; }
+
+.view-toggle:hover { background: rgb(237, 242, 247); }
+
+.view-toggle.active { background: rgb(102, 126, 234); color: white; box-sha=
+dow: rgba(102, 126, 234, 0.25) 0px 2px 4px; }
+
+.zoom-controls { display: flex; gap: 0.5rem; }
+
+.zoom-button { display: flex; align-items: center; gap: 0.25rem; padding: 0=
+.5rem 1rem; background: rgb(247, 250, 252); border: 1px solid rgb(226, 232,=
+ 240); border-radius: 6px; color: rgb(74, 85, 104); font-size: 0.875rem; fo=
+nt-weight: 600; cursor: pointer; transition: 0.3s; }
+
+.zoom-button:hover { background: rgb(237, 242, 247); border-color: rgb(203,=
+ 213, 224); transform: translateY(-1px); }
+
+.zoom-button:active { transform: translateY(0px); }
+
+.main-chart { position: relative; }
+
+.main-chart h3 { display: flex; align-items: center; justify-content: space=
+-between; margin-bottom: 1rem; }
+
+.overview-chart { background: rgba(102, 126, 234, 0.05); border: 1px solid =
+rgba(102, 126, 234, 0.2); border-radius: 8px; padding: 1rem; margin-top: 1r=
+em; }
+
+.overview-chart h4 { margin: 0px 0px 0.5rem; color: rgb(74, 85, 104); font-=
+size: 0.9rem; font-weight: 600; }
+
+.chart-loading { display: flex; justify-content: center; align-items: cente=
+r; height: 300px; color: rgb(113, 128, 150); font-style: italic; font-size:=
+ 1.1rem; }
+
+.chart-tooltip { background: rgba(255, 255, 255, 0.98); backdrop-filter: bl=
+ur(10px); border: 1px solid rgb(226, 232, 240); border-radius: 8px; padding=
+: 1rem; box-shadow: rgba(0, 0, 0, 0.15) 0px 8px 16px; max-width: 250px; }
+
+.tooltip-date { font-weight: 700; color: rgb(45, 55, 72); margin: 0px 0px 0=
+.5rem; font-size: 0.9rem; border-bottom: 1px solid rgb(226, 232, 240); padd=
+ing-bottom: 0.25rem; }
+
+.tooltip-price { font-weight: 600; color: rgb(45, 55, 72); margin: 0px 0px =
+0.5rem; font-size: 1rem; }
+
+.tooltip-transaction { font-weight: 600; margin: 0px 0px 0.5rem; padding: 0=
+.25rem 0.5rem; border-radius: 4px; font-size: 0.875rem; display: inline-blo=
+ck; }
+
+.tooltip-transaction.buy { background: linear-gradient(135deg, rgb(198, 246=
+, 213) 0%, rgb(154, 230, 180) 100%); color: rgb(34, 84, 61); border: 1px so=
+lid rgb(154, 230, 180); }
+
+.tooltip-transaction.sell { background: linear-gradient(135deg, rgb(254, 21=
+5, 215) 0%, rgb(251, 182, 206) 100%); color: rgb(116, 42, 42); border: 1px =
+solid rgb(251, 182, 206); }
+
+.tooltip-indicator { color: rgb(74, 85, 104); margin: 0.25rem 0px; font-siz=
+e: 0.8rem; display: flex; justify-content: space-between; }
+
+.results-container { width: 100%; }
+
+.results-title { display: flex; align-items: center; gap: 0.75rem; margin: =
+0px 0px 1rem; color: rgb(45, 55, 72); font-size: 1.5rem; font-weight: 600; =
+}
+
+.results-period { display: flex; align-items: center; gap: 0.5rem; color: r=
+gb(113, 128, 150); margin-bottom: 2rem; font-weight: 500; }
+
+.performance-section, .transactions-section, .holdings-section, .strategy-s=
+ummary, .questionable-events-section { margin: 3rem 0px; }
+
+.performance-section h3, .transactions-section h3, .holdings-section h3, .s=
+trategy-summary h3, .questionable-events-section h3 { display: flex; align-=
+items: center; gap: 0.5rem; margin: 0px 0px 1.5rem; color: rgb(45, 55, 72);=
+ font-size: 1.2rem; font-weight: 600; }
+
+.performance-chart { background: rgb(247, 250, 252); border: 1px solid rgb(=
+226, 232, 240); border-radius: 8px; padding: 2rem; text-align: center; }
+
+.chart-placeholder { color: rgb(113, 128, 150); }
+
+.chart-placeholder p { margin: 0.5rem 0px; }
+
+.chart-legend { display: flex; justify-content: center; gap: 2rem; margin-t=
+op: 1rem; padding-top: 1rem; border-top: 1px solid rgb(226, 232, 240); }
+
+.legend-item { display: flex; align-items: center; gap: 0.5rem; font-size: =
+0.9rem; color: rgb(74, 85, 104); }
+
+.legend-color { width: 16px; height: 3px; border-radius: 2px; }
+
+.transactions-table, .holdings-table { background: white; border: 1px solid=
+ rgb(226, 232, 240); border-radius: 8px; overflow: hidden; }
+
+.table-header { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; =
+gap: 1rem; padding: 1rem; background: rgb(247, 250, 252); font-weight: 600;=
+ color: rgb(74, 85, 104); border-bottom: 1px solid rgb(226, 232, 240); }
+
+.table-row { display: grid; grid-template-columns: 1fr 1fr 1fr 1fr 1fr; gap=
+: 1rem; padding: 1rem; border-bottom: 1px solid rgb(241, 245, 249); align-i=
+tems: center; }
+
+.holdings-table .table-header { grid-template-columns: 1fr 1fr 1fr 1fr 1fr =
+1fr 1fr 1fr; }
+
+.holdings-table .table-row { grid-template-columns: 1fr 1fr 1fr 1fr 1fr 1fr=
+ 1fr 1fr; }
+
+.table-row:last-child { border-bottom: none; }
+
+.table-row:hover { background: rgb(248, 250, 252); }
+
+.transaction-type { display: flex; align-items: center; gap: 0.25rem; font-=
+weight: 600; }
+
+.transaction-type.buy { color: rgb(56, 161, 105); }
+
+.transaction-type.sell { color: rgb(229, 62, 62); }
+
+.no-transactions { padding: 2rem; text-align: center; color: rgb(113, 128, =
+150); font-style: italic; }
+
+.strategy-summary { background: linear-gradient(135deg, rgb(247, 250, 252) =
+0%, rgb(237, 242, 247) 100%); border: 1px solid rgb(226, 232, 240); border-=
+radius: 12px; padding: 2rem; }
+
+.summary-content p { margin: 1rem 0px; line-height: 1.6; color: rgb(74, 85,=
+ 104); }
+
+.summary-content strong { color: rgb(45, 55, 72); }
+
+@media (max-width: 1024px) {
+  .chart-header { flex-direction: column; align-items: stretch; gap: 1.5rem=
+; }
+  .chart-controls { align-items: stretch; }
+  .view-toggles { justify-content: center; }
+  .zoom-controls { justify-content: center; }
+  .indicator-toggles { justify-content: center; }
+}
+
+@media (max-width: 768px) {
+  .header-content h1 { font-size: 2rem; flex-direction: column; gap: 0.5rem=
+; }
+  .tab-navigation { flex-direction: column; align-items: center; }
+  .tab-button { width: 100%; max-width: 300px; justify-content: center; }
+  .app-main { padding: 0px 1rem 2rem; }
+  .tab-content { padding: 1.5rem; }
+  .form-grid { grid-template-columns: 1fr; gap: 1rem; }
+  .table-header, .table-row { grid-template-columns: 1fr; gap: 0.5rem; }
+  .table-header { display: none; }
+  .table-row { display: block; padding: 1rem; border: 1px solid rgb(226, 23=
+2, 240); border-radius: 8px; margin-bottom: 0.5rem; }
+  .table-row > div { margin: 0.25rem 0px; }
+  .table-row > div::before { content: attr(data-label) ': '; font-weight: 6=
+00; color: rgb(74, 85, 104); }
+  .chart-title-section h2 { font-size: 1.3rem; }
+  .data-range-info { font-size: 0.8rem; }
+  .view-toggle, .zoom-button, .indicator-toggle { padding: 0.4rem 0.8rem; f=
+ont-size: 0.8rem; }
+  .main-chart h3 { flex-direction: column; align-items: flex-start; gap: 0.=
+5rem; }
+  .overview-chart { padding: 0.75rem; }
+}
+
+.chart-section { animation: 0.5s ease-in-out 0s 1 normal none running fadeI=
+n; }
+
+@keyframes fadeIn {=20
+  0% { opacity: 0; transform: translateY(10px); }
+  100% { opacity: 1; transform: translateY(0px); }
+}
+
+.recharts-brush { fill: rgba(102, 126, 234, 0.1) !important; }
+
+.recharts-brush .recharts-brush-slide { fill: rgba(102, 126, 234, 0.3) !imp=
+ortant; }
+
+.recharts-brush .recharts-brush-traveller { fill: rgb(102, 126, 234) !impor=
+tant; stroke: rgb(76, 81, 191) !important; }
+
+.transaction-log-section { background: rgba(255, 255, 255, 0.95); border-ra=
+dius: 12px; padding: 1.5rem; margin-bottom: 2rem; box-shadow: rgba(0, 0, 0,=
+ 0.1) 0px 4px 6px; }
+
+.transaction-log-section h3 { display: flex; align-items: center; gap: 0.5r=
+em; margin: 0px 0px 1rem; color: rgb(45, 55, 72); font-size: 1.25rem; font-=
+weight: 600; }
+
+.transaction-log { background: rgb(26, 32, 44); border-radius: 8px; padding=
+: 1rem; font-family: Consolas, Monaco, "Courier New", monospace; font-size:=
+ 0.875rem; line-height: 1.4; max-height: 400px; overflow-y: auto; border: 1=
+px solid rgb(45, 55, 72); }
+
+.log-line { color: rgb(226, 232, 240); margin-bottom: 0.25rem; white-space:=
+ pre-wrap; }
+
+.log-line.date-header { color: rgb(129, 199, 132); font-weight: bold; margi=
+n: 0.5rem 0px; border-bottom: 1px solid rgb(74, 85, 104); padding-bottom: 0=
+.25rem; }
+
+.log-line.action { color: rgb(255, 183, 77); font-weight: 500; margin-left:=
+ 1rem; }
+
+.log-line.info { color: rgb(100, 181, 246); margin-left: 1rem; font-style: =
+italic; }
+
+.enhanced-transactions-table { background: white; border: 1px solid rgb(226=
+, 232, 240); border-radius: 8px; overflow: auto hidden; }
+
+.enhanced-transactions-table .table-header { display: grid; grid-template-c=
+olumns: 100px 120px 90px 180px 180px 90px 90px 180px 90px 100px 100px 100px=
+ 100px 100px 100px; gap: 1rem; padding: 1rem 0.5rem; background: rgb(247, 2=
+50, 252); font-weight: 600; color: rgb(74, 85, 104); border-bottom: 1px sol=
+id rgb(226, 232, 240); font-size: 0.85rem; min-width: 1600px; }
+
+.enhanced-transactions-table .table-row { display: grid; grid-template-colu=
+mns: 100px 120px 90px 180px 180px 90px 90px 180px 90px 100px 100px 100px 10=
+0px 100px 100px; gap: 1rem; padding: 1.25rem 0.5rem; border-bottom: 1px sol=
+id rgb(241, 245, 249); align-items: start; font-size: 0.85rem; min-width: 1=
+600px; }
+
+.enhanced-transactions-table .table-row:last-child { border-bottom: none; }
+
+.enhanced-transactions-table .table-row:hover { background: rgb(248, 250, 2=
+52); }
+
+.lots-column { font-family: Monaco, Consolas, monospace; font-size: 0.8rem;=
+ color: rgb(74, 85, 104); word-break: break-all; }
+
+.oco-details { font-size: 0.8rem; color: rgb(43, 108, 176); overflow-wrap: =
+break-word; }
+
+.trailing-stop-buy-details, .trailing-stop-sell-details { font-size: 0.8rem=
+; line-height: 1.3; }
+
+.trailing-stop-buy-details { color: rgb(43, 108, 176); }
+
+.trailing-stop-sell-details { color: rgb(214, 158, 46); }
+
+.trailing-stop-details-multiline { display: flex; flex-direction: column; g=
+ap: 2px; font-size: 0.75rem; line-height: 1.2; }
+
+.trailing-stop-detail-line { white-space: nowrap; font-weight: 500; }
+
+.transaction-type.oco-limit-buy { color: rgb(49, 151, 149); }
+
+.transaction-type.oco-trailing-buy { color: rgb(30, 144, 255); }
+
+.positive { color: rgb(56, 161, 105); }
+
+.negative { color: rgb(229, 62, 62); }
+
+@media (max-width: 1600px) {
+  .enhanced-transactions-table { overflow-x: scroll; }
+  .enhanced-transactions-table .table-header, .enhanced-transactions-table =
+.table-row { min-width: 1600px; }
+}
+
+@media (max-width: 768px) {
+  .enhanced-transactions-table .table-header { display: none; }
+  .enhanced-transactions-table .table-row { display: block; min-width: auto=
+; padding: 1rem; border: 1px solid rgb(226, 232, 240); border-radius: 8px; =
+margin-bottom: 0.5rem; }
+  .enhanced-transactions-table .table-row > div { margin: 0.5rem 0px; paddi=
+ng: 0.25rem 0px; border-bottom: 1px solid rgb(241, 245, 249); }
+  .enhanced-transactions-table .table-row > div:last-child { border-bottom:=
+ none; }
+  .enhanced-transactions-table .table-row > div::before { content: attr(dat=
+a-label) ': '; font-weight: 600; color: rgb(74, 85, 104); display: inline-b=
+lock; min-width: 120px; }
+}
+
+.results-section { margin-top: 3rem; padding-top: 2rem; border-top: 2px sol=
+id rgb(226, 232, 240); }
+
+.strategy-comparison-section { margin: 2rem 0px; padding: 1.5rem; backgroun=
+d: rgba(255, 255, 255, 0.95); border-radius: 12px; box-shadow: rgba(0, 0, 0=
+, 0.1) 0px 4px 6px; }
+
+.strategy-comparison-section h3 { display: flex; align-items: center; gap: =
+0.75rem; margin: 0px 0px 1.5rem; color: rgb(45, 55, 72); font-size: 1.25rem=
+; font-weight: 600; }
+
+.comparison-grid { display: grid; grid-template-columns: repeat(auto-fit, m=
+inmax(250px, 1fr)); gap: 1rem; }
+
+.comparison-card { background: white; border: 1px solid rgb(226, 232, 240);=
+ border-radius: 8px; padding: 1.25rem; text-align: center; box-shadow: rgba=
+(0, 0, 0, 0.05) 0px 2px 4px; transition: transform 0.2s, box-shadow 0.2s; }
+
+.comparison-card:hover { transform: translateY(-2px); box-shadow: rgba(0, 0=
+, 0, 0.1) 0px 4px 12px; }
+
+.comparison-card h4 { margin: 0px 0px 0.75rem; color: rgb(74, 85, 104); fon=
+t-size: 0.9rem; font-weight: 600; text-transform: uppercase; letter-spacing=
+: 0.5px; }
+
+.comparison-card .value { font-size: 1.8rem; font-weight: 700; margin: 0px =
+0px 0.5rem; }
+
+.comparison-card small { color: rgb(113, 128, 150); font-size: 0.85rem; }
+
+.comparison-card.buy-hold { border-left: 4px solid rgb(245, 158, 11); }
+
+.comparison-card.outperformance { border-left: 4px solid rgb(139, 92, 246);=
+ }
+
+@media (max-width: 768px) {
+  .comparison-grid { grid-template-columns: 1fr; }
+}
+
+.questionable-events-section { background: rgba(251, 178, 60, 0.1); border:=
+ 1px solid rgb(251, 191, 36); border-radius: 8px; padding: 1.5rem; }
+
+.questionable-events-section h3 { color: rgb(146, 64, 14); }
+
+.questionable-events-table { display: block; background: white; border-radi=
+us: 8px; overflow: hidden; box-shadow: rgba(0, 0, 0, 0.1) 0px 2px 4px; }
+
+.questionable-events-table .table-header { display: grid; grid-template-col=
+umns: 100px 150px 2fr 80px; gap: 1rem; padding: 1rem; background: rgb(247, =
+250, 252); border-bottom: 1px solid rgb(226, 232, 240); font-weight: 600; c=
+olor: rgb(45, 55, 72); }
+
+.questionable-events-table .table-row { display: grid; grid-template-column=
+s: 100px 150px 2fr 80px; gap: 1rem; padding: 1rem; border-bottom: 1px solid=
+ rgb(226, 232, 240); }
+
+.questionable-events-table .table-row:last-child { border-bottom: none; }
+
+.questionable-events-table .table-row.warning { background: rgba(251, 191, =
+36, 0.05); }
+
+.questionable-events-table .table-row.error { background: rgba(239, 68, 68,=
+ 0.05); }
+
+.questionable-events-table .severity { padding: 0.25rem 0.5rem; border-radi=
+us: 4px; font-size: 0.875rem; font-weight: 600; text-align: center; }
+
+.questionable-events-table .severity.warning { background: rgb(251, 191, 36=
+); color: rgb(146, 64, 14); }
+
+.questionable-events-table .severity.error { background: rgb(239, 68, 68); =
+color: white; }
+
+.mode-selection { display: grid; grid-template-columns: 1fr 1fr; gap: 1rem;=
+ margin-bottom: 2rem; }
+
+.mode-option { display: flex; flex-direction: column; align-items: center; =
+gap: 0.5rem; padding: 1.5rem; border: 2px solid rgb(226, 232, 240); border-=
+radius: 12px; background: white; cursor: pointer; transition: 0.2s; text-al=
+ign: center; }
+
+.mode-option:hover { border-color: rgb(102, 126, 234); box-shadow: rgba(102=
+, 126, 234, 0.15) 0px 4px 12px; }
+
+.mode-option.active { border-color: rgb(102, 126, 234); background: linear-=
+gradient(135deg, rgb(102, 126, 234) 0%, rgb(118, 75, 162) 100%); color: whi=
+te; }
+
+.mode-option input[type=3D"radio"] { display: none; }
+
+.mode-option span { font-size: 1.1rem; font-weight: 600; }
+
+.mode-option p { margin: 0px; font-size: 0.9rem; opacity: 0.8; }
+
+.symbols-selection .checkbox-grid { display: grid; grid-template-columns: r=
+epeat(auto-fit, minmax(100px, 1fr)); gap: 0.5rem; margin: 0.5rem 0px; }
+
+.checkbox-item { display: flex; align-items: center; gap: 0.5rem; padding: =
+0.5rem; background: rgb(247, 250, 252); border: 1px solid rgb(226, 232, 240=
+); border-radius: 6px; cursor: pointer; transition: 0.2s; font-size: 0.9rem=
+; }
+
+.checkbox-item:hover { background: rgb(237, 242, 247); border-color: rgb(20=
+3, 213, 224); }
+
+.checkbox-item input[type=3D"checkbox"]:checked + span { font-weight: 600; =
+color: rgb(102, 126, 234); }
+
+.batch-parameters { display: flex; flex-direction: column; gap: 2rem; }
+
+.parameter-range { background: rgb(247, 250, 252); border: 1px solid rgb(22=
+6, 232, 240); border-radius: 8px; padding: 1.5rem; }
+
+.parameter-range label { display: block; font-weight: 600; color: rgb(45, 5=
+5, 72); margin-bottom: 1rem; }
+
+.parameter-range .checkbox-grid { display: grid; grid-template-columns: rep=
+eat(auto-fill, minmax(80px, 1fr)); gap: 0.5rem; }
+
+.batch-info { margin-top: 1rem; }
+
+.selection-controls { display: flex; gap: 0.5rem; margin-bottom: 1rem; just=
+ify-content: flex-start; }
+
+.control-button { padding: 0.5rem 1rem; border: 1px solid rgb(102, 126, 234=
+); background: white; color: rgb(102, 126, 234); border-radius: 6px; cursor=
+: pointer; font-size: 0.875rem; font-weight: 500; transition: 0.2s; }
+
+.control-button:hover { background: rgb(102, 126, 234); color: white; box-s=
+hadow: rgba(102, 126, 234, 0.2) 0px 2px 4px; }
+
+.control-button:active { transform: translateY(1px); }
+
+.batch-results { max-width: min(1600px, 95vw); margin: 0px auto; padding: 2=
+rem; }
+
+.results-header { display: flex; justify-content: space-between; align-item=
+s: center; margin-bottom: 2rem; padding-bottom: 1rem; border-bottom: 2px so=
+lid rgb(226, 232, 240); }
+
+.results-header h2 { display: flex; align-items: center; gap: 0.5rem; margi=
+n: 0px; color: rgb(45, 55, 72); }
+
+.execution-stats { display: flex; gap: 1rem; font-size: 0.9rem; }
+
+.execution-stats span { padding: 0.25rem 0.5rem; background: rgb(247, 250, =
+252); border-radius: 4px; border: 1px solid rgb(226, 232, 240); }
+
+.summary-section { margin-bottom: 2rem; }
+
+.summary-section h3 { color: rgb(45, 55, 72); margin-bottom: 1rem; }
+
+.metrics-grid { display: grid; grid-template-columns: repeat(auto-fit, minm=
+ax(250px, 1fr)); gap: 1rem; margin-bottom: 1rem; }
+
+.metric-card { display: flex; align-items: center; gap: 1rem; background: w=
+hite; padding: 1.5rem; border-radius: 8px; box-shadow: rgba(0, 0, 0, 0.1) 0=
+px 2px 4px; border: 1px solid rgb(226, 232, 240); }
+
+.metric-card svg { color: rgb(102, 126, 234); flex-shrink: 0; }
+
+.metric-card div { display: flex; flex-direction: column; gap: 0.25rem; }
+
+.metric-label { font-size: 0.875rem; color: rgb(113, 128, 150); font-weight=
+: 500; }
+
+.metric-value { font-size: 1.5rem; font-weight: 700; color: rgb(45, 55, 72)=
+; }
+
+.best-result-section { margin-bottom: 2rem; }
+
+.best-result-card { background: linear-gradient(135deg, rgb(102, 126, 234) =
+0%, rgb(118, 75, 162) 100%); color: white; padding: 2rem; border-radius: 12=
+px; box-shadow: rgba(102, 126, 234, 0.3) 0px 4px 12px; }
+
+.best-result-header { display: flex; justify-content: space-between; align-=
+items: center; margin-bottom: 1.5rem; }
+
+.best-result-header h4 { margin: 0px; font-size: 1.5rem; }
+
+.return-badge { background: rgba(255, 255, 255, 0.2); padding: 0.5rem 1rem;=
+ border-radius: 20px; font-weight: 600; }
+
+.best-params { display: grid; grid-template-columns: repeat(auto-fit, minma=
+x(150px, 1fr)); gap: 1rem; margin-bottom: 1.5rem; }
+
+.param-group { display: flex; justify-content: space-between; padding: 0.5r=
+em; background: rgba(255, 255, 255, 0.1); border-radius: 6px; }
+
+.performance-summary { display: grid; grid-template-columns: repeat(auto-fi=
+t, minmax(200px, 1fr)); gap: 1rem; }
+
+.perf-metric { display: flex; align-items: center; gap: 0.5rem; font-size: =
+0.9rem; }
+
+.stock-best-section { margin-bottom: 2rem; }
+
+.stock-best-grid { display: grid; grid-template-columns: repeat(auto-fit, m=
+inmax(300px, 1fr)); gap: 1rem; }
+
+.stock-best-card { background: white; border: 1px solid rgb(226, 232, 240);=
+ border-radius: 8px; padding: 1.5rem; box-shadow: rgba(0, 0, 0, 0.05) 0px 2=
+px 4px; }
+
+.stock-header { display: flex; justify-content: space-between; align-items:=
+ center; margin-bottom: 1rem; padding-bottom: 0.5rem; border-bottom: 1px so=
+lid rgb(226, 232, 240); }
+
+.stock-header h4 { margin: 0px; color: rgb(45, 55, 72); }
+
+.stock-returns { display: flex; flex-direction: column; gap: 0.25rem; font-=
+size: 0.8rem; }
+
+.best-params-section { margin-bottom: 1rem; }
+
+.best-params-section h5 { margin: 0px 0px 0.5rem; font-size: 0.9rem; color:=
+ rgb(74, 85, 104); }
+
+.mini-params { display: grid; grid-template-columns: repeat(2, 1fr); gap: 0=
+.25rem; font-size: 0.75rem; }
+
+.mini-params span { padding: 0.25rem; background: rgb(247, 250, 252); borde=
+r-radius: 3px; text-align: center; }
+
+.detailed-results-section { margin-bottom: 2rem; }
+
+.results-controls { display: flex; justify-content: space-between; align-it=
+ems: center; margin-bottom: 1rem; }
+
+.results-controls h3 { margin: 0px; color: rgb(45, 55, 72); }
+
+.stock-filter { display: flex; align-items: center; gap: 0.5rem; }
+
+.stock-filter select { padding: 0.5rem; border: 1px solid rgb(226, 232, 240=
+); border-radius: 4px; background: white; }
+
+.results-table-container { background: white; border-radius: 8px; box-shado=
+w: rgba(0, 0, 0, 0.1) 0px 2px 4px; border: 1px solid rgb(226, 232, 240); ov=
+erflow: auto hidden; }
+
+.results-table { width: 100%; border-collapse: collapse; font-size: 0.875re=
+m; }
+
+.results-table th { background: rgb(247, 250, 252); padding: 1rem 0.75rem; =
+text-align: left; font-weight: 600; color: rgb(45, 55, 72); border-bottom: =
+2px solid rgb(226, 232, 240); white-space: nowrap; }
+
+.results-table td { padding: 0.75rem; border-bottom: 1px solid rgb(226, 232=
+, 240); }
+
+.results-table tr:hover { background: rgb(247, 250, 252); }
+
+.results-table .top-result { background: rgba(102, 126, 234, 0.05); }
+
+.results-table .stock-cell { font-weight: 600; color: rgb(102, 126, 234); }
+
+.results-table .return-cell.positive { color: rgb(56, 161, 105); font-weigh=
+t: 600; }
+
+.results-table .return-cell.negative { color: rgb(229, 62, 62); font-weight=
+: 600; }
+
+.results-table .drawdown-cell { color: rgb(229, 62, 62); }
+
+.table-footer { padding: 1rem; text-align: center; background: rgb(247, 250=
+, 252); border-top: 1px solid rgb(226, 232, 240); font-size: 0.875rem; colo=
+r: rgb(113, 128, 150); }
+
+.report-explanation { background: rgb(247, 250, 252); padding: 2rem; border=
+-radius: 8px; border: 1px solid rgb(226, 232, 240); }
+
+.report-explanation h3 { margin-top: 0px; color: rgb(45, 55, 72); }
+
+.explanation-grid { display: grid; grid-template-columns: repeat(auto-fit, =
+minmax(300px, 1fr)); gap: 1rem; }
+
+.explanation-item { background: white; padding: 1rem; border-radius: 6px; b=
+order: 1px solid rgb(226, 232, 240); }
+
+.explanation-item strong { color: rgb(45, 55, 72); }
+
+.parameters-grid { display: grid; grid-template-columns: repeat(auto-fit, m=
+inmax(300px, 1fr)); gap: 1rem; margin: 1.5rem 0px; }
+
+.parameter-card { display: flex; justify-content: space-between; align-item=
+s: center; padding: 0.75rem 1rem; background: rgb(247, 250, 252); border: 1=
+px solid rgb(226, 232, 240); border-radius: 6px; }
+
+.parameter-label { font-weight: 600; color: rgb(74, 85, 104); font-size: 0.=
+875rem; }
+
+.parameter-value { font-weight: 500; color: rgb(45, 55, 72); font-size: 0.8=
+75rem; text-align: right; }
+------MultipartBoundary--NeRqNacFpMOLpZS3Dkr2ENNfDWbOZ7zxcPypiCC0Wb----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-0105c2da-ba6c-466d-baad-e3dae05a7599@mhtml.blink
+
+@charset "utf-8";
+
+* { margin: 0px; padding: 0px; box-sizing: border-box; }
+
+html { scroll-behavior: smooth; }
+
+html, body { height: 100%; }
+
+body { margin: 0px; font-family: -apple-system, BlinkMacSystemFont, "Segoe =
+UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helveti=
+ca Neue", sans-serif; -webkit-font-smoothing: antialiased; background-color=
+: rgb(245, 245, 245); color: rgb(51, 51, 51); }
+
+code { font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New"=
+, monospace; }
+
+.container { max-width: 1200px; margin: 0px auto; padding: 20px; }
+
+.loading { display: flex; justify-content: center; align-items: center; pad=
+ding: 40px; color: rgb(102, 102, 102); }
+
+.error { background-color: rgb(255, 238, 238); border: 1px solid rgb(255, 2=
+04, 204); color: rgb(204, 51, 51); padding: 15px; border-radius: 4px; margi=
+n: 10px 0px; }
+
+.success { background-color: rgb(238, 255, 238); border: 1px solid rgb(204,=
+ 255, 204); color: rgb(51, 102, 51); padding: 15px; border-radius: 4px; mar=
+gin: 10px 0px; }
+------MultipartBoundary--NeRqNacFpMOLpZS3Dkr2ENNfDWbOZ7zxcPypiCC0Wb----
+Content-Type: text/css
+Content-Transfer-Encoding: quoted-printable
+Content-Location: cid:css-c8edce09-53ab-4794-894f-905fb196963d@mhtml.blink
+
+@charset "utf-8";
+
+body { margin: 0px; font-family: -apple-system, BlinkMacSystemFont, "Segoe =
+UI", Roboto, Oxygen, Ubuntu, Cantarell, "Fira Sans", "Droid Sans", "Helveti=
+ca Neue", sans-serif; -webkit-font-smoothing: antialiased; }
+
+code { font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New"=
+, monospace; }
+
+#loading-screen { position: fixed; top: 0px; left: 0px; width: 100%; height=
+: 100%; background: linear-gradient(135deg, rgb(102, 126, 234) 0%, rgb(118,=
+ 75, 162) 100%); display: flex; flex-direction: column; justify-content: ce=
+nter; align-items: center; z-index: 9999; }
+
+.loading-content { text-align: center; color: white; }
+
+.loading-spinner { width: 40px; height: 40px; border-width: 4px; border-sty=
+le: solid; border-color: white rgba(255, 255, 255, 0.3) rgba(255, 255, 255,=
+ 0.3); border-image: initial; border-radius: 50%; animation: 1s linear 0s i=
+nfinite normal none running spin; margin-bottom: 1rem; }
+
+@keyframes spin {=20
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.loading-text { font-size: 1.2rem; font-weight: 600; margin: 0px; }
+
+.loading-subtext { font-size: 0.9rem; opacity: 0.8; margin: 0.5rem 0px 0px;=
+ }
+------MultipartBoundary--NeRqNacFpMOLpZS3Dkr2ENNfDWbOZ7zxcPypiCC0Wb------
